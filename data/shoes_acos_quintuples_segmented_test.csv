@@ -1,0 +1,517 @@
+Sentence,Aspect,Category,Opinion,Polarity,Implicitness
+the design is great poor color choices too bland .,null,appearance#form,design is great,positive,IAEO
+the design is great poor color choices too bland .,null,appearance#color,poor color choices,negative,IAEO
+color choices from previous shoes was much better .,shoes,appearance#color,color choices from previous shoes was much better,negative,EAEO
+usually wear size 10 on pr1 .,pr1,performance#sizing/fit,usually wear size 10,neutral,EAEO
+should get 1 size bigger for comfort,null,performance#sizing/fit,should get 1 size bigger for comfort,neutral,IAEO
+these shoes are awesome !,shoes,general,are awesome,positive,EAEO
+very comfortable !,null,performance#comfort,very comfortable,positive,IAEO
+and they are true to size !,null,performance#sizing/fit,true to size,positive,IAEO
+"i ordered a 9 1 / 2 4e , same size as my 623 and 608 sneakers , which fit perfectly .",623 and 608 sneakers,performance#sizing/fit,fit perfectly,positive,EAEO
+"i ordered a 9 1 / 2 4e , same size as my 623 and 608 sneakers , which fit perfectly .",null,contextofuse#purchase\_context,ordered a 9 1 / 2 4e,neutral,IAEO
+i couldn ' t get my foot into it !,null,performance#sizing/fit,i couldn ' t get my foot into it,negative,IAEO
+why can ' t you make a golf shoe from the same last as your sneakers ?,golf shoe,appearance#form,why can ' t you make a golf shoe from the same last as your sneakers,negative,EAEO
+"other than that , it ' s a looks well constructed , would love a pair that fits like my sneakers !",sneakers,performance#sizing/fit,would love a pair that fits,negative,EAEO
+"other than that , it ' s a looks well constructed , would love a pair that fits like my sneakers !",sneakers,appearance#misc,looks well constructed,positive,EAEO
+ultimately sent these back .,null,cost/value,ultimately sent these back,negative,IAEO
+cute though .,null,appearance#general,cute though,positive,IAEO
+this shoe is just roomier all around .,shoe,performance#sizing/fit,is just roomier all around,neutral,EAEO
+it slips off a little when i walk .,null,performance#support/stability,it slips off a little when i walk,negative,IAEO
+i have a wider foot than many and this just feel so bit .,null,performance#sizing/fit,have a wider foot than many and this just feel so bit,negative,IAEO
+i got a half size smaller than usual and length - wise it fits good .,null,performance#sizing/fit,i got a half size smaller than usual and length - wise it fits good .,positive,IAEO
+i love the style of it in person !,null,appearance#form,i love the style of it in person,positive,IAEO
+i like the fit and cimfort .,null,performance#comfort,i like the fit and cimfort .,positive,IAEO
+i like the fit and cimfort .,null,performance#sizing/fit,i like the fit,positive,IAEO
+"not 100 % satisfied with the style , ithe fabric sits loose across the top of the foot",null,appearance#general,not 100 % satisfied with the style,negative,IAEO
+"not 100 % satisfied with the style , ithe fabric sits loose across the top of the foot",fabric,appearance#shoe component,fabric sits loose across the top of the foot,negative,EAEO
+"not 100 % satisfied with the style , ithe fabric sits loose across the top of the foot",null,appearance#material,fabric sits loose across the top of the foot,negative,IAEO
+i didn ' t like the shoes at all .,shoes,general,i didn ' t like the shoes at all,negative,EAEO
+"the material felt very cheap , but the shoes were very light .",null,appearance#material,the material felt very cheap,negative,IAEO
+"the material felt very cheap , but the shoes were very light .",null,performance#general,the shoes were very light,positive,IAEO
+"amazing shoes , great price .",shoes,general,amazing,positive,EAEO
+"amazing shoes , great price .",shoes,cost/value,great price,positive,EAEO
+"i only wear adidas so , perfect as usual .",adidas,general,perfect as usual,positive,EAEO
+beautiful kicks and will never need laces again .,kicks,appearance#general,beautiful,positive,EAEO
+beautiful kicks and will never need laces again .,kicks,appearance#form,never need laces again,positive,EAEO
+"however , they are not true to size , oddly wide and misshapped .",null,performance#sizing/fit,not true to size,negative,IAEO
+"however , they are not true to size , oddly wide and misshapped .",null,appearance#form,oddly wide and misshapped,negative,IAEO
+comfortable but huge - like boats .,null,performance#comfort,comfortable,positive,IAEO
+comfortable but huge - like boats .,null,performance#sizing/fit,but huge,negative,IAEO
+"both my mother and i bought these shoes in our respectable size , and they didn ' t fit us .",shoes,performance#sizing/fit,didn ' t fit us,negative,EAEO
+the opening to the show is too narrow for a foot to go in .,opening to the show,appearance#form,too narrow for a foot to go in,negative,EAEO
+the opening to the show is too narrow for a foot to go in .,opening to the show,performance#sizing/fit,too narrow for a foot to go in,negative,EAEO
+very disappointing !,null,general,very disappointing !,negative,IAEO
+"needed new shoes so i bought these online , reviews looked fine and i haven ' t had a problem with adidas before .",shoes,contextofuse#purchase\_context,"needed new shoes so i bought these online , reviews looked fine and i haven ' t had a problem with adidas before",positive,EAEO
+tried them on and felt fine .,null,performance#sizing/fit,tried them on and felt fine,positive,IAEO
+however .,null,general,however,negative,IAEO
+"after working a shift , i can confirm that these are the most uncomfortable shoes , i ' ve ever worn .",shoes,contextofuse#use case,after working a shift,neutral,EAEO
+"after working a shift , i can confirm that these are the most uncomfortable shoes , i ' ve ever worn .",shoes,performance#comfort,"i can confirm that these are the most uncomfortable shoes , i ' ve ever worn",negative,EAEO
+"i worked a 7 hour shift and by the 3rd hour , my feet were killing me .",null,performance#comfort,"i worked a 7 hour shift and by the 3rd hour , my feet were killing me",negative,IAEO
+"i worked a 7 hour shift and by the 3rd hour , my feet were killing me .",null,performance#use case applicability,"i worked a 7 hour shift and by the 3rd hour , my feet were killing me",negative,IAEO
+do not buy these shoes !,shoes,cost/value,do not buy these,negative,EAEO
+i love them im a caregiver so i ' m on my feet all day and they are so comfortable,null,general,i love them,positive,IAEO
+i love them im a caregiver so i ' m on my feet all day and they are so comfortable,null,contextofuse#use case,im a caregiver so i ' m on my feet all day,neutral,IAEO
+i love them im a caregiver so i ' m on my feet all day and they are so comfortable,null,performance#comfort,they are so comfortable,positive,IAEO
+i like adidas products .,null,cost/value,like adidas products,positive,IAEO
+"but , this shoe is difficult for me to put on .",shoe,performance#sizing/fit,difficult for me to put on,negative,EAEO
+takes more time and effort than i would like to get in to .,null,performance#sizing/fit,takes more time and effort than i would like to get in to,negative,IAEO
+"once its on , comfortable , a little more snug than i would like but overall , a sharp functional sneaker .",sneaker,performance#comfort,comfortable,positive,EAEO
+"once its on , comfortable , a little more snug than i would like but overall , a sharp functional sneaker .",sneaker,performance#sizing/fit,little more snug than i would like,negative,EAEO
+"once its on , comfortable , a little more snug than i would like but overall , a sharp functional sneaker .",sneaker,performance#general,"overall , a sharp functional",positive,EAEO
+"once its on , comfortable , a little more snug than i would like but overall , a sharp functional sneaker .",sneaker,appearance#general,"overall , a sharp functional",positive,EAEO
+these are comfortable enough but they are difficult to get on .,null,performance#comfort,these are comfortable,positive,IAEO
+these are comfortable enough but they are difficult to get on .,null,appearance#form,they are difficult to get on,negative,IAEO
+"i was looking for something easy to slip on , seems the heel of the shoe is more trouble than shoestrings .",shoe,contextofuse#purchase\_context,i was looking for something easy to slip on,neutral,EAEO
+"i was looking for something easy to slip on , seems the heel of the shoe is more trouble than shoestrings .",heel,appearance#shoe component,more trouble than shoestrings,negative,EAEO
+shoes is comfortable & true to size .,shoes,performance#comfort,comfortable,positive,EAEO
+shoes is comfortable & true to size .,shoes,performance#sizing/fit,true to size,positive,EAEO
+glad i purchased one .,purchased,cost/value,glad i purchased,positive,EAEO
+good for around the house .,null,contextofuse#place,good for around the house,positive,IAEO
+good for around the house .,null,contextofuse#use case,good for around the house,positive,IAEO
+"if your looking to exercise in these , i would recommend something else .",exercise,performance#use case applicability,i would recommend something else,negative,EAEO
+not too supportive and the sole is thin and flat .,the sole,appearance#shoe component,thin and flat,negative,EAEO
+not too supportive and the sole is thin and flat .,null,performance#support/stability,not too supportive,negative,IAEO
+not much of an arch either .,arch,appearance#shoe component,not much of an arch either,negative,EAEO
+not much of an arch either .,null,performance#support/stability,not much of an arch either,negative,IAEO
+"they are not slip on and go , you have to have strong fingers to wrangle on the heel !",null,performance#sizing/fit,"not slip on and go , you have to have strong fingers to wrangle on the heel",negative,IAEO
+i recommend these shoes .,shoes,cost/value,i recommend,positive,EAEO
+"however , the position of the velcro on the left and right shoes is different .",velcro,appearance#shoe component,position of the velcro on the left and right shoes is different,negative,EAEO
+this is a great shoe to wear on a regular day basis .,shoe,contextofuse#usage frequency,wear on a regular day basis,positive,EAEO
+"also , if you cheer or dance this is a comfortable shoe for those type of activities !",shoe,performance#use case applicability,cheer or dance this is a comfortable shoe for those type of activities,positive,EAEO
+these shoes look and feel cheap .,shoes,cost/value,look and feel cheap,negative,EAEO
+these shoes look and feel cheap .,shoes,appearance#misc,look and feel cheap,negative,EAEO
+nothing like the originals .,null,general,nothing like the originals,negative,IAEO
+nothing like the originals .,null,contextofuse#review\_temporality,nothing like the originals,negative,IAEO
+"sizing is off , returning these .",null,performance#sizing/fit,sizing is off,negative,IAEO
+"sizing is off , returning these .",null,contextofuse#purchase\_context,returning these,negative,IAEO
+the shoe i purchased runs small .,shoe,performance#sizing/fit,runs small,negative,EAEO
+order a size or two bigger than normal size .,null,performance#sizing/fit,a size or two bigger than normal size,negative,IAEO
+they also need to adjust the return and exchange date .,null,cost/value,need to adjust the return and exchange date,negative,IAEO
+they also need to adjust the return and exchange date .,null,contextofuse#purchase\_context,need to adjust the return and exchange date,negative,IAEO
+"otherwise , the shoe is a classic .",shoe,appearance#general,"otherwise , the shoe is a classic",positive,EAEO
+i have been wearing them for 30 years .,null,contextofuse#usage frequency,been wearing them for 30 years,positive,IAEO
+gives me the support i was looking for .,null,performance#support/stability,gives me the support,positive,IAEO
+every thing about my order went accordingly received my order earlier than expected .,order,contextofuse#purchase\_context,every thing about my order went accordingly received my order earlier than expected,positive,EAEO
+i will definitely order online again,order,contextofuse#purchase\_context,i will definitely order online again,positive,EAEO
+shoes are comfortable but have glue all over .,shoes,performance#comfort,comfortable,positive,EAEO
+shoes are comfortable but have glue all over .,shoes,appearance#material,have glue all over,negative,EAEO
+not happy about that at all .,null,general,not happy about that at all,negative,IAEO
+the lie about the sizes i ordered a 9 and them shoes were so tight i gave them to my daughter .,shoes,contextofuse#purchase\_context,lie about the sizes i ordered,negative,EAEO
+the lie about the sizes i ordered a 9 and them shoes were so tight i gave them to my daughter .,shoes,performance#sizing/fit,lie about the sizes i ordered,negative,EAEO
+the lie about the sizes i ordered a 9 and them shoes were so tight i gave them to my daughter .,shoes,performance#sizing/fit,so tight,negative,EAEO
+i well never never never buy them .,null,cost/value,i well never never never buy them,negative,IAEO
+i ' ve always admired these so i finally got a pair .,pair,contextofuse#purchase\_context,always admired these so i finally got a pair,neutral,EAEO
+well they didn ' t fit .,null,performance#sizing/fit,didn ' t fit,negative,IAEO
+these are very tight and snugged fitting .,null,performance#sizing/fit,very tight and snugged fitting,negative,IAEO
+"if you have a fat foot or anything other than slim , then this is not the shoe for you .",shoe,performance#sizing/fit,"fat foot or anything other than slim , then this is not the shoe for you",negative,EAEO
+i gave this rating due to receiving my order almost a month later .,null,contextofuse#purchase\_context,i gave this rating due to receiving my order almost a month later,negative,IAEO
+"it was a christmas gift , so it was a late gift .",null,contextofuse#purchase\_context,"it was a christmas gift , so it was a late gift",negative,IAEO
+initially they sent me two different sizes .,null,contextofuse#purchase\_context,initially they sent me two different sizes,negative,IAEO
+i was not contacted in regards of the situation .,null,contextofuse#purchase\_context,i was not contacted in regards of the situation,negative,IAEO
+the slides are narrower than other adidas pairs that i own .,slides,appearance#form,narrower than other adidas pairs,neutral,EAEO
+comfortable and stylish .,null,appearance#general,stylish,positive,IAEO
+comfortable and stylish .,null,performance#comfort,comfortable,positive,IAEO
+while these slides are very attractive they are also rather stiff .,slides,appearance#general,very attractive,positive,EAEO
+while these slides are very attractive they are also rather stiff .,slides,performance#comfort,rather stiff,negative,EAEO
+while these slides are very attractive they are also rather stiff .,slides,appearance#material,rather stiff,negative,EAEO
+the top of the slide does not have enough suppleness to conform to your foot .,top of the slide,appearance#shoe component,not have enough suppleness to conform,negative,EAEO
+the top of the slide does not have enough suppleness to conform to your foot .,top of the slide,appearance#material,not have enough suppleness to conform,negative,EAEO
+the top of the slide does not have enough suppleness to conform to your foot .,top of the slide,performance#comfort,not have enough suppleness to conform,negative,EAEO
+i ended up giving these to my gf .,null,cost/value,ended up giving these to my gf,neutral,IAEO
+they are a little short and very very narrow .,null,appearance#form,they are a little short and very very narrow,negative,IAEO
+i didn ' t want to return them because that ' s a pain .,null,contextofuse#purchase\_context,didn ' t want to return them because that ' s a pain,negative,IAEO
+love adidas .,adidas,general,love adidas,positive,EAEO
+not sure these are winners though .,null,general,not sure these are winners,negative,IAEO
+nice looking slides .,slides,appearance#general,nice looking,positive,EAEO
+but they ' re too narrow .,null,performance#sizing/fit,they ' re too narrow,negative,IAEO
+go up 1 / 2 size .,null,performance#sizing/fit,go up 1 / 2 size,negative,IAEO
+i purchased the shoes based on a review that they were very comfortable and good for walking .,shoes,contextofuse#purchase\_context,based on a review,neutral,EAEO
+the shoes are not easy to get on without using my fingers as a shoe horn and are somewhat comfortable for walking .,shoes,performance#sizing/fit,not easy to get on,negative,EAEO
+the shoes are not easy to get on without using my fingers as a shoe horn and are somewhat comfortable for walking .,shoes,appearance#form,not easy to get on,negative,EAEO
+the shoes are not easy to get on without using my fingers as a shoe horn and are somewhat comfortable for walking .,shoes,performance#comfort,somewhat comfortable for walking,positive,EAEO
+the shoes are not easy to get on without using my fingers as a shoe horn and are somewhat comfortable for walking .,shoes,performance#use case applicability,somewhat comfortable for walking,positive,EAEO
+i loved these shoes at first .,shoes,general,i loved these shoes at first,positive,EAEO
+they are super cute shoes and comfortable too .,shoes,appearance#general,super cute,positive,EAEO
+they are super cute shoes and comfortable too .,shoes,performance#comfort,comfortable too,positive,EAEO
+i have owned them for less than a year and there are holes near the toe already .,null,performance#durability,i have owned them for less than a year and there are holes near the toe already,negative,IAEO
+i have owned them for less than a year and there are holes near the toe already .,null,contextofuse#review\_temporality,i have owned them for less than a year and there are holes near the toe already,neutral,IAEO
+they have mostly been worn to work where i sit or stand in one place for prolonged periods .,null,contextofuse#use case,mostly been worn to work,neutral,IAEO
+disappointed that they are falling apart with such little use .,null,performance#durability,disappointed that they are falling apart with such little use,negative,IAEO
+i love the shoe and enjoy how they on my feet .,shoe,general,i love,positive,EAEO
+i love the shoe and enjoy how they on my feet .,shoe,performance#general,enjoy how they on my feet,positive,EAEO
+i also like the design .,null,appearance#general,also like the design,positive,IAEO
+this shoe fits completely different than the last pair of adidas running sneakers i purchased .,shoe,performance#sizing/fit,fits completely different than the last pair of adidas running sneakers,negative,EAEO
+they are very long and a bit too narrow .,null,appearance#form,very long and a bit too narrow,negative,IAEO
+i do love the color scheme and style though .,null,appearance#color,i do love the color scheme and style though,positive,IAEO
+i do love the color scheme and style though .,null,appearance#misc,i do love the color scheme and style though,positive,IAEO
+i loved these shoes at first .,shoes,contextofuse#usage frequency,i loved these shoes at first,negative,EAEO
+they are super cute shoes and comfortable too .,shoes,appearance#general,super cute,positive,EAEO
+they are super cute shoes and comfortable too .,shoes,performance#comfort,comfortable too,positive,EAEO
+i have owned them for less than a year and there are holes near the toe already .,null,performance#durability,holes near the toe,negative,IAEO
+i have owned them for less than a year and there are holes near the toe already .,null,contextofuse#review\_temporality,owned them for less than a year,neutral,IAEO
+they have mostly been worn to work where i sit or stand in one place for prolonged periods .,null,contextofuse#use case,worn to work,neutral,IAEO
+they have mostly been worn to work where i sit or stand in one place for prolonged periods .,work,contextofuse#place,worn to work,neutral,EAEO
+disappointed that they are falling apart with such little use .,null,performance#durability,falling apart with such little use,negative,IAEO
+these shoes are so comfortable !,shoes,performance#comfort,so comfortable,positive,EAEO
+they look good with every athletic outfit and i love pairing them with leggings and a tank top or even a sweatshirt and a tennis skirt .,null,appearance#general,they look good with every athletic outfit,positive,IAEO
+they look good with every athletic outfit and i love pairing them with leggings and a tank top or even a sweatshirt and a tennis skirt .,null,contextofuse#use case,they look good with every athletic outfit,positive,IAEO
+"if you ' re trying to find the perfect white athletic shoe , this is your sign !",shoe,appearance#general,the perfect white athletic shoe,positive,EAEO
+"if you ' re trying to find the perfect white athletic shoe , this is your sign !",shoe,performance#general,the perfect white athletic shoe,positive,EAEO
+here they are !,null,general,here they are,positive,IAEO
+"i love the shoes because not only are they comfortable but they are very stylish , i get tons of compliments .",shoes,general,i love,positive,EAEO
+"i love the shoes because not only are they comfortable but they are very stylish , i get tons of compliments .",shoes,appearance#general,they are very stylish,positive,EAEO
+"i love the shoes because not only are they comfortable but they are very stylish , i get tons of compliments .",shoes,contextofuse#use case,i get tons of compliments,positive,EAEO
+"i love the shoes because not only are they comfortable but they are very stylish , i get tons of compliments .",shoes,performance#comfort,not only are they comfortable,positive,EAEO
+i also have the black and gold pair because of how comfortable they are .,black and gold,appearance#color,i also have the black and gold pair,positive,EAEO
+i also have the black and gold pair because of how comfortable they are .,pair,performance#comfort,how comfortable they are,positive,EAEO
+the design of this shoe is terrible .,shoe,appearance#general,design of this shoe is terrible,negative,EAEO
+the fit is not great either .,null,performance#sizing/fit,fit is not great either,negative,IAEO
+very much dislike this shoe .,shoe,general,very much dislike,negative,EAEO
+i was looking for something lightweight and comfortable for work these babies does the job !,null,appearance#material,lightweight and comfortable for work these babies does the job,positive,IAEO
+i was looking for something lightweight and comfortable for work these babies does the job !,null,contextofuse#purchase\_context,i was looking for something,neutral,IAEO
+i was looking for something lightweight and comfortable for work these babies does the job !,null,performance#comfort,lightweight and comfortable for work these babies does the job,positive,IAEO
+i was looking for something lightweight and comfortable for work these babies does the job !,null,performance#use case applicability,lightweight and comfortable for work these babies does the job,positive,IAEO
+after 16 hours in them my feet doesn ' t hurt at all and has great arch support !,null,performance#comfort,after 16 hours in them my feet doesn ' t hurt at all,positive,IAEO
+after 16 hours in them my feet doesn ' t hurt at all and has great arch support !,null,contextofuse#usage frequency,after 16 hours in them my feet doesn ' t hurt at all,positive,IAEO
+after 16 hours in them my feet doesn ' t hurt at all and has great arch support !,null,performance#support/stability,has great arch support,positive,IAEO
+color was nice size little loose but ok .,null,appearance#color,color was nice,positive,IAEO
+color was nice size little loose but ok .,null,performance#sizing/fit,size little loose but ok,neutral,IAEO
+but too wide from the front and the worst was the it came with the security tag .,front,appearance#shoe component,but too wide from the front,negative,EAEO
+but too wide from the front and the worst was the it came with the security tag .,null,contextofuse#purchase\_context,the worst was the it came with the security tag,negative,IAEO
+my last purchase before this one was like a size smaller so i had to give them away .,null,contextofuse#purchase\_context,my last purchase before this one was like a size smaller so i had to give them away,negative,IAEO
+i will not buy online again to much issues .,null,contextofuse#purchase\_context,i will not buy online again to much issues,negative,IAEO
+these are the widest shoes .,shoes,appearance#form,these are the widest,negative,EAEO
+i have a fairley wide foot but these shoes make my feet feel like they are swimming without water .,shoes,performance#sizing/fit,feel like they are swimming without water,negative,EAEO
+i have a coworker who purchased these shoe as well and she wore them once and retired them bc of the width .,shoe,cost/value,coworker who purchased these shoe as well and she wore them once and retired them bc of the width,negative,EAEO
+i returned mine .,null,cost/value,returned mine,negative,IAEO
+"as an adidas lover , i was super excited to purchase these .",null,contextofuse#purchase\_context,"as an adidas lover , i was super excited to purchase these",positive,IAEO
+i own countless running shoes from this company and have never had an issue like i did with these .,running shoes,contextofuse#purchase\_context,i own countless running shoes from this company,neutral,EAEO
+i own countless running shoes from this company and have never had an issue like i did with these .,running shoes,general,have never had an issue like i did with these,negative,EAEO
+the laces are held together by elastics and after 3 wears the elastic snapped on one shoe making them unwearable .,laces,performance#durability,held together by elastics and after 3 wears the elastic snapped,negative,EAEO
+the laces are held together by elastics and after 3 wears the elastic snapped on one shoe making them unwearable .,laces,appearance#shoe component,held together by elastics and after 3 wears the elastic snapped,negative,EAEO
+"beautiful sneaker , super disappointing quality .",sneaker,appearance#general,beautiful,positive,EAEO
+"beautiful sneaker , super disappointing quality .",sneaker,appearance#misc,super disappointing quality,negative,EAEO
+"i race with the nb fuel cell prism and love the shoe , i would like to purchase the rc elite except they do not come in wide",shoe,performance#use case applicability,i race with the nb fuel cell prism and love,positive,EAEO
+"i race with the nb fuel cell prism and love the shoe , i would like to purchase the rc elite except they do not come in wide",rc elite,contextofuse#purchase\_context,i would like to purchase,positive,EAEO
+"i race with the nb fuel cell prism and love the shoe , i would like to purchase the rc elite except they do not come in wide",rc elite,performance#sizing/fit,do not come in wide,negative,EAEO
+i ordered a 10w and it was definitely not wider than normal .,10w,performance#sizing/fit,it was definitely not wider than normal,negative,EAEO
+it is a very cute boot but i have wide feet and it is not very comfortable for me .,boot,appearance#general,is a very cute,positive,EAEO
+it is a very cute boot but i have wide feet and it is not very comfortable for me .,boot,appearance#form,i have wide feet and it is not very comfortable for me,negative,EAEO
+it is a very cute boot but i have wide feet and it is not very comfortable for me .,boot,performance#comfort,i have wide feet and it is not very comfortable for me,negative,EAEO
+i had to exchange my first order and ordered a size up .,my first order,contextofuse#purchase\_context,had to exchange,negative,EAEO
+then the band of the bigger size sort of cuts into my foot .,band,appearance#shoe component,sort of cuts into my foot,negative,EAEO
+i won ' t return them because i already exchanged for a bigger size but more importantly : it cut into my foot .,null,appearance#form,more importantly : it cut into my foot,negative,IAEO
+i won ' t return them because i already exchanged for a bigger size but more importantly : it cut into my foot .,null,cost/value,i won ' t return them because i already exchanged for a bigger size,negative,IAEO
+"do not buy , these are very hard .",null,appearance#material,"do not buy , these are very hard",negative,IAEO
+find a softer sandal .,sandal,appearance#material,find a softer,negative,EAEO
+i got the pair in my exact shoe size & these are too tight on me .,shoe,performance#sizing/fit,i got the pair in my exact shoe size & these are too tight on me,negative,EAEO
+i can ' t wear them all the way or my feet feel like they ' re being strangled .,null,performance#sizing/fit,my feet feel like they ' re being strangled,negative,IAEO
+i don ' t understand why you ' d make these almost unwearable for the correct size,null,performance#general,i don ' t understand why you ' d make these almost unwearable for the correct size,negative,IAEO
+"it was a little bit uncomfortable at first , maybe because the form was too hard .",null,performance#comfort,it was a little bit uncomfortable at first,negative,IAEO
+"it was a little bit uncomfortable at first , maybe because the form was too hard .",null,appearance#form,because the form was too hard,negative,IAEO
+"a week later , the form became softer so it was good .",null,appearance#form,the form became softer so it was good,positive,IAEO
+"a week later , the form became softer so it was good .",null,performance#comfort,the form became softer so it was good,positive,IAEO
+"a week later , the form became softer so it was good .",null,contextofuse#review\_temporality,a week later,neutral,IAEO
+had to order a larger size than what i normally wear .,null,performance#sizing/fit,had to order a larger size than what i normally wear,neutral,IAEO
+had to order a larger size than what i normally wear .,null,contextofuse#purchase\_context,had to order a larger size than what i normally wear,negative,IAEO
+shoe would be better if offered as an adjustable shoe .,shoe,appearance#form,would be better if offered as an adjustable shoe,neutral,EAEO
+shoe is overpriced for quality .,shoe,cost/value,overpriced for quality,negative,EAEO
+i bought cheaper slides in the past that were more comfortable .,slides,cost/value,i bought cheaper slides in the past that were more comfortable,negative,EAEO
+i bought cheaper slides in the past that were more comfortable .,slides,performance#comfort,i bought cheaper slides in the past that were more comfortable,negative,EAEO
+really small you should go up a size or two .,null,performance#sizing/fit,really small you should go up a size,negative,IAEO
+good material for the top strap .,null,appearance#material,good material for the top strap,positive,IAEO
+good material for the top strap .,top strap,appearance#shoe component,good material for the top strap,positive,EAEO
+comfortable and just as described .,null,performance#comfort,comfortable and just as described,positive,IAEO
+not to big or small .,null,performance#sizing/fit,not to big or small,positive,IAEO
+i must have gotten a defective pair .,pair,performance#durability,i must have gotten a defective,negative,EAEO
+sides of both slides appear to be lifting : / poorly glued together .,sides of both slides,appearance#shoe component,appear to be lifting,negative,EAEO
+sides of both slides appear to be lifting : / poorly glued together .,sides of both slides,appearance#material,poorly glued together,negative,EAEO
+want to return but worried about the hassle of trying to get a better pair reordered .,pair,cost/value,want to return,negative,EAEO
+want to return but worried about the hassle of trying to get a better pair reordered .,pair,contextofuse#purchase\_context,worried about the hassle of trying to get a better pair reordered,negative,EAEO
+they are so comfortable and i love the red .,null,appearance#color,i love the red,positive,IAEO
+they are so comfortable and i love the red .,null,performance#comfort,so comfortable,positive,IAEO
+anything with the trifold i ' m down !,trifold,appearance#shoe component,anything with the trifold i ' m down,positive,EAEO
+met all my needs in a shoe .,shoe,general,met all my needs,positive,EAEO
+very durable and comfy .,null,performance#durability,very durable,positive,IAEO
+very durable and comfy .,null,performance#comfort,and comfy,positive,IAEO
+i wear them all day for work .,null,contextofuse#review\_temporality,wear them all day for work,positive,IAEO
+i wear them all day for work .,null,performance#use case applicability,wear them all day for work,positive,IAEO
+would recommend,null,cost/value,would recommend,positive,IAEO
+i use these shoes just slip on for practical reasons .,shoes,performance#use case applicability,i use these shoes just slip on for practical reasons,positive,EAEO
+running to the store or just for general leisure .,null,contextofuse#use case,running to the store or just for general leisure,neutral,IAEO
+"however , run a little small .",null,performance#sizing/fit,run a little small,negative,IAEO
+"i wear mine without socks , and that solved the size issue .",null,contextofuse#use case,"i wear mine without socks , and that solved the size issue",neutral,IAEO
+this is a really nice shoe .,shoe,general,is a really nice,positive,EAEO
+i bought this product for my husband and he really likes the shoe .,product,contextofuse#purchase\_context,bought this product for my husband,neutral,EAEO
+i bought this product for my husband and he really likes the shoe .,shoe,general,he really likes,positive,EAEO
+glad i stay on this website daily😊,website,contextofuse#purchase\_context,glad i stay on this website daily,positive,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,appearance#color,color on the site has neutral beige / brown tones,neutral,IAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,contextofuse#purchase\_context,color on the site has neutral beige / brown tones,neutral,IAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,appearance#color,"unfortunately , in person the color is all gray",negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,null,appearance#color,don ' t buy if you ' re expecting anything other than bland gray,negative,IAEO
+will be returning immediately .,null,cost/value,will be returning,negative,IAEO
+"my white laces on the nast collab pair have dirt spots on the laces and thread coming out from a lace , out the package like wow the laces are shot and shoe hasn ' t even been worn yet .",white laces,appearance#shoe component,white laces on the nast collab pair have dirt spots,negative,EAEO
+"my white laces on the nast collab pair have dirt spots on the laces and thread coming out from a lace , out the package like wow the laces are shot and shoe hasn ' t even been worn yet .",lace,appearance#shoe component,thread coming out from a lace,negative,EAEO
+"my white laces on the nast collab pair have dirt spots on the laces and thread coming out from a lace , out the package like wow the laces are shot and shoe hasn ' t even been worn yet .",laces,appearance#shoe component,wow the laces are shot and shoe hasn ' t even been worn yet,negative,EAEO
+"my white laces on the nast collab pair have dirt spots on the laces and thread coming out from a lace , out the package like wow the laces are shot and shoe hasn ' t even been worn yet .",shoe,performance#durability,wow the laces are shot and shoe hasn ' t even been worn yet,negative,EAEO
+thought i ' d give reebok a try again because of nast and they threw that out the window .,reebok,cost/value,they threw that out the window,negative,EAEO
+not his fault it ' s reebok and their manufacturer .,reebok,appearance#misc,fault it ' s reebok and their manufacturer,negative,EAEO
+disappointed they ruined this shoe for me i was looking forward to his collab .,shoe,cost/value,disappointed they ruined this shoe for me i was looking forward to his collab,negative,EAEO
+i live in ny i walk a lot but cmon the fabric over the toes needs to be reinforced with leather or something .,fabric over the toes,appearance#shoe component,needs to be reinforced with leather or something,negative,EAEO
+i live in ny i walk a lot but cmon the fabric over the toes needs to be reinforced with leather or something .,fabric over the toes,appearance#material,needs to be reinforced with leather or something,negative,EAEO
+i live in ny i walk a lot but cmon the fabric over the toes needs to be reinforced with leather or something .,null,contextofuse#use case,i live in ny i walk a lot,neutral,IAEO
+my toes immediately have made a hole,toes,appearance#shoe component,my toes immediately have made a hole,negative,EAEO
+my toes immediately have made a hole,null,performance#durability,my toes immediately have made a hole,negative,IAEO
+"i was disappointed in the color , from the pictures the top looks white but it ' s actually blue , which made a difference when i received them .",color,appearance#color,disappointed in the color,negative,EAEO
+i wasn ' t wanting that color scheme .,color scheme,appearance#color,i wasn ' t wanting that,negative,EAEO
+i wasn ' t wanting that color scheme .,color scheme,contextofuse#purchase\_context,i wasn ' t wanting that,negative,EAEO
+"i was disappointed in the color , from the pictures the top looks white but it ' s actually blue , which made a difference when i received them .",null,contextofuse#purchase\_context,"from the pictures the top looks white but it ' s actually blue , which made a difference when i received them",negative,IAEO
+"i was disappointed in the color , from the pictures the top looks white but it ' s actually blue , which made a difference when i received them .",null,appearance#color,"from the pictures the top looks white but it ' s actually blue , which made a difference when i received them",negative,IAEO
+i ' ve been a reebok classic woman for years .,reebok classic,contextofuse#review\_temporality,i ' ve been a reebok classic woman for years,positive,EAEO
+i don ' t wear any other brand of athletic shoes .,athletic shoes,contextofuse#use case,i don ' t wear any other brand of athletic shoes,positive,EAEO
+they are comfortable and easy to walk in .,null,performance#use case applicability,easy to walk in,positive,IAEO
+they are comfortable and easy to walk in .,null,performance#comfort,they are comfortable,positive,IAEO
+"i wear a 1 / 2 "" heel lift in my shoe for balance and these shoes have the perfect depth that keeps the heel of the shoe snug to my feet - no slipping off .",shoes,performance#sizing/fit,perfect depth that keeps the heel of the shoe snug,positive,EAEO
+"i wear a 1 / 2 "" heel lift in my shoe for balance and these shoes have the perfect depth that keeps the heel of the shoe snug to my feet - no slipping off .",shoes,performance#support/stability,no slipping off,positive,EAEO
+too tight and uncomfortable .,null,performance#sizing/fit,too tight,negative,IAEO
+too tight and uncomfortable .,null,performance#comfort,uncomfortable,negative,IAEO
+"tried cushions , still not so good .",null,performance#comfort,"tried cushions , still not so good",negative,IAEO
+these tennis shoes are very comfortable .,shoes,performance#comfort,are very comfortable,positive,EAEO
+i own every color they sale .,color,contextofuse#usage frequency,i own every,positive,EAEO
+i own every color they sale .,color,appearance#color,i own every,positive,EAEO
+i highly recommend them .,null,cost/value,i highly recommend,positive,IAEO
+i need an orthopedic lift in one shoe .,shoe,contextofuse#use case,i need an orthopedic lift in one shoe,neutral,EAEO
+reebox still manufactures a fine shoe which can still be modified .,shoe,appearance#form,reebox still manufactures a fine shoe which can still be modified,positive,EAEO
+reebox still manufactures a fine shoe which can still be modified .,shoe,performance#general,reebox still manufactures a fine shoe which can still be modified,positive,EAEO
+these look awful in the larger sizes .,null,appearance#form,these look awful in the larger sizes,negative,IAEO
+"also , they are undersized , order 1 / 2 size up or go easy on yourself and don ' t order .",null,performance#sizing/fit,"they are undersized , order 1 / 2 size up",negative,IAEO
+"also , they are undersized , order 1 / 2 size up or go easy on yourself and don ' t order .",null,cost/value,go easy on yourself and don ' t order,negative,IAEO
+it ' s a great shoes but need different size .,shoes,general,great,positive,EAEO
+it ' s a great shoes but need different size .,shoes,performance#sizing/fit,but need different size,negative,EAEO
+i recommend it,null,cost/value,recommend it,positive,IAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,appearance#color,"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray",negative,IAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,contextofuse#purchase\_context,"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray",negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,null,appearance#color,don ' t buy if you ' re expecting anything other than bland gray,negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,null,cost/value,don ' t buy if you ' re expecting anything other than bland gray,negative,IAEO
+will be returning immediately .,null,contextofuse#purchase\_context,will be returning immediately,negative,IAEO
+i really like how comfortable these shoes are !,shoes,performance#comfort,i really like how comfortable,positive,EAEO
+i would get them in all colors .,null,appearance#color,would get them in all colors,positive,IAEO
+"still look cool , but not what they used to be .",null,appearance#general,"still look cool , but not what they used to be",neutral,IAEO
+quality has lowered significantly—bummer .,null,appearance#general,quality has lowered significantly—bummer,negative,IAEO
+plus sizing has changed .,plus sizing,performance#sizing/fit,plus sizing has changed,neutral,EAEO
+5 is too small and the 8 is too big .,7 . 5,performance#sizing/fit,is too small,negative,EAEO
+5 is too small and the 8 is too big .,8,performance#sizing/fit,is too big,negative,EAEO
+these are just built differently now and i ' m so sad : (,null,appearance#general,built differently,negative,IAEO
+these are just built differently now and i ' m so sad : (,built,appearance#form,i ' m so sad,negative,EAEO
+these sneakers look great and feel so comfy .,sneakers,appearance#general,look great,positive,EAEO
+these sneakers look great and feel so comfy .,sneakers,performance#comfort,feel so comfy,positive,EAEO
+they fit perfect .,fit,performance#sizing/fit,perfect,positive,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",color,contextofuse#purchase\_context,on the site has neutral beige / brown tones,neutral,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",color,appearance#color,neutral beige / brown tones,neutral,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",color,contextofuse#purchase\_context,"unfortunately , in person the color is all gray",negative,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",color,appearance#color,"unfortunately , in person the color is all gray",negative,EAEO
+don ' t buy if you ' re expecting anything other than bland gray .,null,cost/value,don ' t buy if you ' re expecting anything other than bland gray,negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,bland gray,appearance#color,don ' t buy if you ' re expecting anything other than bland gray,negative,EAEO
+will be returning immediately .,returning,cost/value,will be returning immediately,negative,EAEO
+i ' ve worn these shoes so many times !,shoes,contextofuse#usage frequency,worn these shoes so many times,positive,EAEO
+"they ' re true to size , comfortable and fly .",size,performance#sizing/fit,true,positive,EAEO
+"they ' re true to size , comfortable and fly .",null,performance#comfort,comfortable,positive,IAEO
+"the top was a bit uncomfortable without socks , but jist wear socks .",null,performance#comfort,comfortable,positive,IAEO
+"they ' re true to size , comfortable and fly .",null,appearance#general,fly,positive,IAEO
+perfect fall colors .,fall colors,appearance#color,perfect,positive,EAEO
+"the top was a bit uncomfortable without socks , but jist wear socks .",top,performance#comfort,bit uncomfortable,negative,EAEO
+am returning them and will not be buying these cheap shoes anymore .,shoes,cost/value,cheap,negative,EAEO
+am returning them and will not be buying these cheap shoes anymore .,shoes,contextofuse#purchase\_context,returning,negative,EAEO
+sure don ' t make them like you use to !,null,appearance#misc,don ' t make them like you use to,negative,IAEO
+but i ' d rather have the classic in leather .,leather,appearance#material,i ' d rather have,negative,EAEO
+i would buy many pairs .,pairs,cost/value,i would buy many,positive,EAEO
+every time i put them on i feel like i can run a marathon .,null,performance#use case applicability,feel like i can run a marathon,positive,IAEO
+one of the most best fitting shoes i have true to size,shoes,performance#sizing/fit,most best fitting,positive,EAEO
+one of the most best fitting shoes i have true to size,shoes,performance#sizing/fit,true to size,positive,EAEO
+i really enjoy these shoes .,shoes,general,i really enjoy,positive,EAEO
+they ' re pretty comfortable to wear all day and i really like the classic style .,null,performance#comfort,pretty comfortable to wear all day,positive,IAEO
+they ' re pretty comfortable to wear all day and i really like the classic style .,null,appearance#form,i really like the classic style,positive,IAEO
+would recommend,null,cost/value,would recommend,positive,IAEO
+tried returning my shoes because they were too big but i wasn ' t able to because the website didn ' t let me,returning,contextofuse#purchase\_context,tried returning my shoes because they were too big but i wasn ' t able to because the website didn ' t let me,negative,EAEO
+tried returning my shoes because they were too big but i wasn ' t able to because the website didn ' t let me,shoes,performance#sizing/fit,too big,negative,EAEO
+the size is a half size smaller then what i wear .,the size,performance#sizing/fit,is a half size smaller then what i wear,negative,EAEO
+next time i will need to order a 6 1 / 2 instead of my normal size 6…,size,contextofuse#purchase\_context,next time i will need to order a 6 1 / 2 instead of my normal size 6,negative,EAEO
+next time i will need to order a 6 1 / 2 instead of my normal size 6…,size,performance#sizing/fit,next time i will need to order a 6 1 / 2 instead of my normal size 6,negative,EAEO
+it gets dirty easily but quality is good .,null,appearance#misc,quality is good,positive,IAEO
+it gets dirty easily but quality is good .,null,appearance#material,gets dirty easily,negative,IAEO
+they are comfortable and has a great design .,null,performance#comfort,comfortable,positive,IAEO
+they are comfortable and has a great design .,null,appearance#form,great design,positive,IAEO
+comfortable and timeless .,null,appearance#form,timeless,positive,IAEO
+comfortable and timeless .,null,performance#comfort,comfortable,positive,IAEO
+if you ' re looking for a super comfortable pairs of kicks .,null,performance#comfort,comfortable,positive,IAEO
+if you ' re looking for a super comfortable pairs of kicks .,classic,performance#comfort,super comfortable pairs of kicks,positive,EAEO
+", the classic is the way to go .",classic,performance#general,the way to go,positive,EAEO
+this is my 5th pair of classics .,classics,contextofuse#usage frequency,my 5th pair,positive,EAEO
+i ' ll be buying another pair soon,another pair,cost/value,i ' ll be buying another pair soon,positive,EAEO
+i ordered my size but for me they run small .,null,performance#sizing/fit,i ordered my size but for me they run small,negative,IAEO
+so give yourself some wiggle room and order the 1 / 2 .,null,performance#sizing/fit,so give yourself some wiggle room and order the 1 / 2,negative,IAEO
+so give yourself some wiggle room and order the 1 / 2 .,null,contextofuse#purchase\_context,so give yourself some wiggle room and order the 1 / 2,neutral,IAEO
+way too narrow by the toes .,null,performance#sizing/fit,way too narrow by the toes,negative,IAEO
+way too narrow by the toes .,null,appearance#form,way too narrow by the toes,negative,IAEO
+i ' m reliably a size six and these didn ' t fit me .,null,performance#sizing/fit,i ' m reliably a size six and these didn ' t fit me,negative,IAEO
+i like the shoe itself and want to keep it .,shoe,general,i like the shoe itself and want to keep it,positive,EAEO
+but it is too small and i can ' t find my order number to exchange it,null,performance#sizing/fit,too small,negative,IAEO
+but it is too small and i can ' t find my order number to exchange it,null,contextofuse#purchase\_context,i can ' t find my order number to exchange it,negative,IAEO
+the shoes look amazing but the durability just isn ' t there .,shoes,performance#general,look amazing,positive,EAEO
+the shoes look amazing but the durability just isn ' t there .,shoes,performance#durability,durability just isn ' t there,negative,EAEO
+if you have long toe nails they will poke right through the cheap material along your toe .,null,appearance#material,the cheap material along your toe,negative,IAEO
+"when i put this shoe on my foot it fit , it just didn ' t feel comfortable .",shoe,performance#comfort,just didn ' t feel comfortable,negative,EAEO
+"when i put this shoe on my foot it fit , it just didn ' t feel comfortable .",shoe,performance#sizing/fit,on my foot it fit,positive,EAEO
+"it was too narrow , i could feel my foot falling off on the sides .",null,performance#sizing/fit,too narrow,negative,IAEO
+"it was too narrow , i could feel my foot falling off on the sides .",null,performance#sizing/fit,i could feel my foot falling off on the sides,negative,IAEO
+i ' m truly a size 8 but that size here was a bit tight .,null,performance#sizing/fit,that size here was a bit tight,negative,IAEO
+i would probably size up next time .,null,performance#sizing/fit,probably size up next time,negative,IAEO
+i have been wearing these for years !,null,contextofuse#review\_temporality,i have been wearing these for years,positive,IAEO
+i use to always get an 8 1 / 2 ( women ' s ) but i got a 9 this time and they were really tight on my feet .,null,performance#sizing/fit,they were really tight on my feet,negative,IAEO
+so i ' d recommend going up at least a half size,null,performance#sizing/fit,so i ' d recommend going up at least a half size,negative,IAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,appearance#misc,quality is good,positive,EAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,appearance#general,are beautiful,positive,EAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,general,i love them,positive,EAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,appearance#color,color is amazing,positive,EAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,performance#sizing/fit,but i ordered the size according to the length in the sizes and are 1 cm larger than the description,negative,EAEO
+"the shoes are beautiful , i love them , the color is amazing , the quality is good , but i ordered the size according to the length in the sizes and are 1 cm larger than the description .",shoes,contextofuse#purchase\_context,but i ordered the size according to the length in the sizes and are 1 cm larger than the description,negative,EAEO
+"i did not return them , because i worn them before realizing that they were that big and i put the box in the garbage .",null,performance#sizing/fit,i worn them before realizing that they were that big,negative,IAEO
+i love the look and style of this shoe but i think they can do a little better with the quality of it .,shoe,appearance#general,love the look and style,positive,EAEO
+i love the look and style of this shoe but i think they can do a little better with the quality of it .,shoe,appearance#misc,can do a little better with the quality,negative,EAEO
+i also had to buy a half size larger they run small .,null,contextofuse#purchase\_context,had to buy a half size larger they run small,negative,IAEO
+i also had to buy a half size larger they run small .,null,performance#sizing/fit,had to buy a half size larger they run small,negative,IAEO
+i typically wear a standard to slightly narrow width .,null,contextofuse#purchase\_context,wear a standard to slightly narrow width,neutral,IAEO
+"this shoe is extremely narrow , making it unwearable for me .",shoe,performance#sizing/fit,extremely narrow,negative,EAEO
+"this shoe is extremely narrow , making it unwearable for me .",shoe,performance#comfort,unwearable for me,negative,EAEO
+"i believe the quality is very good , just to narrow .",null,appearance#misc,quality is very good,positive,IAEO
+"i believe the quality is very good , just to narrow .",null,performance#sizing/fit,just to narrow,negative,IAEO
+shoe is shorter & narrower than stated size .,shoe,performance#sizing/fit,shorter & narrower than stated size,negative,EAEO
+order at least half size larger than usual .,null,performance#sizing/fit,order at least half size larger,negative,IAEO
+order at least half size larger than usual .,order,contextofuse#purchase\_context,order at least half size larger,negative,EAEO
+shoes are comfortable and very versatile .,shoes,performance#comfort,comfortable and very versatile,positive,EAEO
+the sizing runs small so i had to exchange for a half size up .,null,performance#sizing/fit,sizing runs small,negative,IAEO
+"but after wearing these shoes twice , the upper leather ripped !",shoes,performance#durability,"wearing these shoes twice , the upper leather ripped",negative,EAEO
+"but after wearing these shoes twice , the upper leather ripped !",leather,appearance#material,"wearing these shoes twice , the upper leather ripped",negative,EAEO
+i am disappointed in the quality and had high expectations .,null,appearance#misc,disappointed in the quality,negative,IAEO
+shoe is shorter & narrower than stated size .,shoe,performance#sizing/fit,shorter & narrower than stated size,negative,EAEO
+order at least half size larger than usual .,null,performance#sizing/fit,order at least half size larger than usual,negative,IAEO
+"if you have even the slightest bit of width to your foot , do not buy these .",null,performance#sizing/fit,"if you have even the slightest bit of width to your foot , do not buy these",negative,IAEO
+"i would consider my foot slightly wide , often not even having to buy the wide version of shoes .",shoes,contextofuse#purchase\_context,often not even having to buy the wide version of shoes,neutral,EAEO
+"however , the balls of my feet completely bulged out of the side of the sole on these shoes .",shoes,performance#sizing/fit,the balls of my feet completely bulged out of the side of the sole,negative,EAEO
+these are the most narrow shoes i have ever tried on in my life .,shoes,appearance#form,the most narrow shoes i have ever tried on,negative,EAEO
+"also , your "" print label "" button on your return site doesn ' t work .",""" print label "" button",contextofuse#purchase\_context,on your return site doesn ' t work,negative,EAEO
+shoes are comfortable and very versatile .,shoes,performance#comfort,comfortable,positive,EAEO
+shoes are comfortable and very versatile .,shoes,versatility,very versatile,positive,EAEO
+the sizing runs small so i had to exchange for a half size up .,null,performance#sizing/fit,sizing runs small,negative,IAEO
+"but after wearing these shoes twice , the upper leather ripped !",shoes,contextofuse#usage frequency,after wearing these shoes twice,negative,EAEO
+"but after wearing these shoes twice , the upper leather ripped !",shoes,performance#durability,the upper leather ripped,negative,EAEO
+i am disappointed in the quality and had high expectations .,null,performance#general,disappointed in the quality and had high expectations,negative,IAEO
+i am disappointed in the quality and had high expectations .,null,appearance#misc,disappointed in the quality and had high expectations,negative,IAEO
+too tight and uncomfortable .,null,performance#comfort,too tight and uncomfortable,negative,IAEO
+too tight and uncomfortable .,null,performance#sizing/fit,too tight and uncomfortable,negative,IAEO
+"tried cushions , still not so good .",null,performance#comfort,"tried cushions , still not so good",negative,IAEO
+i ' m truly a size 8 but that size here was a bit tight .,size,performance#sizing/fit,was a bit tight,negative,EAEO
+i would probably size up next time .,null,contextofuse#purchase\_context,size up next time,negative,IAEO
+"as someone with a kind of wide foot , i really wanted this shoe to fit because i love the look !",this shoe,performance#sizing/fit,"as someone with a kind of wide foot , i really wanted this shoe to fit",negative,EAEO
+"as someone with a kind of wide foot , i really wanted this shoe to fit because i love the look !",this shoe,appearance#general,i love the look,positive,EAEO
+reebok is a go - to brand for me because their shoes often fit my wide feet well in a way other brands don ' t .,reebok,contextofuse#purchase\_context,a go - to brand for me because their shoes often fit my wide feet well in a way other brands don ' t,positive,EAEO
+reebok is a go - to brand for me because their shoes often fit my wide feet well in a way other brands don ' t .,reebok,performance#sizing/fit,a go - to brand for me because their shoes often fit my wide feet well in a way other brands don ' t,neutral,EAEO
+"however , this shoe is a lot narrower than reebok ' s other offerings , so i wouldn ' t recommend it if you have wide feet .",shoe,performance#sizing/fit,i wouldn ' t recommend it if you have wide feet,negative,EAEO
+"however , this shoe is a lot narrower than reebok ' s other offerings , so i wouldn ' t recommend it if you have wide feet .",shoe,performance#sizing/fit,a lot narrower than reebok ' s other offerings,negative,EAEO
+but it is a very cute shoe so i recommend it otherwise !,shoe,appearance#general,very cute shoe so i recommend it otherwise,positive,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",neutral beige / brown tones,appearance#color,color on the site has neutral beige / brown tones,negative,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",gray,appearance#color,"unfortunately , in person the color is all gray",negative,EAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,contextofuse#purchase\_context,color on the site has neutral beige / brown tones,neutral,IAEO
+"the color on the site has neutral beige / brown tones , unfortunately , in person the color is all gray .",null,contextofuse#purchase\_context,"unfortunately , in person the color is all gray",negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,null,cost/value,don ' t buy if you ' re expecting anything other than bland gray,negative,IAEO
+don ' t buy if you ' re expecting anything other than bland gray .,gray,appearance#color,don ' t buy if you ' re expecting anything other than bland gray,negative,EAEO
+will be returning immediately .,null,cost/value,will be returning immediately,negative,IAEO
+there were a christmas gift to someone .,null,contextofuse#purchase\_context,were a christmas gift to someone,neutral,IAEO
+she loves the color ( red ) .,null,appearance#color,loves the color ( red ),positive,IAEO
+says they fit very nicely .,null,performance#sizing/fit,they fit very nicely,positive,IAEO
+she ' s on her feet for long stretches for work .,null,contextofuse#usage frequency,on her feet for long stretches,neutral,IAEO
+"said there is a bit of break - in period , probably because how different the reds are to the others .",null,performance#general,said there is a bit of break - in period,negative,IAEO
+she wants more now .,null,cost/value,she wants more now,positive,IAEO
+great shoes .,shoes,general,great,positive,EAEO
+bought this for my uncle .,null,contextofuse#purchase\_context,bought this for my uncle,neutral,IAEO
+he love them .,null,general,he love,positive,IAEO
+"i ordered them thinking it was ok not to try them on first because they were reeboks , i was wrong .",reeboks,contextofuse#purchase\_context,"ordered them thinking it was ok not to try them on first because they were reeboks , i was wrong",negative,EAEO
+i am going to exchange them for another pair though because they are reeboks !,pair,contextofuse#purchase\_context,exchange them for another,neutral,EAEO
+i do love the brand .,brand,general,i do love,positive,EAEO
+shoe is shorter & narrower than stated size .,shoe,appearance#form,shorter & narrower than stated size,negative,EAEO
+shoe is shorter & narrower than stated size .,shoe,performance#sizing/fit,shorter & narrower than stated size,negative,EAEO
+order at least half size larger than usual .,null,performance#sizing/fit,order at least half size larger,negative,IAEO
+order at least half size larger than usual .,null,contextofuse#purchase\_context,order at least half size larger,negative,IAEO
+i honestly wanted super pleased with the overall quality of the shoe .,shoe,appearance#misc,i honestly wanted super pleased with the overall quality,negative,EAEO
+the sound it makes on the floor is odd .,null,performance#use case applicability,sound it makes on the floor is odd,negative,IAEO
+very noisy .,null,appearance#material,very noisy,negative,IAEO
+very noisy .,null,performance#general,very noisy,negative,IAEO
+"bought these + 1 extra for someone , and these could of been engineer a little better",null,contextofuse#purchase\_context,bought these + 1 extra for someone,neutral,IAEO
+"bought these + 1 extra for someone , and these could of been engineer a little better",null,performance#durability,could of been engineer a little better,negative,IAEO
+"bought these + 1 extra for someone , and these could of been engineer a little better",null,appearance#misc,could of been engineer a little better,negative,IAEO
+"i have always liked this style but when you said they where leather , i think you should say they are leather and manmade .",null,appearance#general,i have always liked this style,positive,IAEO
+"i have always liked this style but when you said they where leather , i think you should say they are leather and manmade .",null,appearance#material,"said they where leather , i think you should say they are leather and manmade",negative,IAEO
+you want go wrong with this shoe try it and u want be disappointed,null,cost/value,you want go wrong with this shoe try it and u want be disappointed,positive,IAEO
+these are definitely going to be some of my most worn shoes of the spring and summer .,shoes,contextofuse#usage frequency,definitely going to be some of my most worn shoes,positive,EAEO
+they ' re so cute and go with so much .,null,contextofuse#use case,go with so much,positive,IAEO
+they ' re so cute and go with so much .,null,appearance#general,so cute,positive,IAEO
+"i don ' t usually have a problem with width with shoes , but i thought this pair was a little small at firet because they were a bit tighter width wise .",pair,performance#sizing/fit,little small at firet because they were a bit tighter width wise,negative,EAEO
+so if you have wide feet i probably would not recommend you buy these .,null,performance#sizing/fit,if you have wide feet i probably would not recommend you buy,negative,IAEO
+i have probably had thirty or forty pairs of this model of reebok through the years .,reebok,contextofuse#review\_temporality,probably had thirty or forty pairs of this model of reebok through the years,neutral,EAEO
+"this pair isn ' t comfortable , so i have given up wearing them .",pair,performance#comfort,isn ' t comfortable,negative,EAEO
+"i think i need to go up 1 / 2 a size because it ' s pinching my toes just a bit , or i really need a wide .",null,performance#sizing/fit,pinching my toes,negative,IAEO
+love the leather upper for a clean and durable look .,null,appearance#form,clean and durable look,positive,IAEO
+love the leather upper for a clean and durable look .,null,appearance#material,love the leather upper,positive,IAEO
+going to keep these and try a different model,null,cost/value,going to keep these,positive,IAEO
+i ' ve been wanting them again for a long time .,null,contextofuse#purchase\_context,i ' ve been wanting them again for a long time,neutral,IAEO
+"i used to use them at high school and i saw them as a reminder of that time , but now that i got them i didn ' t remember how comfortable they were !",null,contextofuse#use case,i used to use them at high school and i saw them as a reminder of that time,neutral,IAEO
+"i used to use them at high school and i saw them as a reminder of that time , but now that i got them i didn ' t remember how comfortable they were !",null,performance#comfort,now that i got them i didn ' t remember how comfortable they were,negative,IAEO
+i just love them !,null,general,i just love them,positive,IAEO
+the shoe fits a bit small and is pretty stiff for having such a large wedge bottom .,shoe,performance#sizing/fit,fits a bit small,negative,EAEO
+the shoe fits a bit small and is pretty stiff for having such a large wedge bottom .,shoe,performance#comfort,pretty stiff for having such a large wedge bottom,negative,EAEO
+the shoe fits a bit small and is pretty stiff for having such a large wedge bottom .,shoe,appearance#material,pretty stiff for having such a large wedge bottom,negative,EAEO
+i love the colors but honestly it looks and feels a little cheap .,null,appearance#misc,honestly it looks and feels a little cheap,negative,IAEO
+i love the colors but honestly it looks and feels a little cheap .,null,appearance#color,i love the colors,positive,IAEO
+i love the look and style of this shoe but i think they can do a little better with the quality of it .,shoe,appearance#general,i love the look and style,positive,EAEO
+i love the look and style of this shoe but i think they can do a little better with the quality of it .,shoe,appearance#misc,they can do a little better with the quality of it,negative,EAEO
+i also had to buy a half size larger they run small .,null,performance#sizing/fit,i also had to buy a half size larger they run small,negative,IAEO
+"great looking shoes , but if you have wider feet do not buy .",shoes,appearance#general,great looking,positive,EAEO
+"great looking shoes , but if you have wider feet do not buy .",shoes,performance#sizing/fit,if you have wider feet do not buy,negative,EAEO
+they burned my toes the entire time walking in them .,null,performance#use case applicability,they burned my toes the entire time walking in them,negative,IAEO
+i had to send back for a refund after wearing .,null,contextofuse#purchase\_context,send back for a refund after wearing,negative,IAEO
+they were unbearable .,null,performance#comfort,they were unbearable .,negative,IAEO
+the size is a half size smaller then what i wear .,null,performance#sizing/fit,size is a half size smaller then what i wear,neutral,IAEO
+next time i will need to order a 6 1 / 2 instead of my normal size 6…,null,performance#sizing/fit,next time i will need to order a 6 1 / 2,neutral,IAEO
+next time i will need to order a 6 1 / 2 instead of my normal size 6…,null,contextofuse#purchase\_context,next time i will need to order a 6 1 / 2,neutral,IAEO
+i purchased these shoes bacon they were exactly like my last pair of reebok classics i bought but they are slightly different the stitching is different that sound feel is different and they just didn ' t feel like the classic running shoes that i had before so i sent them back and order me a pair a reebok classic running instead of these reeboks,shoes,appearance#form,exactly like my last pair of reebok classics,neutral,EAEO
+i purchased these shoes bacon they were exactly like my last pair of reebok classics i bought but they are slightly different the stitching is different that sound feel is different and they just didn ' t feel like the classic running shoes that i had before so i sent them back and order me a pair a reebok classic running instead of these reeboks,shoes,appearance#material,slightly different the stitching is different that sound feel is different,negative,EAEO
+i purchased these shoes bacon they were exactly like my last pair of reebok classics i bought but they are slightly different the stitching is different that sound feel is different and they just didn ' t feel like the classic running shoes that i had before so i sent them back and order me a pair a reebok classic running instead of these reeboks,shoes,appearance#form,didn ' t feel like the classic running shoes,negative,EAEO
+i purchased these shoes bacon they were exactly like my last pair of reebok classics i bought but they are slightly different the stitching is different that sound feel is different and they just didn ' t feel like the classic running shoes that i had before so i sent them back and order me a pair a reebok classic running instead of these reeboks,shoes,performance#general,didn ' t feel like the classic running shoes,negative,EAEO
+i purchased these shoes bacon they were exactly like my last pair of reebok classics i bought but they are slightly different the stitching is different that sound feel is different and they just didn ' t feel like the classic running shoes that i had before so i sent them back and order me a pair a reebok classic running instead of these reeboks,reeboks,contextofuse#purchase\_context,order me a pair a reebok classic running instead,negative,EAEO
+this is a classic sneaker a must have for the collection .,sneaker,appearance#general,classic sneaker a must have for the collection,positive,EAEO
+there is a wide array of colors to pick from .,null,appearance#color,is a wide array of colors to pick from,positive,IAEO
+there is a wide array of colors to pick from .,null,contextofuse#purchase\_context,is a wide array of colors to pick from,positive,IAEO
+only 1 pair of wide width shoe in the entire store .,pair,contextofuse#purchase\_context,only 1 pair of wide width shoe in the entire store,negative,EAEO
+i returned my mail order to closest finish line store .,null,cost/value,returned my mail order,negative,IAEO
+i will never order again .,null,cost/value,i will never order again,negative,IAEO
+love this shoe .,shoe,general,love this,positive,EAEO
+it ' s one of my all - time favorite classic shoes .,shoes,contextofuse#review\_temporality,it ' s one of my all - time favorite classic shoes,positive,EAEO
+it ' s a great shoes but need different size .,shoes,general,great,positive,EAEO
+it ' s a great shoes but need different size .,shoes,performance#sizing/fit,need different size,negative,EAEO
+it ' s a great shoes but need different size .,shoes,contextofuse#purchase\_context,need different size,neutral,EAEO
+i recommend it,null,cost/value,i recommend,positive,IAEO
+only 1 pair of wide width shoe in the entire store .,wide width shoe,contextofuse#purchase\_context,only 1 pair of wide width shoe in the entire store,negative,EAEO
+i returned my mail order to closest finish line store .,mail order,contextofuse#purchase\_context,i returned,negative,EAEO
+i will never order again .,null,cost/value,i will never order again,negative,IAEO
+i bought a pair of the red - all leather variety and they are my favs to date .,red - all leather variety,general,my favs to date,positive,EAEO
+i bought a pair of the red - all leather variety and they are my favs to date .,red - all leather variety,appearance#material,my favs to date,positive,EAEO
+still wear them all the time after over a year of almost daily use .,null,contextofuse#review\_temporality,still wear them all the time after over a year of almost daily use,positive,IAEO
+still wear them all the time after over a year of almost daily use .,null,contextofuse#usage frequency,still wear them all the time after over a year of almost daily use,positive,IAEO
+comfy sneaker .,sneaker,performance#comfort,comfy,positive,EAEO
+would order a half size bigger .,null,contextofuse#purchase\_context,would order a half size bigger,neutral,IAEO
+would order a half size bigger .,null,performance#sizing/fit,half size bigger,negative,IAEO
+already purchased another pair !,pair,contextofuse#purchase\_context,already purchased another pair,positive,EAEO
+these kicks are extremely comfortable and can be worn with a variety of styles .,kicks,performance#comfort,extremely comfortable,positive,EAEO
+these kicks are extremely comfortable and can be worn with a variety of styles .,kicks,contextofuse#use case,can be worn with a variety of styles,positive,EAEO
+these kicks are extremely comfortable and can be worn with a variety of styles .,kicks,appearance#general,can be worn with a variety of styles,positive,EAEO
+these are my new favorites .,null,general,these are my new favorites,positive,IAEO
