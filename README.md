@@ -1,11 +1,54 @@
-This repository provides the implementation of ACOPI-QGen, an end-to-end generative framework designed for fine-grained implicit Aspect-Based Sentiment Analysis (ABSA). The model jointly extracts all five sentiment components—Aspect Term, Aspect Category, Opinion Term, Sentiment Polarity, and Implicitness—as structured quintuples from input text. Implicitness is modeled as a multi-class classification task with four explicit-implicit combinations: EAEO, EAIO, IAEO, IAIO, advancing beyond the binary framing used in prior work.
+# ACOPI-QGen: A Generative Framework for Implicit Sentiment Quintuple Extraction
 
-The architecture integrates:
+ACOPI-QGen is a novel end-to-end generative model designed to jointly extract all five sentiment elements—**Aspect Term, Aspect Category, Opinion Term, Sentiment Polarity, and Implicitness**—from user-generated content, especially in the presence of figurative or implicit expressions.
 
-BERT-based contextual encodings for semantic understanding,
+---
 
-Fine-grained Supervised Contrastive Learning (SCL) with role-specific projection heads for enhanced alignment,
+## 🚀 Overview
 
-Relational Graph Attention Network (RGAT) guided by a Surrogate Aspect-Opinion Dependency Tree (SAODT) for syntactic bias modeling,
+Traditional ABSA methods often focus on extracting pairs, triplets, or quadruples and typically struggle with **implicit sentiment reasoning**. ACOPI-QGen reformulates this task as a **structured quintuple extraction problem**, introducing a **multi-class implicitness classification scheme** using the following four categories:
 
-and a non-autoregressive decoder for parallel generation of sentiment quintuples, improving inference efficiency and minimizing exposure bias.
+- `EAEO`: Explicit Aspect & Explicit Opinion  
+- `EAIO`: Explicit Aspect & Implicit Opinion  
+- `IAEO`: Implicit Aspect & Explicit Opinion  
+- `IAIO`: Implicit Aspect & Implicit Opinion
+
+---
+
+## 🧠 Model Architecture
+
+ACOPI-QGen consists of the following key components:
+
+- **BERT Encoder**: Encodes contextual token representations.
+- **Supervised Contrastive Learning (SCL)**: Four projection heads for aspect, opinion, sentiment, and implicitness roles to enhance semantic separation.
+- **Relational Graph Attention Network (RGAT)**: Injects syntactic relational bias using a Surrogate Aspect-Opinion Dependency Tree (SAODT).
+- **Non-Autoregressive Decoder**: Decodes complete sentiment quintuples in parallel, avoiding the limitations of sequential decoding.
+
+---
+
+## 📦 Dataset: ACOPI
+
+The **ACOPI dataset** extends three popular ABSA resources:
+- Restaurant-ACOS  
+- Laptop-ACOS  
+- Shoes-ACOSI  
+
+Synthetic implicit samples were added using Large Language Models (LLMs) like **GPT-4o** and **LLaMA-3-70B** to improve class balance and diversity.
+
+---
+
+## 📊 Performance Summary
+
+ACOPI-QGen achieves significant improvements in quintuple extraction across domains:
+
+| Dataset         | F1 Score (%) |
+|------------------|--------------|
+| Restaurant-ACOPI | 55.68        |
+| Laptop-ACOPI     | 48.43        |
+| Shoes-ACOPI      | 60.49        |
+
+Compared to SOTA LLMs and supervised baselines, ACOPI-QGen demonstrates superior performance on both explicit and implicit sentiment components.
+
+---
+
+
