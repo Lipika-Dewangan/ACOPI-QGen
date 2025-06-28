@@ -28,10 +28,10 @@ ACOPI-QGen consists of the following key components:
 
 ## 📦 Dataset: ACOPI
 
-The **ACOPI dataset** extends three popular ABSA resources:
-- Restaurant-ACOS  
-- Laptop-ACOS  
-- Shoes-ACOSI  
+**ACOPI dataset** across three domains
+- Restaurant-ACOPI  
+- Laptop-ACOPI 
+- Shoes-ACOPI 
 
 Synthetic implicit samples were added using Large Language Models (LLMs) like **GPT-4o** and **LLaMA-3-70B** to improve class balance and diversity.
 
