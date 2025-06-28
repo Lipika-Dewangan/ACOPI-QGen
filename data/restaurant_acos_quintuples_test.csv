@@ -1,0 +1,917 @@
+Sentence,Aspect,Category,Opinion,Polarity,Implicitness
+yum !,null,QUALITY,yum,positive,IAEO
+serves really good sushi .,sushi,QUALITY,good,positive,EAEO
+not the biggest portions but adequate .,portions,STYLE_OPTIONS,not,neutral,EAEO
+not the biggest portions but adequate .,portions,STYLE_OPTIONS,adequate,neutral,EAEO
+green tea creme brulee is a must !,green,QUALITY,must,positive,EAEO
+it has great sushi and even better service .,sushi,QUALITY,great,positive,EAEO
+it has great sushi and even better service .,service,GENERAL,better,positive,EAEO
+the entire staff was extremely accomodating and tended to my every need .,staff,GENERAL,accomodating,positive,EAEO
+i ' ve been to this restaurant over a dozen times with no complaints to date .,restaurant,GENERAL,no,positive,EAEO
+the owner is belligerent to guests that have a complaint .,owner,GENERAL,belligerent,negative,EAEO
+good food !,food,QUALITY,good,positive,EAEO
+this is a great place to get a delicious meal .,meal,QUALITY,delicious,positive,EAEO
+this is a great place to get a delicious meal .,place,GENERAL,great,positive,EAEO
+the staff is pretty friendly .,staff,GENERAL,friendly,positive,EAEO
+the onion rings are great !,onion,QUALITY,great,positive,EAEO
+"the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you . . . . . were not good .",lemon,QUALITY,sticky,negative,EAEO
+"the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you . . . . . were not good .",honey,QUALITY,not,negative,EAEO
+"the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you . . . . . were not good .",honey,STYLE_OPTIONS,not,negative,EAEO
+"nice ambience , but highly overrated place .",ambience,GENERAL,nice,positive,EAEO
+"nice ambience , but highly overrated place .",place,GENERAL,overrated,negative,EAEO
+worst service i ever had,service,GENERAL,worst,positive,EAEO
+everyone that sat in the back outside agreed that it was the worst service we had ever received .,service,GENERAL,worst,negative,EAEO
+"our waiter was non - existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .",waiter,GENERAL,non,negative,EAEO
+"i complained to the manager , but he was not even apologetic .",manager,GENERAL,not,negative,EAEO
+fabulous italian food !,italian,QUALITY,fabulous,positive,EAEO
+– i highly recommend mioposto .,mioposto,GENERAL,recommend,positive,EAEO
+i am so happy to have a wonderful italian restaurant in my neighborhood .,italian,GENERAL,wonderful,positive,EAEO
+i am so happy to have a wonderful italian restaurant in my neighborhood .,italian,GENERAL,happy,positive,EAEO
+the wine list is wonderful and the food reminds me of my recent trip to italy .,wine,STYLE_OPTIONS,wonderful,positive,EAEO
+the wine list is wonderful and the food reminds me of my recent trip to italy .,food,QUALITY,null,positive,EAIO
+i love this restaurant,restaurant,GENERAL,love,positive,EAEO
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",meal,QUALITY,amazing,positive,EAEO
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",service,GENERAL,amazing,positive,EAEO
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",ambiance,GENERAL,amazing,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",wine,STYLE_OPTIONS,incredible,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",wine,STYLE_OPTIONS,extensive,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",wine,STYLE_OPTIONS,diverse,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",food,QUALITY,incredible,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",staff,GENERAL,nice,positive,EAEO
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",staff,GENERAL,good,positive,EAEO
+i have not a bad thing to say about this place .,place,GENERAL,not,positive,EAEO
+the food was great !,food,QUALITY,great,positive,EAEO
+"it ' s * very * reasonably priced , esp for the quality of the food .",food,QUALITY,reasonably,positive,EAEO
+"it ' s * very * reasonably priced , esp for the quality of the food .",food,PRICES,reasonably,positive,EAEO
+i had the kafta plate and it was perfect .,kafta,QUALITY,perfect,positive,EAEO
+"– in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .",food,QUALITY,high,positive,EAEO
+"– in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .",service,GENERAL,good,positive,EAEO
+this is the place to relax and enjoy the finest quality food the industry can offer .,place,GENERAL,relax,positive,EAEO
+this is the place to relax and enjoy the finest quality food the industry can offer .,place,GENERAL,enjoy,positive,EAEO
+this is the place to relax and enjoy the finest quality food the industry can offer .,food,QUALITY,finest,positive,EAEO
+caution - its real food for people who love the best .,food,QUALITY,real,positive,EAEO
+caution - its real food for people who love the best .,food,QUALITY,best,positive,EAEO
+i liked the atmosphere very much but the food was not worth the price .,atmosphere,GENERAL,liked,positive,EAEO
+i liked the atmosphere very much but the food was not worth the price .,food,QUALITY,not,negative,EAEO
+i liked the atmosphere very much but the food was not worth the price .,food,PRICES,not,negative,EAEO
+i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it .,food,QUALITY,okay,negative,EAEO
+"rice is too dry , tuna was n ' t so fresh either .",rice,QUALITY,dry,negative,EAEO
+"rice is too dry , tuna was n ' t so fresh either .",tuna,QUALITY,n,negative,EAEO
+i have eaten here three times and have found the quality and variety of the fish to be excellent .,fish,QUALITY,excellent,positive,EAEO
+i have eaten here three times and have found the quality and variety of the fish to be excellent .,fish,STYLE_OPTIONS,excellent,positive,EAEO
+"however , the value and service are both severely lacking .",service,GENERAL,lacking,negative,EAEO
+"however , the value and service are both severely lacking .",value,PRICES,lacking,negative,EAEO
+"furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .",fish,QUALITY,fresh,positive,EAEO
+"furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .",rolls,QUALITY,bland,negative,EAEO
+the service ranges from mediocre to offensive .,service,GENERAL,mediocre,negative,EAEO
+the service ranges from mediocre to offensive .,service,GENERAL,offensive,negative,EAEO
+"on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .",waiter,GENERAL,dismissive,negative,EAEO
+"on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .",staff,GENERAL,null,negative,EAIO
+freshest sushi – i love this restaurant .,sushi,QUALITY,freshest,positive,EAEO
+freshest sushi – i love this restaurant .,restaurant,GENERAL,love,positive,EAEO
+they pay such detail to everything from miso soup to complex rolls .,miso,QUALITY,null,positive,EAIO
+they pay such detail to everything from miso soup to complex rolls .,rolls,QUALITY,complex,positive,EAEO
+the sashimi was the freshest and most tender i have ever tasted .,sashimi,QUALITY,freshest,positive,EAEO
+the sashimi was the freshest and most tender i have ever tasted .,sashimi,QUALITY,tender,positive,EAEO
+their apps are all delicious .,apps,QUALITY,delicious,positive,EAEO
+the only drawback is that this place is really expensive and the portions are on the small side .,place,PRICES,expensive,negative,EAEO
+the only drawback is that this place is really expensive and the portions are on the small side .,portions,STYLE_OPTIONS,small,negative,EAEO
+"but the space is small and lovely , and the service is helpful .",space,GENERAL,small,positive,EAEO
+"but the space is small and lovely , and the service is helpful .",space,GENERAL,lovely,positive,EAEO
+"but the space is small and lovely , and the service is helpful .",service,GENERAL,helpful,positive,EAEO
+– the food was not great & the waiters were rude .,food,QUALITY,not,negative,EAEO
+– the food was not great & the waiters were rude .,waiters,GENERAL,rude,negative,EAEO
+great service,service,GENERAL,great,positive,EAEO
+my service was stellar !,service,GENERAL,stellar,positive,EAEO
+the bus boy even spotted that my table was shaking a stabilized it for me .,bus,GENERAL,null,positive,EAIO
+"food was fine , with a some little - tastier - than - normal salsa .",food,QUALITY,fine,positive,EAEO
+"food was fine , with a some little - tastier - than - normal salsa .",salsa,QUALITY,fine,positive,EAEO
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",food,QUALITY,great,positive,EAEO
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",margaritas,QUALITY,great,positive,EAEO
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",waitress,GENERAL,busy,negative,EAEO
+mama mia – i live in the neighborhood and feel lucky to live by such a great pizza place .,pizza,GENERAL,great,positive,EAEO
+"the only problem is you really have to warm up the pizza before it ' s edible , even when you order ahead .",pizza,QUALITY,problem,negative,EAEO
+"but once done , it ' s not too much dough , not too much cheese , not too much sauce .",null,QUALITY,null,positive,IAIO
+best sushi in town .,sushi,QUALITY,best,positive,EAEO
+the best calamari in seattle !,calamari,QUALITY,best,positive,EAEO
+– . . . and the best summertime deck experience - - they will even bring you a blanket if you get cold in the seattle evening weather .,deck,GENERAL,best,positive,EAEO
+– . . . and the best summertime deck experience - - they will even bring you a blanket if you get cold in the seattle evening weather .,null,GENERAL,best,positive,IAEO
+a perfect place to take out of town guests any time of the year .,place,GENERAL,perfect,positive,EAEO
+"endless fun , awesome music , great staff ! ! !",music,GENERAL,awesome,positive,EAEO
+"endless fun , awesome music , great staff ! ! !",staff,GENERAL,great,positive,EAEO
+"endless fun , awesome music , great staff ! ! !",null,GENERAL,fun,positive,IAEO
+– by far the best bar in the east village . . .,bar,GENERAL,best,positive,EAEO
+great draft and bottle selection and the pizza rocks .,draft,STYLE_OPTIONS,great,positive,EAEO
+great draft and bottle selection and the pizza rocks .,pizza,QUALITY,great,positive,EAEO
+definitely has one of the best jukebox ' s i ' ve seen in a long long time .,jukebox,GENERAL,best,positive,EAEO
+"the food is great , the bartenders go that extra mile .",food,QUALITY,great,positive,EAEO
+"the food is great , the bartenders go that extra mile .",bartenders,GENERAL,null,positive,EAIO
+the owners are great fun and the beer selection is worth staying for .,owners,GENERAL,great,positive,EAEO
+the owners are great fun and the beer selection is worth staying for .,owners,GENERAL,fun,positive,EAEO
+the owners are great fun and the beer selection is worth staying for .,beer,STYLE_OPTIONS,worth,positive,EAEO
+and the upstairs is a great place to hang out .,upstairs,GENERAL,great,positive,EAEO
+"not alot of smoking places left in new york , but i have found my favorite smoking balconey in the city .",balconey,MISCELLANEOUS,favorite,positive,EAEO
+the sushi here is delicious !,sushi,QUALITY,delicious,positive,EAEO
+they have a wide variety of fish and they even list which oceans they come from ; atlantic or pacific .,fish,STYLE_OPTIONS,wide,positive,EAEO
+"i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",jellyfish,QUALITY,good,positive,EAEO
+"i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",horse,QUALITY,good,positive,EAEO
+"i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",blue,QUALITY,good,positive,EAEO
+"i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",sake,QUALITY,good,positive,EAEO
+my only negative comment is that i wish the pieces were a little bigger .,pieces,STYLE_OPTIONS,null,negative,EAIO
+"the decor is rustic , traditional japanese .",decor,GENERAL,rustic,neutral,EAEO
+"the decor is rustic , traditional japanese .",decor,GENERAL,traditional,neutral,EAEO
+"the crowd is mixed yuppies , young and old .",crowd,MISCELLANEOUS,null,neutral,EAIO
+the service was courteous and attentive .,service,GENERAL,courteous,positive,EAEO
+the service was courteous and attentive .,service,GENERAL,attentive,positive,EAEO
+mediocre food,food,QUALITY,mediocre,neutral,EAEO
+the outside patio area has an abbreviated menu .,menu,STYLE_OPTIONS,abbreviated,neutral,EAEO
+my g / f and i both agreed the food was very mediocre especially considering the price .,food,QUALITY,mediocre,negative,EAEO
+my g / f and i both agreed the food was very mediocre especially considering the price .,food,PRICES,mediocre,negative,EAEO
+"we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .",place,GENERAL,null,negative,EAIO
+"we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .",food,QUALITY,average,negative,EAEO
+service was decent .,service,GENERAL,decent,neutral,EAEO
+drinks were good .,drinks,QUALITY,good,positive,EAEO
+"excellent food , nice ambience , fairly expensive",food,QUALITY,excellent,positive,EAEO
+"excellent food , nice ambience , fairly expensive",ambience,GENERAL,nice,positive,EAEO
+"excellent food , nice ambience , fairly expensive",null,PRICES,expensive,negative,IAEO
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,pumpkin,QUALITY,loved,positive,EAEO
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,goat,QUALITY,loved,positive,EAEO
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,goat,STYLE_OPTIONS,null,positive,EAIO
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,filet,QUALITY,loved,positive,EAEO
+the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .,ambiance,GENERAL,peaceful,positive,EAEO
+the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .,ambiance,GENERAL,relaxing,positive,EAEO
+best indian food in l . a .,indian,QUALITY,best,positive,EAEO
+the chicken curry and chicken tikka masala are my favorite meat dishes .,chicken,QUALITY,favorite,positive,EAEO
+the chicken curry and chicken tikka masala are my favorite meat dishes .,chicken,QUALITY,favorite,positive,EAEO
+the chana masala ( garbanzo beans ) are also excellent .,chana,QUALITY,also,positive,EAEO
+"it ' s located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .",location,GENERAL,not,neutral,EAEO
+"it ' s located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .",food,QUALITY,null,positive,EAIO
+never too crowded and always great service .,service,GENERAL,great,positive,EAEO
+never too crowded and always great service .,null,MISCELLANEOUS,never,positive,IAEO
+i think i have probably tried each item on their menu at least once it is all excellent .,menu,QUALITY,excellent,positive,EAEO
+i can highly recommend their various saag and paneer and korma .,saag,QUALITY,recommend,positive,EAEO
+i can highly recommend their various saag and paneer and korma .,paneer,QUALITY,recommend,positive,EAEO
+i can highly recommend their various saag and paneer and korma .,korma,QUALITY,recommend,positive,EAEO
+i appreciate their delivery too .,delivery,GENERAL,appreciate,positive,EAEO
+nice food but no spice !,food,QUALITY,nice,positive,EAEO
+nice food but no spice !,food,QUALITY,null,negative,EAIO
+– i really enjoyed my meal here .,meal,QUALITY,enjoyed,positive,EAEO
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",lamb,QUALITY,yummy,positive,EAEO
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",saag,QUALITY,yummy,positive,EAEO
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",samosas,QUALITY,yummy,positive,EAEO
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",naan,QUALITY,yummy,positive,EAEO
+the food was all good but it was way too mild .,food,QUALITY,good,positive,EAEO
+the food was all good but it was way too mild .,food,QUALITY,too,negative,EAEO
+"the naan was some of the best i ' ve had and i really enjoyed the bhartha , not too tomatoey .",naan,QUALITY,best,positive,EAEO
+"the naan was some of the best i ' ve had and i really enjoyed the bhartha , not too tomatoey .",bhartha,QUALITY,enjoyed,positive,EAEO
+"even the chickpeas , which i normally find too dry , were good .",chickpeas,QUALITY,good,positive,EAEO
+"– i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .",fajita,QUALITY,delicious,positive,EAEO
+"– i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .",colorado,QUALITY,delicious,positive,EAEO
+"– i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .",fajitas,QUALITY,delicious,positive,EAEO
+"– i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .",null,QUALITY,delicious,positive,IAEO
+i love the warm & cosy environment .,environment,GENERAL,warm,positive,EAEO
+i love the warm & cosy environment .,environment,GENERAL,cosy,positive,EAEO
+i just found out that you can have the place to yourself on nights and weekends for a private party - ca n ' t wait to celebrate my next birthday there .,place,MISCELLANEOUS,null,positive,EAIO
+"best restaurant in the world , great decor , great customer service , friendly manager",restaurant,GENERAL,best,positive,EAEO
+"best restaurant in the world , great decor , great customer service , friendly manager",decor,GENERAL,great,positive,EAEO
+"best restaurant in the world , great decor , great customer service , friendly manager",customer,GENERAL,great,positive,EAEO
+"best restaurant in the world , great decor , great customer service , friendly manager",manager,GENERAL,friendly,positive,EAEO
+i am never disappointed with there food .,food,QUALITY,never,positive,EAEO
+the atmosphere is great .,atmosphere,GENERAL,great,positive,EAEO
+great lunch spot,lunch,GENERAL,great,positive,EAEO
+– great financial district mexican spot .,mexican,GENERAL,great,positive,EAEO
+"always busy , but they are good at seating you promptly and have quick service .",service,GENERAL,quick,positive,EAEO
+"always busy , but they are good at seating you promptly and have quick service .",null,GENERAL,good,positive,IAEO
+"everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .",taco,QUALITY,good,positive,EAEO
+"everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .",burritos,QUALITY,good,positive,EAEO
+"everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .",enchiladas,QUALITY,good,positive,EAEO
+"everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .",place,GENERAL,love,positive,EAEO
+"everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .",null,QUALITY,good,positive,IAEO
+also have great margaritas !,margaritas,QUALITY,great,positive,EAEO
+the food is simply unforgettable !,food,QUALITY,unforgettable,positive,EAEO
+"the presentation of the food was an added bonus , it looked just as great as it tasted !",food,QUALITY,great,positive,EAEO
+"the presentation of the food was an added bonus , it looked just as great as it tasted !",food,STYLE_OPTIONS,bonus,positive,EAEO
+my best friend had the chicken shawarma and she still raves about it being the best anywhere !,chicken,QUALITY,best,positive,EAEO
+the staff are friendly and the decor was ethic and colorful .,staff,GENERAL,friendly,positive,EAEO
+the staff are friendly and the decor was ethic and colorful .,decor,GENERAL,ethic,positive,EAEO
+the staff are friendly and the decor was ethic and colorful .,decor,GENERAL,colorful,positive,EAEO
+go to open sesame ! ! !,open,GENERAL,null,positive,EAIO
+holy hummus !,hummus,QUALITY,holy,positive,EAEO
+"– the food is here is incredible , though the quality is inconsistent during lunch .",food,QUALITY,incredible,positive,EAEO
+"– the food is here is incredible , though the quality is inconsistent during lunch .",lunch,QUALITY,inconsistent,negative,EAEO
+"dinners have always been excellent , in terms of food quality .",dinners,QUALITY,excellent,positive,EAEO
+the open sesame combo plate is a bargain for the heap of food given .,open,PRICES,bargain,positive,EAEO
+the open sesame combo plate is a bargain for the heap of food given .,open,STYLE_OPTIONS,null,positive,EAIO
+"the side of potatoes is to die for , as is the labne ( yogurt dip ) .",side,QUALITY,die,positive,EAEO
+"the side of potatoes is to die for , as is the labne ( yogurt dip ) .",labne,QUALITY,die,positive,EAEO
+"also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !",hummus,QUALITY,best,positive,EAEO
+"also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !",hummus,STYLE_OPTIONS,best,positive,EAEO
+the only drawback is the crowded seating and the slow service .,seating,MISCELLANEOUS,crowded,negative,EAEO
+the only drawback is the crowded seating and the slow service .,service,GENERAL,slow,negative,EAEO
+"however , this place is a gem , and i wo n ' t stop going back .",place,GENERAL,gem,positive,EAEO
+great beer,beer,QUALITY,great,positive,EAEO
+– my first time to dine at this restaurant was with my son and it was absolutely horrible !,restaurant,GENERAL,horrible,negative,EAEO
+i swore never to return for a warm beer and mediocre meal .,beer,QUALITY,warm,negative,EAEO
+i swore never to return for a warm beer and mediocre meal .,meal,QUALITY,mediocre,negative,EAEO
+the band was very good and the service was attentive .,band,GENERAL,good,positive,EAEO
+the band was very good and the service was attentive .,service,GENERAL,attentive,positive,EAEO
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",shoe,QUALITY,good,positive,EAEO
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",goat,QUALITY,good,positive,EAEO
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",grilled,QUALITY,good,positive,EAEO
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",fried,QUALITY,good,positive,EAEO
+seattle ' s best winelist,winelist,STYLE_OPTIONS,best,positive,EAEO
+– ray ' s ( suprisingly ) has the city ' s best & most diverse wine list .,diverse,STYLE_OPTIONS,most,positive,EAEO
+"the sommelier is fantastic , down - to - earth , & extremely knowlegable .",sommelier,GENERAL,fantastic,positive,EAEO
+"the sommelier is fantastic , down - to - earth , & extremely knowlegable .",sommelier,GENERAL,down,positive,EAEO
+"the sommelier is fantastic , down - to - earth , & extremely knowlegable .",sommelier,GENERAL,knowlegable,positive,EAEO
+i would go back for the wine experience alone .,wine,QUALITY,null,negative,EAIO
+not the place it once was,place,GENERAL,null,negative,EAIO
+"perhaps now , scooner or later falls into the ` ` dive ' ' category .",scooner,GENERAL,null,negative,EAIO
+"– it is sad to see a place that was once ` ` the ' ' place to meet and eat for bfast or lunch , now be the place that is a big ` ` dont bother . ' '",place,GENERAL,sad,negative,EAEO
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",food,QUALITY,null,negative,EAIO
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",food,PRICES,null,negative,EAIO
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",the,GENERAL,the,negative,EAEO
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",service,GENERAL,worst,negative,EAEO
+what may be interesting to most is the worst sevice / attitude comes from the owners of this establishment .,owners,GENERAL,worst,negative,EAEO
+"this establishment really made a marked decline after ( and this is recurring story ) the airing of food televisions ` ` diners , drive - ins , and dives ' ' hosted by guy fieri , in which schooner or later was subject of .",establishment,GENERAL,null,negative,EAIO
+open & cool place with the best pizza and coffee,place,GENERAL,cool,positive,EAEO
+open & cool place with the best pizza and coffee,pizza,QUALITY,best,positive,EAEO
+open & cool place with the best pizza and coffee,coffee,QUALITY,best,positive,EAEO
+– mioposto has a very creative & delicious pizza menu .,pizza,QUALITY,delicious,positive,EAEO
+– mioposto has a very creative & delicious pizza menu .,pizza,STYLE_OPTIONS,creative,positive,EAEO
+"the coffe is very good , too .",coffe,QUALITY,good,positive,EAEO
+great open and friendly ambience .,ambience,GENERAL,great,positive,EAEO
+great open and friendly ambience .,ambience,GENERAL,open,positive,EAEO
+great open and friendly ambience .,ambience,GENERAL,friendly,positive,EAEO
+this place is charming and relaxing .,place,GENERAL,charming,positive,EAEO
+this place is charming and relaxing .,place,GENERAL,relaxing,positive,EAEO
+the servers behind the counter are always friendly and helpful .,servers,GENERAL,friendly,positive,EAEO
+the servers behind the counter are always friendly and helpful .,servers,GENERAL,helpful,positive,EAEO
+it ' s a great place to enjoy food and meet friends .,food,QUALITY,enjoy,positive,EAEO
+it ' s a great place to enjoy food and meet friends .,place,MISCELLANEOUS,great,positive,EAEO
+"great food , spectacular location , and friendly service keep us coming back year after year .",food,QUALITY,great,positive,EAEO
+"great food , spectacular location , and friendly service keep us coming back year after year .",location,GENERAL,spectacular,positive,EAEO
+"great food , spectacular location , and friendly service keep us coming back year after year .",service,GENERAL,friendly,positive,EAEO
+enjoyed the food,food,QUALITY,enjoyed,positive,EAEO
+food was good and cheap .,food,QUALITY,good,positive,EAEO
+food was good and cheap .,food,PRICES,cheap,positive,EAEO
+i had the kafta plate and i enjoyed it .,kafta,QUALITY,enjoyed,positive,EAEO
+atmosphere was nice .,atmosphere,GENERAL,nice,positive,EAEO
+"service was kind of slow , our waitress took forever to give us our check even though it was n ' t that busy .",service,GENERAL,slow,negative,EAEO
+"service was kind of slow , our waitress took forever to give us our check even though it was n ' t that busy .",waitress,GENERAL,null,negative,EAIO
+still i would recommend this place .,place,GENERAL,recommend,positive,EAEO
+what else can you say nice people amazing food wow,food,QUALITY,amazing,positive,EAEO
+what else can you say nice people amazing food wow,people,GENERAL,nice,positive,EAEO
+what else can you say nice people amazing food wow,null,GENERAL,null,positive,IAIO
+great food with an awesome atmosphere !,food,QUALITY,great,positive,EAEO
+great food with an awesome atmosphere !,atmosphere,GENERAL,awesome,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",eggs,QUALITY,delicious,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",pancakes,QUALITY,delicious,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",potatoes,QUALITY,delicious,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",fresh,QUALITY,delicious,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",yogurt,QUALITY,delicious,positive,EAEO
+"– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .",null,QUALITY,delicious,positive,IAEO
+"the best place for a leisure sunday breakfast amidst yachts , then take a stroll through the nearby farmer ' s market .",place,MISCELLANEOUS,best,positive,EAEO
+great meal – the fish on the omikase platter was absolutely decadent - - there was none of the stringiness that sometimes accompanies fair sushi - - this fish was perfect ! ! ! !,meal,QUALITY,great,positive,EAEO
+great meal – the fish on the omikase platter was absolutely decadent - - there was none of the stringiness that sometimes accompanies fair sushi - - this fish was perfect ! ! ! !,fish,QUALITY,decadent,positive,EAEO
+great meal – the fish on the omikase platter was absolutely decadent - - there was none of the stringiness that sometimes accompanies fair sushi - - this fish was perfect ! ! ! !,fish,QUALITY,perfect,positive,EAEO
+"plus , i am allergic to rice , and the waitstaff was unbelievably accomodating - - did n ' t even bat an eye !",waitstaff,GENERAL,accomodating,positive,EAEO
+and the waiter suggested a perfect sake ! !,waiter,GENERAL,null,positive,EAIO
+and the waiter suggested a perfect sake ! !,sake,QUALITY,perfect,positive,EAEO
+unbeatable sushi !,sushi,QUALITY,unbeatable,positive,EAEO
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",nigiri,QUALITY,null,positive,EAIO
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",sashmi,QUALITY,null,positive,EAIO
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",rolls,QUALITY,tasty,positive,EAEO
+be sure to try the oyster roll .,oyster,QUALITY,try,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,best,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,delicious,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,amazing,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,fantastic,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,suculent,positive,EAEO
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,QUALITY,perfect,positive,EAEO
+"i ca n ' t saybenough good things about this restaurant , and i ca n ' t wait for my next several visits .",restaurant,GENERAL,good,positive,EAEO
+the best chuwam mushi i have ever had .,chuwam,QUALITY,best,positive,EAEO
+"good sushi , high price",sushi,QUALITY,good,positive,EAEO
+"good sushi , high price",sushi,PRICES,high,negative,EAEO
+one of the best sushi place in town .,sushi,GENERAL,best,positive,EAEO
+the house special roll is really good .,house,QUALITY,good,positive,EAEO
+"brunch at murphy ' s is to die for , my specialty . . . egg white omelet , the food is always freshly prepared .",brunch,QUALITY,null,positive,EAIO
+"brunch at murphy ' s is to die for , my specialty . . . egg white omelet , the food is always freshly prepared .",egg,QUALITY,freshly,positive,EAEO
+"brunch at murphy ' s is to die for , my specialty . . . egg white omelet , the food is always freshly prepared .",food,QUALITY,freshly,positive,EAEO
+it ' s the perfect spot for a romantic date for 2 or a secret rendezvous !,spot,MISCELLANEOUS,perfect,positive,EAEO
+it ' s the perfect spot for a romantic date for 2 or a secret rendezvous !,spot,GENERAL,perfect,positive,EAEO
+save room for scrumptious desserts .,desserts,QUALITY,scrumptious,positive,EAEO
+the restaurant offers an extensive wine list and an ambiance you wo n ' t forget !,wine,STYLE_OPTIONS,extensive,positive,EAEO
+the restaurant offers an extensive wine list and an ambiance you wo n ' t forget !,ambiance,GENERAL,null,positive,EAIO
+– best mexican place for lunch in the financial district .,mexican,GENERAL,best,positive,EAEO
+love the enchiladas and chicken soup - and be sure to check out their specials .,enchiladas,QUALITY,love,positive,EAEO
+love the enchiladas and chicken soup - and be sure to check out their specials .,chicken,QUALITY,love,positive,EAEO
+love the enchiladas and chicken soup - and be sure to check out their specials .,specials,QUALITY,null,positive,EAIO
+the cooks have been at the restaurant for years and cook family recipes .,cooks,QUALITY,null,positive,EAIO
+"can get busy on fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .",service,GENERAL,efficient,positive,EAEO
+the sushi was excellent and the wait staff was quick .,sushi,QUALITY,excellent,positive,EAEO
+the sushi was excellent and the wait staff was quick .,wait,GENERAL,quick,positive,EAEO
+the atmosphere was just okay .,atmosphere,GENERAL,okay,neutral,EAEO
+"space was limited , but the food made up for it .",space,MISCELLANEOUS,limited,negative,EAEO
+"space was limited , but the food made up for it .",food,QUALITY,null,positive,EAIO
+we stood there for 10 minutes while employees walked back and forth ignoring us .,employees,GENERAL,ignoring,negative,EAEO
+"finally , my wife stood face to face in front of one of the staff and she asked , ` ` are you waiting for a table ? ' '",staff,GENERAL,null,negative,EAIO
+the caesar salad i ordered had so much lemon i could n ' t eat it .,caesar,QUALITY,null,negative,EAIO
+"great food , better margaritas !",food,QUALITY,great,positive,EAEO
+"great food , better margaritas !",margaritas,QUALITY,better,positive,EAEO
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",portions,STYLE_OPTIONS,huge,positive,EAEO
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",service,GENERAL,fast,positive,EAEO
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",margaritas,QUALITY,amazing,positive,EAEO
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",null,GENERAL,top,positive,IAEO
+"it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !",service,GENERAL,quick,positive,EAEO
+"check out the art on the walls , very colorful !",art,GENERAL,colorful,positive,EAEO
+i love this place !,place,GENERAL,love,positive,EAEO
+– i have been eating at this place for over 8 years now and i have never had one bad meal .,meal,QUALITY,bad,positive,EAEO
+i highly recommend this place to all that want to try indain food for the first time .,indain,QUALITY,recommend,positive,EAEO
+the lunch menu is an awesome deal !,lunch,PRICES,awesome,positive,EAEO
+"plenty of food , trust me .",food,STYLE_OPTIONS,plenty,positive,EAEO
+fresh ingrediants and super tasty .,ingrediants,QUALITY,fresh,positive,EAEO
+fresh ingrediants and super tasty .,null,QUALITY,super,positive,IAEO
+"best food , phenominal service",food,QUALITY,best,positive,EAEO
+"best food , phenominal service",service,GENERAL,phenominal,positive,EAEO
+"for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .",fish,QUALITY,freshest,positive,EAEO
+"for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .",service,GENERAL,superb,positive,EAEO
+"not only can the selection be innovative , but there ' s a nice balance of traditional sushi as well .",selection,STYLE_OPTIONS,innovative,positive,EAEO
+"not only can the selection be innovative , but there ' s a nice balance of traditional sushi as well .",sushi,STYLE_OPTIONS,nice,positive,EAEO
+the nicest waiters in town .,waiters,GENERAL,nicest,positive,EAEO
+– this place is unbelievably over - rated .,place,GENERAL,over,negative,EAEO
+"if i want to stand in line on sunday for an hour to get average brunch food , then i would put murphy ' s at the top of the list .",brunch,QUALITY,average,neutral,EAEO
+"if i want to stand in line on sunday for an hour to get average brunch food , then i would put murphy ' s at the top of the list .",null,GENERAL,null,negative,IAIO
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive .,regular,QUALITY,above,neutral,EAEO
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive .,regular,QUALITY,not,neutral,EAEO
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive .,null,GENERAL,snotty,negative,IAEO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sushi,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",fish,STYLE_OPTIONS,love,positive,EAEO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sake,QUALITY,great,positive,EAEO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",soho,GENERAL,killer,positive,EAEO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",salmon,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",tuna,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",fluke,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",yellow,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",cod,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",mackeral,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",jellyfish,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sea,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",shrimp,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",lobster,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sea,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",trout,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",milk,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",blue,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",eel,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",crab,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sardine,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",monk,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",roe,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",scallop,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",oysters,QUALITY,null,positive,EAIO
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",toro,STYLE_OPTIONS,null,positive,EAIO
+"there is only one place on the east coast that has it all , plus a lot more .",place,GENERAL,null,positive,EAIO
+bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : blue ribbon sushi .,blue,GENERAL,best,positive,EAEO
+"hands down , the best tuna i have ever had .",tuna,QUALITY,best,positive,EAEO
+blue ribbon lives up to it ' s fantastic reputation .,blue,GENERAL,fantastic,positive,EAEO
+great value sushi with high quality & nice setting .,sushi,PRICES,great,positive,EAEO
+great value sushi with high quality & nice setting .,sushi,PRICES,value,positive,EAEO
+great value sushi with high quality & nice setting .,sushi,QUALITY,high,positive,EAEO
+great value sushi with high quality & nice setting .,setting,GENERAL,nice,positive,EAEO
+try the chef ' s choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,chef,QUALITY,null,positive,EAIO
+try the chef ' s choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,rolls,QUALITY,tasty,positive,EAEO
+try the chef ' s choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,smoked,QUALITY,incredible,positive,EAEO
+poor customer service / poor pizza .,customer,GENERAL,poor,negative,EAEO
+poor customer service / poor pizza .,pizza,QUALITY,poor,negative,EAEO
+"– as with most restaurants in seattle , mioposto ' s service was bad and the food was overpriced .",service,GENERAL,bad,negative,EAEO
+"– as with most restaurants in seattle , mioposto ' s service was bad and the food was overpriced .",food,PRICES,overpriced,negative,EAEO
+"i know many people have their favorite types of pizza and pizza places , but mioposto ' s pizza lacks quality and good taste .",pizza,QUALITY,lacks,negative,EAEO
+"to be honest , i ' ve had better frozen pizza .",pizza,QUALITY,better,negative,EAEO
+the only positive thing about mioposto is the nice location .,location,GENERAL,nice,positive,EAEO
+the only positive thing about mioposto is the nice location .,mioposto,GENERAL,null,negative,EAIO
+"i was frankly shocked when i read the bad reviews - this place is fantastic ; it has not let us down in any way , and we ' ve eaten here more than 10 times .",place,GENERAL,fantastic,positive,EAEO
+"the food is fantastic , and the waiting staff has been perfect every single time we ' ve been there .",food,QUALITY,fantastic,positive,EAEO
+"the food is fantastic , and the waiting staff has been perfect every single time we ' ve been there .",waiting,GENERAL,perfect,positive,EAEO
+"the only problem would be the wait , but we usually just have a drink in the front while waiting .",wait,GENERAL,null,neutral,EAIO
+seabass on lobster risotto was the best .,seabass,QUALITY,best,positive,EAEO
+caesar salad was superb .,caesar,QUALITY,superb,positive,EAEO
+great bottle of wine .,bottle,QUALITY,great,positive,EAEO
+leave room for dessert .,dessert,QUALITY,null,positive,EAIO
+i waited for 10 - 15 minutes for service ordered a beer & was never served again .,service,GENERAL,null,neutral,EAIO
+"the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .",food,QUALITY,ok,neutral,EAEO
+"the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .",service,GENERAL,poor,negative,EAEO
+avoid the place,place,GENERAL,avoid,negative,EAEO
+when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !,atmosphere,GENERAL,cozy,positive,EAEO
+when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !,service,GENERAL,horrible,negative,EAEO
+we left without ever getting service .,service,GENERAL,null,negative,EAIO
+best crab cakes in town,crab,QUALITY,best,positive,EAEO
+– thats a big statement considering i ' ve been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .,cakes,QUALITY,better,positive,EAEO
+"if you can , come to this place by boat and make it a whole evening .",place,MISCELLANEOUS,null,positive,EAIO
+"great seasonal fish and seafood , with a classy waterfront setting .",seasonal,QUALITY,great,positive,EAEO
+"great seasonal fish and seafood , with a classy waterfront setting .",seafood,QUALITY,great,positive,EAEO
+"great seasonal fish and seafood , with a classy waterfront setting .",waterfront,GENERAL,classy,positive,EAEO
+"great pizza , poor service",pizza,QUALITY,great,positive,EAEO
+"great pizza , poor service",service,GENERAL,poor,negative,EAEO
+"– love their pizza , especially the mushroom pizza .",pizza,QUALITY,love,positive,EAEO
+"– love their pizza , especially the mushroom pizza .",mushroom,QUALITY,love,positive,EAEO
+also love their caeser salad .,caeser,QUALITY,love,positive,EAEO
+"prefer to order it and pick it up though because i do n ' t like the servers , one young woman in particular .",servers,GENERAL,n,negative,EAEO
+"prefer to order it and pick it up though because i do n ' t like the servers , one young woman in particular .",young,GENERAL,n,negative,EAEO
+– this place is famous for their breakfast .,breakfast,QUALITY,famous,positive,EAEO
+"many people talk about the great pizza and poor service , so it ca n ' t just be the rantings of a few dissatisfied customers .",pizza,QUALITY,great,positive,EAEO
+"many people talk about the great pizza and poor service , so it ca n ' t just be the rantings of a few dissatisfied customers .",service,GENERAL,poor,negative,EAEO
+it ' s a great little place with tons of potential to be a neighborhood joint if the service were n ' t so impersonal and corporate - like .,place,GENERAL,great,positive,EAEO
+it ' s a great little place with tons of potential to be a neighborhood joint if the service were n ' t so impersonal and corporate - like .,service,GENERAL,n,negative,EAEO
+great breakfast,breakfast,QUALITY,great,positive,EAEO
+the food is great and they make a mean bloody mary .,food,QUALITY,great,positive,EAEO
+the food is great and they make a mean bloody mary .,bloody,QUALITY,mean,positive,EAEO
+i love breakfast here .,breakfast,QUALITY,love,positive,EAEO
+their crab eggs benedict is addicting .,crab,QUALITY,addicting,positive,EAEO
+"all their menu items are a hit , and they serve mimosas .",menu,QUALITY,hit,positive,EAEO
+"all their menu items are a hit , and they serve mimosas .",null,STYLE_OPTIONS,hit,positive,IAEO
+best chinese food i have tasted in a long time,chinese,QUALITY,best,positive,EAEO
+the ambiance of the restaurant was nice and good for fine dinning .,ambiance,GENERAL,nice,positive,EAEO
+the ambiance of the restaurant was nice and good for fine dinning .,ambiance,GENERAL,good,positive,EAEO
+the staff was very nice and courteous and obviously chinese .,staff,GENERAL,nice,positive,EAEO
+the staff was very nice and courteous and obviously chinese .,staff,GENERAL,courteous,positive,EAEO
+"so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .",prawns,QUALITY,fresh,positive,EAEO
+"so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .",batter,QUALITY,crispiness,positive,EAEO
+"so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .",walnuts,QUALITY,crunchy,positive,EAEO
+"so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .",walnuts,QUALITY,tasty,positive,EAEO
+best honey walnyt prawns that we have every tasted .,honey,QUALITY,best,positive,EAEO
+the brocollis were so fresh and tasty .,brocollis,QUALITY,fresh,positive,EAEO
+the brocollis were so fresh and tasty .,brocollis,QUALITY,tasty,positive,EAEO
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .",brocolli,QUALITY,null,positive,EAIO
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .",prawns,QUALITY,fresh,positive,EAEO
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .",prawns,QUALITY,nicely,positive,EAEO
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .",scallops,QUALITY,fresh,positive,EAEO
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .",scallops,QUALITY,nicely,positive,EAEO
+chintzy portions,portions,STYLE_OPTIONS,chintzy,negative,EAEO
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",sushi,QUALITY,good,negative,EAEO
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",sushi,STYLE_OPTIONS,null,negative,EAIO
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",sushi,PRICES,null,negative,EAIO
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",restaurant,PRICES,moderately,negative,EAEO
+"terrible service , food ok , pricey",service,GENERAL,terrible,negative,EAEO
+"terrible service , food ok , pricey",food,QUALITY,ok,neutral,EAEO
+"terrible service , food ok , pricey",null,PRICES,pricey,negative,IAEO
+"food wise , its ok but a bit pricey for what you get considering the restaurant is n ' t a fancy place .",food,QUALITY,ok,neutral,EAEO
+"food wise , its ok but a bit pricey for what you get considering the restaurant is n ' t a fancy place .",food,PRICES,pricey,negative,EAEO
+"food wise , its ok but a bit pricey for what you get considering the restaurant is n ' t a fancy place .",restaurant,GENERAL,n,neutral,EAEO
+if i needed to name some they would include the location to the beach or golden gate park .,location,GENERAL,null,negative,EAIO
+another plus is the open feel of the restaurant with glass walls on all sides .,feel,GENERAL,plus,positive,EAEO
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao - - um um um ) .,spanish,QUALITY,amazing,positive,EAEO
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao - - um um um ) .,box,QUALITY,perfect,positive,EAEO
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao - - um um um ) .,that,QUALITY,null,positive,EAIO
+"as usual the omikase did n ' t disappoint in freshness , although it scored low on creativity and selection .",omikase,QUALITY,n,positive,EAEO
+"as usual the omikase did n ' t disappoint in freshness , although it scored low on creativity and selection .",omikase,STYLE_OPTIONS,null,negative,EAIO
+"their specialty rolls are impressive , though i ca n ' t remember what we had .",specialty,QUALITY,impressive,positive,EAEO
+green tea creme brulee gets better each time i have it .,green,QUALITY,better,positive,EAEO
+great selection of sakes .,selection,STYLE_OPTIONS,great,positive,EAEO
+it is n ' t the cheapest sushi but has been worth it every time .,sushi,PRICES,n,neutral,EAEO
+it is n ' t the cheapest sushi but has been worth it every time .,sushi,QUALITY,worth,positive,EAEO
+very poor customer service .,customer,GENERAL,poor,negative,EAEO
+"– schooner or later ' s charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",location,GENERAL,charming,positive,EAEO
+"– schooner or later ' s charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",food,QUALITY,average,neutral,EAEO
+"– schooner or later ' s charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",customer,GENERAL,poor,negative,EAEO
+"while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .",food,QUALITY,good,positive,EAEO
+"while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .",restaurant,GENERAL,indifferent,negative,EAEO
+"the fish was fresh , though it was cut very thin .",fish,QUALITY,fresh,positive,EAEO
+"the fish was fresh , though it was cut very thin .",fish,QUALITY,thin,negative,EAEO
+great service .,service,GENERAL,great,positive,EAEO
+good sake selection .,sake,STYLE_OPTIONS,good,positive,EAEO
+dungeness crabs here !,dungeness,QUALITY,null,positive,EAIO
+– ray ' s is the place to go for high quality seafood dinners .,seafood,QUALITY,high,positive,EAEO
+i love dungeness crabs and at ray ' s you can get them served in about 6 different ways !,dungeness,STYLE_OPTIONS,love,positive,EAEO
+we shared the family platter and i especially enjoyed the black cod in sake kasu .,black,QUALITY,enjoyed,positive,EAEO
+i ended the meal with the unusual dessert of a port and chocolate tasting . . . . yummy !,dessert,QUALITY,unusual,positive,EAEO
+i ended the meal with the unusual dessert of a port and chocolate tasting . . . . yummy !,dessert,QUALITY,yummy,positive,EAEO
+and the service was simply spendid - quite a delight .,service,GENERAL,spendid,positive,EAEO
+and the service was simply spendid - quite a delight .,service,GENERAL,delight,positive,EAEO
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",drinks,QUALITY,great,positive,EAEO
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",corn,QUALITY,great,positive,EAEO
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",coffee,QUALITY,great,positive,EAEO
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",b,QUALITY,great,positive,EAEO
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",menu,STYLE_OPTIONS,great,positive,EAEO
+the service is fantastic at this fun place .,service,GENERAL,fantastic,positive,EAEO
+the service is fantastic at this fun place .,place,GENERAL,fun,positive,EAEO
+"if there is a line very day of the week for the entire time a place is open , you know it is great .",place,GENERAL,great,positive,EAEO
+best neighborhood standby .,standby,GENERAL,best,positive,EAEO
+in grammercy / union square / east village this is my neighbors and my favorite spot .,spot,GENERAL,favorite,positive,EAEO
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",music,GENERAL,great,positive,EAEO
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",bar,STYLE_OPTIONS,generous,positive,EAEO
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",atmosphere,GENERAL,lighthearted,positive,EAEO
+"oh , and the cheese fries are awesome !",cheese,QUALITY,awesome,positive,EAEO
+"good food , great service , average prices ( for the strip )",food,QUALITY,good,positive,EAEO
+"good food , great service , average prices ( for the strip )",service,GENERAL,great,positive,EAEO
+"good food , great service , average prices ( for the strip )",null,PRICES,average,neutral,IAEO
+"when i walked in , i was taken aback by their incredible wood decor .",wood,GENERAL,incredible,positive,EAEO
+"the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .",music,GENERAL,very,positive,EAEO
+"the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .",subwoofer,GENERAL,annoying,negative,EAEO
+i got the shellfish and shrimp appetizer and it was alright .,shellfish,QUALITY,alright,neutral,EAEO
+"it was n ' t the freshest seafood ever , but the taste and presentation was ok .",seafood,STYLE_OPTIONS,ok,neutral,EAEO
+"it was n ' t the freshest seafood ever , but the taste and presentation was ok .",seafood,QUALITY,ok,neutral,EAEO
+"i picked the asparagus , which turned out to be incredible and perfectly prepared .",asparagus,QUALITY,incredible,positive,EAEO
+"i picked the asparagus , which turned out to be incredible and perfectly prepared .",asparagus,QUALITY,perfectly,positive,EAEO
+"the 9 oz steak came next and it tasted great , at least initially .",9,QUALITY,great,positive,EAEO
+the steak was done to my exact liking ( medium rare ) and was nice and juicy .,steak,QUALITY,nice,positive,EAEO
+the steak was done to my exact liking ( medium rare ) and was nice and juicy .,steak,QUALITY,juicy,positive,EAEO
+"it ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",red,QUALITY,indistinguishable,neutral,EAEO
+"it ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",peppercorn,QUALITY,indistinguishable,neutral,EAEO
+"though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak .",steak,QUALITY,null,negative,EAIO
+the desert was the perfect ending to an almost perfect dinner .,desert,QUALITY,perfect,positive,EAEO
+the desert was the perfect ending to an almost perfect dinner .,dinner,QUALITY,perfect,positive,EAEO
+"overall , i would go back and eat at the restaurant again .",restaurant,GENERAL,null,positive,EAIO
+but the servers were extremely attentive and very friendly .,servers,GENERAL,attentive,positive,EAEO
+but the servers were extremely attentive and very friendly .,servers,GENERAL,friendly,positive,EAEO
+"good sake , good food – i honestly do n ' t know much about japanese food at all .",sake,QUALITY,good,positive,EAEO
+"good sake , good food – i honestly do n ' t know much about japanese food at all .",food,QUALITY,good,positive,EAEO
+server made several sake suggestions which were very good .,sake,QUALITY,good,positive,EAEO
+server made several sake suggestions which were very good .,server,GENERAL,good,positive,EAEO
+had many dishes but the best was the lobster 3 ways .,lobster,QUALITY,best,positive,EAEO
+the waiter was a bit unfriendly and the feel of the restaurant was crowded .,waiter,GENERAL,unfriendly,negative,EAEO
+the waiter was a bit unfriendly and the feel of the restaurant was crowded .,feel,GENERAL,crowded,negative,EAEO
+"also , there was only one bathroom stall - probably need more for such big crowds .",bathroom,MISCELLANEOUS,null,positive,EAIO
+"most importantly , we were so excited about the food after seeing the very creative menu .",menu,STYLE_OPTIONS,creative,positive,EAEO
+"at best , the food was good and definately overpriced .",food,QUALITY,good,positive,EAEO
+"at best , the food was good and definately overpriced .",food,QUALITY,overpriced,negative,EAEO
+for the amount of food we got the prices should have been lower .,food,PRICES,null,negative,EAIO
+for the amount of food we got the prices should have been lower .,food,STYLE_OPTIONS,null,negative,EAIO
+my favortie pizza joint in seattle,pizza,GENERAL,favortie,positive,EAEO
+– this is my ` ` must bring out of town guests to ' ' restaurant and they always enjoy and rave about it .,restaurant,GENERAL,enjoy,positive,EAEO
+– this is my ` ` must bring out of town guests to ' ' restaurant and they always enjoy and rave about it .,restaurant,GENERAL,rave,positive,EAEO
+the pizza is delicious and the salads are fantastic .,pizza,QUALITY,delicious,positive,EAEO
+the pizza is delicious and the salads are fantastic .,salads,QUALITY,fantastic,positive,EAEO
+"i ' ve always found the wait staff and , if you sit at the bar , the cooks very friendly .",wait,GENERAL,friendly,positive,EAEO
+"i ' ve always found the wait staff and , if you sit at the bar , the cooks very friendly .",cooks,GENERAL,friendly,positive,EAEO
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,decor,GENERAL,enjoy,positive,EAEO
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,decor,GENERAL,simplicity,positive,EAEO
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,feeling,GENERAL,intimate,positive,EAEO
+– my husband and i love eating at mioposto cafe .,mioposto,GENERAL,love,positive,EAEO
+we ' re ca n ' t say enough about their delicious gourmet pizza ’ s !,delicious,QUALITY,pizza,positive,EAEO
+you won ’ t be disappointed by their menu .,menu,STYLE_OPTIONS,’,positive,EAEO
+the pizza ' s are thin crust and the menu offers very creative combinations and toppings .,pizza,STYLE_OPTIONS,thin,positive,EAEO
+the pizza ' s are thin crust and the menu offers very creative combinations and toppings .,menu,STYLE_OPTIONS,creative,positive,EAEO
+try the pizza ensalata !,pizza,QUALITY,try,positive,EAEO
+the pizza ' s are not huge and the crust is thin … keep that in mind when you ’ re ordering .,pizza,STYLE_OPTIONS,not,positive,EAEO
+the pizza ' s are not huge and the crust is thin … keep that in mind when you ’ re ordering .,crust,STYLE_OPTIONS,thin,positive,EAEO
+the food is sinful .,food,QUALITY,sinful,positive,EAEO
+the staff was really friendly .,staff,GENERAL,friendly,positive,EAEO
+the atmosphere was great .,atmosphere,GENERAL,great,positive,EAEO
+"the specialty here is decadent pancakes , but i ' ve been back now four times , and i ' ve been wowed every time .",pancakes,QUALITY,decadent,positive,EAEO
+nothing on the menu is less than amazing .,menu,QUALITY,amazing,positive,EAEO
+good eats .,eats,QUALITY,good,positive,EAEO
+"i have been to this place , folks and it is bad .",place,GENERAL,bad,negative,EAEO
+maybe it is good for that one night once in a blue moon when the chefs decide to use fish that ' s half - way decent .,fish,QUALITY,decent,negative,EAEO
+"i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .",chef,QUALITY,dissappointment,negative,EAEO
+"i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .",chef,PRICES,dissappointment,negative,EAEO
+– the atmosphere is great for any special occasion you might want to celebrate .,atmosphere,GENERAL,great,positive,EAEO
+the best dish are the honwy walnut prawns - just outstanding .,honwy,QUALITY,outstanding,positive,EAEO
+the best dish are the honwy walnut prawns - just outstanding .,honwy,QUALITY,best,positive,EAEO
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .,exotic,QUALITY,null,negative,EAIO
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .,exotic,STYLE_OPTIONS,fancy,negative,EAEO
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .,plate,PRICES,null,negative,EAIO
+the service is really attentive and charming .,service,GENERAL,attentive,positive,EAEO
+the service is really attentive and charming .,service,GENERAL,charming,positive,EAEO
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",service,GENERAL,excellent,positive,EAEO
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",coffee,QUALITY,good,positive,EAEO
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",food,QUALITY,outstanding,positive,EAEO
+– i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had .,restaurant,GENERAL,delightful,positive,EAEO
+"the food is fantastic , authentic , delicious and very , very affordable .",food,QUALITY,fantastic,positive,EAEO
+"the food is fantastic , authentic , delicious and very , very affordable .",food,QUALITY,authentic,positive,EAEO
+"the food is fantastic , authentic , delicious and very , very affordable .",food,QUALITY,delicious,positive,EAEO
+"the food is fantastic , authentic , delicious and very , very affordable .",food,PRICES,affordable,positive,EAEO
+the decor was beautiful and unique .,decor,GENERAL,beautiful,positive,EAEO
+the decor was beautiful and unique .,decor,GENERAL,unique,positive,EAEO
+"there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .",music,GENERAL,good,positive,EAEO
+"there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .",atmosphere,GENERAL,good,positive,EAEO
+"there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .",vibe,GENERAL,nice,positive,EAEO
+"there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .",people,MISCELLANEOUS,happy,positive,EAEO
+our server was very professional and friendly .,server,GENERAL,professional,positive,EAEO
+our server was very professional and friendly .,server,GENERAL,friendly,positive,EAEO
+to the owners of open sesame . . . bravo . . . i ca n ' t wait to come back to dine at your restaurant !,open,GENERAL,null,positive,EAIO
+it ' s a tiny place so if you get there before 8pm on a weekend ( thurs ? sun ) you will find it easier to get a table or a seat at the sushi bar .,place,MISCELLANEOUS,tiny,neutral,EAEO
+"everything , and i mean everything on the menu is delectable .",menu,QUALITY,delectable,positive,EAEO
+the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .,waiters,GENERAL,experienced,positive,EAEO
+the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .,waiters,GENERAL,helpful,positive,EAEO
+"the sushi is as fresh as it comes ? you ' d think ocean was in their backyard , no joke !",sushi,QUALITY,fresh,positive,EAEO
+"if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .",portions,STYLE_OPTIONS,large,positive,EAEO
+"if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .",sushi,STYLE_OPTIONS,creative,positive,EAEO
+"if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .",null,QUALITY,good,positive,IAEO
+big thick pepperoni,pepperoni,STYLE_OPTIONS,big,positive,EAEO
+big thick pepperoni,pepperoni,STYLE_OPTIONS,thick,positive,EAEO
+– the pepperoni ' s cut real thick - - yum .,pepperoni,STYLE_OPTIONS,thick,positive,EAEO
+– the pepperoni ' s cut real thick - - yum .,pepperoni,STYLE_OPTIONS,yum,positive,EAEO
+"the pizza itself is not exactly the best i ' ve had ever , but still pretty good .",pizza,QUALITY,good,positive,EAEO
+food was good and appetizing .,food,QUALITY,good,positive,EAEO
+food was good and appetizing .,food,QUALITY,appetizing,positive,EAEO
+"portions was just enough for me , but may not be for a big eater .",portions,STYLE_OPTIONS,enough,neutral,EAEO
+fair menu selection .,menu,STYLE_OPTIONS,fair,neutral,EAEO
+"the appetizer was interesting , but the creme brulee was very savory and delicious .",appetizer,QUALITY,interesting,positive,EAEO
+"the appetizer was interesting , but the creme brulee was very savory and delicious .",creme,QUALITY,savory,positive,EAEO
+"the appetizer was interesting , but the creme brulee was very savory and delicious .",creme,QUALITY,delicious,positive,EAEO
+indoor ambience was modern .,indoor,GENERAL,modern,positive,EAEO
+"if it ' s nice outside , request for a table in the balcony .",balcony,GENERAL,nice,positive,EAEO
+it ' s a great place to people watch .,place,MISCELLANEOUS,great,positive,EAEO
+late night dinning with exeptional food .,food,QUALITY,exeptional,positive,EAEO
+"we were seated right away , the table was private and nice .",table,GENERAL,private,positive,EAEO
+"we were seated right away , the table was private and nice .",table,GENERAL,nice,positive,EAEO
+"we were seated right away , the table was private and nice .",null,GENERAL,null,positive,IAIO
+the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .,service,GENERAL,exceptional,positive,EAEO
+the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .,waiters,GENERAL,friendly,positive,EAEO
+"the food was very good , filet mignon was probably the best i ' ve ever try .",food,QUALITY,good,positive,EAEO
+"the food was very good , filet mignon was probably the best i ' ve ever try .",filet,QUALITY,best,positive,EAEO
+"the portions are big though , so do not order too much .",portions,STYLE_OPTIONS,big,neutral,EAEO
+groovy music made the dinner casual .,music,GENERAL,casual,positive,EAEO
+i have a but here - there was a bathroom attendant in the restroom which was odd .,restroom,MISCELLANEOUS,odd,negative,EAEO
+"the bathroom itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .",bathroom,MISCELLANEOUS,small,negative,EAEO
+"– mercedes restaurant is so tasty , the service is undeniably awesome !",service,GENERAL,awesome,positive,EAEO
+"– mercedes restaurant is so tasty , the service is undeniably awesome !",null,QUALITY,tasty,positive,IAEO
+"the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !",raouls,QUALITY,rocks,positive,EAEO
+"the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !",catering,QUALITY,out,positive,EAEO
+"drinks are suberb , and i feel like i am in a third world country when i walk in the door .",drinks,QUALITY,suberb,positive,EAEO
+"drinks are suberb , and i feel like i am in a third world country when i walk in the door .",null,GENERAL,null,positive,IAIO
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,snooze,GENERAL,excellent,negative,EAEO
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,snooze,PRICES,overpriced,negative,EAEO
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,menu,STYLE_OPTIONS,high,negative,EAEO
+"to start off , approximately 8 - 10 oz of orange juice will cost you $ 3 .",orange,PRICES,null,negative,EAIO
+"they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .",juice,STYLE_OPTIONS,small,negative,EAEO
+"they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .",juice,PRICES,small,negative,EAEO
+i should have just asked for the check when i saw that ; but their menu was so unique that i continued .,menu,STYLE_OPTIONS,unique,positive,EAEO
+the pancakes were certainly inventive but $ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .,pancakes,STYLE_OPTIONS,inventive,positive,EAEO
+the pancakes were certainly inventive but $ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .,pancakes,PRICES,over,negative,EAEO
+the pancakes should be larger ( at least 8 ' ' ) to justify the expense even with the unique offerings .,pancakes,STYLE_OPTIONS,null,negative,EAIO
+the pancakes should be larger ( at least 8 ' ' ) to justify the expense even with the unique offerings .,pancakes,PRICES,null,negative,EAIO
+"on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n ' t rejected the meal all together .",eggs,QUALITY,null,negative,EAIO
+"on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n ' t rejected the meal all together .",meal,QUALITY,null,negative,EAIO
+i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue .,dish,QUALITY,frustrated,negative,EAEO
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",pancakes,STYLE_OPTIONS,small,negative,EAEO
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",pancakes,PRICES,small,negative,EAEO
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",breakfast,PRICES,small,negative,EAEO
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",orange,PRICES,small,negative,EAEO
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",iced,PRICES,small,negative,EAEO
+much more than just a great view !,view,GENERAL,great,positive,EAEO
+much more than just a great view !,null,GENERAL,great,positive,IAEO
+– i am exceedingly pleased to report that my dinner at ray ' s boathouse last friday completely exceeded my expectations .,ray,GENERAL,pleased,positive,EAEO
+"ray ' s is something of a seattle institution , but given its gorgeous sound views , i had suspected that the accolades were more due to the scenery than to the food and service .",sound,GENERAL,gorgeous,positive,EAEO
+imagine my happy surprise upon finding that the views are only the third - best thing about ray ' s !,views,GENERAL,third,positive,EAEO
+imagine my happy surprise upon finding that the views are only the third - best thing about ray ' s !,ray,GENERAL,happy,positive,EAEO
+"to start things off , our lovely server brooke was quickly on hand to take my drink order .",brooke,GENERAL,lovely,positive,EAEO
+"to start things off , our lovely server brooke was quickly on hand to take my drink order .",brooke,GENERAL,quickly,positive,EAEO
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",white,STYLE_OPTIONS,enormous,positive,EAEO
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",manila,QUALITY,fantastic,positive,EAEO
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",soy,QUALITY,tasty,positive,EAEO
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",butter,QUALITY,sublime,positive,EAEO
+"for my entr & eacute ; e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .",seared,QUALITY,enjoyed,positive,EAEO
+"for my entr & eacute ; e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .",seared,STYLE_OPTIONS,enjoyed,positive,EAEO
+the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .,scallops,QUALITY,tasty,positive,EAEO
+the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .,scallops,STYLE_OPTIONS,unique,positive,EAEO
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,grilled,QUALITY,enjoyed,positive,EAEO
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,creamed,QUALITY,delectable,positive,EAEO
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,green,QUALITY,crisp,positive,EAEO
+"i had a taste of all three items on her plate , and they were superb .",plate,QUALITY,superb,positive,EAEO
+"our server continued to be attentive throughout the night , but i did remain puzzled by one issue : who thinks that ray ' s is an appropriate place to take young children for dinner ?",server,GENERAL,attentive,positive,EAEO
+"our server continued to be attentive throughout the night , but i did remain puzzled by one issue : who thinks that ray ' s is an appropriate place to take young children for dinner ?",ray,MISCELLANEOUS,null,neutral,EAIO
+"while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .",server,GENERAL,wonderful,positive,EAEO
+"while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .",food,QUALITY,wonderful,positive,EAEO
+"while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .",null,MISCELLANEOUS,positive,negative,IAEO
+"oh yeah . . . the view was good , too .",view,GENERAL,good,positive,EAEO
+yum !,null,QUALITY,yum,positive,IAEO
+do n ' t leave the restaurant without it .,null,QUALITY,null,positive,IAIO
+no comparison,null,GENERAL,null,positive,IAIO
+– i ca n ' t say enough about this place .,place,GENERAL,null,positive,EAIO
+snotty attitude,null,GENERAL,snotty,negative,IAEO
+– we were treated very rudely here one time for breakfast .,null,GENERAL,rudely,negative,IAEO
+we never had to wait more than 5 minutes .,null,GENERAL,null,positive,IAIO
+they are not greasy or anything .,null,QUALITY,not,positive,IAEO
+overrated,null,GENERAL,overrated,negative,IAEO
+– i was highly disappointed in the food at pagoda .,food,QUALITY,disappointed,negative,EAEO
+i will not go back .,null,GENERAL,null,negative,IAIO
+i will never return again .,null,GENERAL,null,negative,IAIO
+it was absolutely amazing .,null,GENERAL,amazing,positive,IAEO
+amazing .,null,GENERAL,amazing,positive,IAEO
+i can not wait to go back again this coming weekend !,null,GENERAL,null,positive,IAIO
+mmm . . . good !,null,GENERAL,good,positive,IAEO
+we ' re going back . : d,null,GENERAL,null,positive,IAIO
+finally a meal that you will remember for a long time !,meal,QUALITY,null,positive,EAIO
+very disappointing,null,GENERAL,disappointing,negative,IAEO
+– i took my parents here for their anniversary - very very disappointed ! ! !,null,GENERAL,disappointed,negative,IAEO
+nothing really came across as outstanding .,null,QUALITY,null,negative,IAIO
+very disappointed .,null,GENERAL,disappointed,negative,IAEO
+we were then charged for their most expensive sake ( $ 20 + per serving ) when we in fact drank a sake of less than half that price .,null,GENERAL,expensive,negative,IAEO
+you are bound to have a very charming time .,null,GENERAL,charming,positive,IAEO
+not recommanded ! ! !,null,GENERAL,not,negative,IAEO
+it is not worth going at all and spend your money there ! ! !,null,GENERAL,not,negative,IAEO
+– pretty cheap for sit down mexican and downtown .,null,PRICES,cheap,positive,IAEO
+– pretty cheap for sit down mexican and downtown .,null,GENERAL,cheap,positive,IAEO
+if you ' re in the area you should n ' t be disappointed .,null,GENERAL,n,positive,IAEO
+ok . . . . – maybe i went in on someone ' s bad day . . . .,null,GENERAL,bad,negative,IAEO
+"took forever to get our order taken , water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention .",null,GENERAL,null,negative,IAIO
+i do n ' t know if i ' ll be back . . . .,null,GENERAL,null,negative,IAIO
+"everything you want and more , very fresh .",null,QUALITY,fresh,positive,IAEO
+"everything you want and more , very fresh .",null,STYLE_OPTIONS,null,positive,IAIO
+"its worth the wait , especially since they ' ll give you a call when the table is ready .",null,GENERAL,worth,positive,IAEO
+"its worth the wait , especially since they ' ll give you a call when the table is ready .",null,GENERAL,worth,positive,IAEO
+i went there with some friends one night to play bingo and watch the sox game and it was a blast !,null,GENERAL,blast,positive,IAEO
+every time ` ` 0 - sixtynine ' ' is called the bartender buys everyone drinks !,bartender,GENERAL,null,positive,EAIO
+been there lots since and its always a good time .,null,GENERAL,good,positive,IAEO
+i found a new home on second avenue ! ! ! ! ! ! ! ! ! ! ! !,null,GENERAL,null,positive,IAIO
+just go there and see for yourself .,null,GENERAL,null,positive,IAIO
+"you need to watch your game , they will have it on for you .",null,GENERAL,null,positive,IAIO
+kudos to these guys .,null,GENERAL,kudos,positive,IAEO
+i found a new home and just moved with a long lease .,null,GENERAL,null,positive,IAIO
+unless you are just stopping in for a few drinks i would n ' t recommend going here .,drinks,QUALITY,null,positive,EAIO
+unless you are just stopping in for a few drinks i would n ' t recommend going here .,null,GENERAL,n,negative,IAEO
+you are likely to be disappointed .,null,GENERAL,disappointed,negative,IAEO
+"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .",null,GENERAL,romantic,positive,IAEO
+"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .",artwork,GENERAL,null,positive,EAIO
+"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .",music,GENERAL,null,positive,EAIO
+i recommend it for a night when you want to splurge ! ( it was a bit expensive ),null,GENERAL,recommend,positive,IAEO
+i recommend it for a night when you want to splurge ! ( it was a bit expensive ),null,PRICES,expensive,negative,IAEO
+"the best thing is , the prices are also quite reasonable .",null,PRICES,reasonable,positive,IAEO
+hidden little jem,null,GENERAL,jem,positive,IAEO
+– tucked away over by the beverly center .,null,GENERAL,null,neutral,IAIO
+"you routinely see indian families and friends dining there , which is always a good sign .",null,MISCELLANEOUS,good,positive,IAEO
+"normally , places ask how hot you want it , but they did n ' t .",null,GENERAL,null,negative,IAIO
+i should have thought to bring it up but never expected the food to be that mild .,food,QUALITY,mild,positive,EAEO
+and they packaged everything nicely so it did n ' t spill .,null,GENERAL,nicely,positive,IAEO
+awesome find,null,GENERAL,awesome,positive,IAEO
+you can order to go if you have to get back to the office too !,null,GENERAL,null,positive,IAIO
+lebanese food ! yum !,lebanese,QUALITY,yum,positive,EAEO
+"– i ' ve been to open sesame only once , but i ' m still reeling from the experience ! !",open,GENERAL,null,positive,EAIO
+"what a tastly , flaky treat !",null,QUALITY,tastly,positive,IAEO
+"what a tastly , flaky treat !",null,QUALITY,flaky,positive,IAEO
+there have been several occasions when we ' ve just not gotten some side dishes we ' ve ordered .,null,GENERAL,null,negative,IAIO
+we waited over 30 minutes for our drinks and over 1 1 / 2 hours for our food .,null,GENERAL,null,negative,IAIO
+"however , one sunday afternoon my husband and i did go ( although with my loud protests ) and were pleasantly surprised .",null,GENERAL,pleasantly,positive,IAEO
+it was like dining at a completely different restaurant .,null,GENERAL,null,positive,IAIO
+"we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .",beer,QUALITY,(,positive,EAEO
+"we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .",beer,QUALITY,and,positive,EAEO
+"we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .",null,GENERAL,great,positive,IAEO
+"we did have the same waiter the second time , so maybe the service is spotty and our luck is good .",waiter,GENERAL,good,positive,EAEO
+sunday afternoons there is a band playing and it is lots of fun .,band,GENERAL,fun,negative,EAEO
+nice job !,null,GENERAL,nice,positive,IAEO
+this is sad for what once was one of the best places you could ever eat .,null,GENERAL,sad,negative,IAEO
+i hope one day scooner or later returns to what it once was .,scooner,GENERAL,null,negative,EAIO
+"untill this happens , my advice is to stay away .",null,GENERAL,null,negative,IAIO
+old reliable,null,GENERAL,reliable,positive,IAEO
+– after 12 years in seattle ray ' s rates as the place we always go back to .,ray,GENERAL,null,positive,EAIO
+i liked it .,null,GENERAL,liked,positive,IAEO
+"it was so much though that i could barely finish but i did , since it was delicious .",null,STYLE_OPTIONS,null,neutral,IAIO
+"it was so much though that i could barely finish but i did , since it was delicious .",null,QUALITY,delicious,positive,IAEO
+wow ! ! ! ! ! ! ! !,null,GENERAL,null,positive,IAIO
+– it cant get any better ! ! ! ! !,null,GENERAL,better,positive,IAEO
+absolutely fabulous ! ! !,null,GENERAL,fabulous,positive,IAEO
+two thumbs up !,null,QUALITY,thumbs,positive,IAEO
+this is right up there with places in tokyo as far as the freshness is concerned .,null,QUALITY,null,positive,IAIO
+splendid,null,GENERAL,splendid,positive,IAEO
+perfect on a cold day .,null,QUALITY,perfect,positive,IAEO
+$ 6 with tip .,null,PRICES,null,positive,IAIO
+perfection .,null,GENERAL,perfection,positive,IAEO
+"on weekends , you might have to wait for couple hours .",null,GENERAL,null,neutral,IAIO
+"however , they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone .",null,GENERAL,null,positive,IAIO
+"that ' s a huge compliment , especially in the fickled restaurant business , . . . enough already !",null,GENERAL,compliment,positive,IAEO
+"i guarantee you wo n ' t be disappointed , there ' s also valet parking .",null,GENERAL,n,positive,IAEO
+"i guarantee you wo n ' t be disappointed , there ' s also valet parking .",null,MISCELLANEOUS,n,positive,IAEO
+a cozy spot for 2,spot,GENERAL,cozy,positive,EAEO
+"– i ca n ' t believe murphy ' s has been around for over 25 years , amazing .",murphy,MISCELLANEOUS,amazing,positive,EAEO
+addicting !,null,GENERAL,addicting,positive,IAEO
+i went there with a friend from out of town . . . and we were both very impressed !,null,GENERAL,impressed,positive,IAEO
+the price was right too .,null,PRICES,right,positive,IAEO
+i ' d go back there in a heartbeat .,null,GENERAL,null,positive,IAIO
+well i guess it ' s hard to be seated when one is invisible to the staff .,staff,GENERAL,null,negative,EAIO
+once seated it took about 30 minutes to finally get the meal .,null,GENERAL,null,negative,IAIO
+the prior reviews said kid friendly . . . give me a break with two young children that is light years .,null,MISCELLANEOUS,null,negative,IAIO
+it was decent but nothing exceptional .,null,QUALITY,decent,positive,IAEO
+it was decent but nothing exceptional .,null,QUALITY,nothing,neutral,IAEO
+the place is the next best thing to my moms cooking .,null,QUALITY,best,positive,IAEO
+way over - rated ! ! ! !,null,GENERAL,over,negative,IAEO
+10 !,null,GENERAL,10,positive,IAEO
+cut to the chase - this is amazing !,null,GENERAL,amazing,positive,IAEO
+it ' s unpretentious and underground .,null,GENERAL,unpretentious,positive,IAEO
+"it ' s fresh , welcoming , delicious , and relaxing .",null,QUALITY,fresh,positive,IAEO
+"it ' s fresh , welcoming , delicious , and relaxing .",null,QUALITY,delicious,positive,IAEO
+"it ' s fresh , welcoming , delicious , and relaxing .",null,GENERAL,welcoming,positive,IAEO
+"it ' s fresh , welcoming , delicious , and relaxing .",null,GENERAL,relaxing,positive,IAEO
+i went here on a recommendation and will surely return time and time again .,null,GENERAL,null,positive,IAIO
+what a find !,null,GENERAL,null,positive,IAIO
+well worth it,null,GENERAL,worth,positive,IAEO
+good for late night dining ( last minute planning ) without reservations .,null,MISCELLANEOUS,null,positive,IAIO
+love it every time,null,GENERAL,love,positive,IAEO
+never had one single problem there .,null,GENERAL,null,positive,IAIO
+seafood plus,seafood,QUALITY,plus,positive,EAEO
+– this was great dining experience .,null,GENERAL,great,positive,IAEO
+"if you ' re going to see danny gans or just staying at the mirage , do n ' t miss this one .",null,GENERAL,null,positive,IAIO
+completely over rated !,null,GENERAL,over,negative,IAEO
+"even then , the order was not correct and we were still waiting for a couple items .",null,GENERAL,null,negative,IAIO
+we had a very hard time getting the waitress ' attention and finally had to get up and go inside to speak to a manager .,waitress,GENERAL,null,negative,EAIO
+as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .,owner,GENERAL,dismissive,negative,EAEO
+"when the bill came , he only took the discount off the food and not the drinks .",null,GENERAL,null,negative,IAIO
+it was clear he didn ’ t really care .,null,GENERAL,null,negative,IAIO
+– save yourself the waste of time & do not visit .,null,GENERAL,null,negative,IAIO
+after sitting there with my empty glass for over 20 minutes i left .,null,GENERAL,null,negative,IAIO
+i went home & looked them up online again where i discovered there is a link for a give away that does n ' t work so emailed the restaurant about the non existent service & deceptive link .,restaurant,MISCELLANEOUS,null,negative,EAIO
+i never heard back from anyone more than a month ago .,null,MISCELLANEOUS,null,negative,IAIO
+after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she ' d be right with us .,bar,GENERAL,null,negative,EAIO
+as of writing this i just tried their give away a link again & it still does n ' t work .,null,MISCELLANEOUS,null,negative,IAIO
+always a winner .,null,GENERAL,null,positive,IAIO
+she does n ' t make you feel welcome and treats you like an annoyance .,null,GENERAL,annoyance,negative,IAEO
+"but she is very friendly with certain people , making it even more annoying .",null,GENERAL,annoying,negative,IAEO
+management should really take notice and train their waitstaff and teach them some proper manners .,management,GENERAL,null,negative,EAIO
+management should really take notice and train their waitstaff and teach them some proper manners .,waitstaff,GENERAL,null,negative,EAIO
+they have been featured on the food network and they deserve it .,null,MISCELLANEOUS,null,positive,IAIO
+does n ' t get any better than that .,null,GENERAL,better,positive,IAEO
+you can easily hear him though so it was a pleasant sound and not overbearing .,null,GENERAL,pleasant,positive,IAEO
+not too fine thought that you feel uncomfortable and have to dress up .,null,GENERAL,null,positive,IAIO
+"first off , the food came fast and all together : ) i like that . . . i hate the pretentiousness of things coming in one after the other .",null,GENERAL,fast,positive,IAEO
+yummy .,null,QUALITY,yummy,positive,IAEO
+not chewy at all .,null,QUALITY,not,positive,IAEO
+for desert we had the mango ginger creme brulee . . . oh la la yummy ! ! !,mango,QUALITY,yummy,positive,EAEO
+melt in your mouth .,null,QUALITY,null,positive,IAIO
+we are for sure coming back to this restaurant .,restaurant,GENERAL,null,positive,EAIO
+"it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel . . . but they are definitely one you dont want to miss , esp if your in downtown san jose .",null,GENERAL,null,positive,IAIO
+we easily spent more than $ 40 per person ( not including alcohol ) and were still hungry .,null,PRICES,null,negative,IAIO
+we easily spent more than $ 40 per person ( not including alcohol ) and were still hungry .,null,STYLE_OPTIONS,null,negative,IAIO
+i ' m astonished that this restaurant is categorized as $ $ $ rather than $ $ $ $ .,restaurant,PRICES,astonished,negative,EAEO
+we put out name down and although there were open tables we were told that it ' d be a 30 minute wait .,null,GENERAL,null,negative,IAIO
+"we went back to the restaurant and low and behold , we were seated at one of the tables that was available 30 minutes ago ! !",null,GENERAL,null,negative,IAIO
+none that i can think of .,null,GENERAL,null,negative,IAIO
+"we put in our order and although we ordered 4 appetizers , the food did n ' t arrive until 45 minutes later . . . with our main course .",null,GENERAL,null,negative,IAIO
+um so now what are appetizers for ? ? ?,null,GENERAL,null,negative,IAIO
+oh i forgot to mention that they do n ' t have bread service .,null,GENERAL,null,negative,IAIO
+"my wife also ordered a teapot of hot water ( she had a sore throat ) and i guess that since it was only water , it was n ' t a priority for them to actually bring it .",null,GENERAL,null,negative,IAIO
+"in other words , if they are n ' t making $ $ off of you then you do n ' t rate high on their ' service scale ' .",service,GENERAL,null,negative,EAIO
+its great if you spent the day there and did n ' t want to drive to eat .,null,GENERAL,great,positive,IAEO
+"parking is reasonably good , they have their own lot and you can park in the park nearby .",null,MISCELLANEOUS,good,positive,IAEO
+always good .,null,GENERAL,good,positive,IAEO
+6pm on a sat before a broadway play and we were quickly seated and served .,null,GENERAL,null,positive,IAIO
+"as part of a small party of four , our food was dropped off without comment ;",null,GENERAL,null,negative,IAIO
+any further needs we may have had could not have been met since no one stopped by the table .,null,GENERAL,null,negative,IAIO
+"when we finally were able to flag someone down , it was someone entirely different from the person who had dropped off the food , who was also not the same person who had taken our order .",null,GENERAL,null,negative,IAIO
+a brief conversation with the manager at the end of the meal was the greatest disappointment - - to say we had been ` ` blown off ' ' would be an understatement .,manager,GENERAL,disappointment,negative,EAEO
+"the manager continually interrupted with ` ` is there anything else i can do for you ? ` ` , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .",manager,GENERAL,disappointment,negative,EAEO
+"she promised to speak to the waitress who had flown off in a rage , but we could hardly take her promise seriously , seeing as she had n ' t bothered to get the waitresses name .",null,GENERAL,null,negative,IAIO
+"in short , schooner or later could n ' t have cared less about our being at their establishment .",null,GENERAL,null,negative,IAIO
+you are with a hot date and he / she has an urge for sushi . . . then this might be the place .,sushi,QUALITY,null,positive,EAIO
+and they give good quantity for the price .,null,STYLE_OPTIONS,good,positive,IAEO
+and they give good quantity for the price .,null,PRICES,null,positive,IAIO
+we were only in seattle for one night and i ' m so glad we picked rays for dinner !,rays,GENERAL,glad,positive,EAEO
+this is the case at this gem .,null,GENERAL,null,positive,IAIO
+you ca n ' t go wrong here .,null,GENERAL,null,positive,IAIO
+"seriously , you ca n ' t go wrong , if it is unpretentious local fun you seek .",null,GENERAL,fun,positive,IAEO
+my mouth felt very dry afterwards and i had that signature ? msg ? taste lingering in my throat after i left the restaurant .,null,QUALITY,null,negative,IAIO
+they came in their own nifty take out box and with some homemade frosting ; very light and not - too - sweet .,null,QUALITY,light,positive,IAEO
+they came in their own nifty take out box and with some homemade frosting ; very light and not - too - sweet .,null,QUALITY,not,positive,IAEO
+"the dinner only took us about an hour and the prices were alright for the strip , almost $ 50 / pp after tax and tip ( about average ) .",null,PRICES,alright,neutral,IAEO
+"the dinner only took us about an hour and the prices were alright for the strip , almost $ 50 / pp after tax and tip ( about average ) .",null,GENERAL,null,positive,IAIO
+just remember to dress a little urban - chic so you don ? t look too far out of place .,null,MISCELLANEOUS,null,neutral,IAIO
+very good !,null,GENERAL,good,positive,IAEO
+overpriced,null,PRICES,overpriced,negative,IAEO
+waited 35 minutes for a table for 8 which was ok for such a big crowd .,null,GENERAL,ok,neutral,IAEO
+not sure if i would go back .,null,GENERAL,null,negative,IAIO
+"in fact , many want to return a second time during their visit .",null,GENERAL,null,positive,IAIO
+"they are n ' t the most talkative , but everytime i ' ve been there they have been very busy , which probably accounts for the lack of conversation .",null,GENERAL,null,neutral,IAIO
+it ' s just the right size for the menu .,null,MISCELLANEOUS,right,positive,IAEO
+excellent,null,GENERAL,excellent,positive,IAEO
+you never feel icky and stuffed after you eat there .,null,QUALITY,null,positive,IAIO
+the pizza ' s are light and scrumptious .,pizza,QUALITY,light,positive,EAEO
+the pizza ' s are light and scrumptious .,pizza,QUALITY,scrumptious,positive,EAEO
+worth the wait,null,GENERAL,worth,positive,IAEO
+"– had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .",null,MISCELLANEOUS,null,negative,IAIO
+"– had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .",null,GENERAL,worth,positive,IAEO
+"go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .",null,GENERAL,null,positive,IAIO
+"go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .",breakfast,QUALITY,enjoy,positive,EAEO
+i do n ' t know why anyone would want to write a great review about this place .,place,GENERAL,null,negative,EAIO
+donot go !,null,GENERAL,null,negative,IAIO
+delicious,null,QUALITY,delicious,positive,IAEO
+we waited for an hour to be seated .,null,GENERAL,null,negative,IAIO
+it was worth the wait .,null,GENERAL,worth,positive,IAEO
+plan on waiting 30 - 70 minutes .,null,GENERAL,null,neutral,IAIO
+will definitely be back .,null,GENERAL,null,positive,IAIO
+delicious . . . !,null,QUALITY,delicious,positive,IAEO
+delectable,null,QUALITY,delectable,positive,IAEO
+"once you ' re inside , the real experience begins .",null,GENERAL,null,positive,IAIO
+i probably would n ' t go back though ' cuz i do n ' t know if it ' s worth it .,null,GENERAL,null,negative,IAIO
+maybe i ' ll go back once more many years from now when i ' ve forgotten i went there already .,null,GENERAL,null,negative,IAIO
+sit in the balcony,balcony,GENERAL,null,neutral,EAIO
+– not bad .,null,GENERAL,not,neutral,IAEO
+although the service could be improved considering the money you put in .,null,PRICES,null,negative,IAIO
+although the service could be improved considering the money you put in .,service,GENERAL,null,negative,EAIO
+our drinks kept coming but our server came by a couple times .,null,GENERAL,null,positive,IAIO
+our drinks kept coming but our server came by a couple times .,server,GENERAL,null,negative,EAIO
+"should check - up on us more frequently , do n ' t you think ?",null,GENERAL,null,negative,IAIO
+the most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places .,null,PRICES,pleasant,positive,IAEO
+i felt ackward and next time went to the casino bathroom .,null,MISCELLANEOUS,ackward,negative,IAEO
+this place rocks ! !,place,GENERAL,rocks,positive,EAEO
+"the chips and salsa are so yummy , and the prices are fabulous .",chips,QUALITY,yummy,positive,EAEO
+"the chips and salsa are so yummy , and the prices are fabulous .",salsa,QUALITY,yummy,positive,EAEO
+"the chips and salsa are so yummy , and the prices are fabulous .",null,PRICES,fabulous,positive,IAEO
+"the atmosphere is aspiring , and the decor is festive and amazing . .",atmosphere,GENERAL,aspiring,positive,EAEO
+"the atmosphere is aspiring , and the decor is festive and amazing . .",decor,GENERAL,festive,positive,EAEO
+"the atmosphere is aspiring , and the decor is festive and amazing . .",decor,GENERAL,amazing,positive,EAEO
+insultingly overpriced,null,PRICES,overpriced,negative,IAEO
+- mediocre service / quality,service,GENERAL,mediocre,neutral,EAEO
+to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .,manager,GENERAL,null,negative,EAIO
+to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .,null,GENERAL,to,positive,IAEO
+two rascally kids were seated near us for the first part of our dinner . . . they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table .,null,MISCELLANEOUS,null,negative,IAIO
+"all considered , i have to say that ray ' s boathouse is deserving of its title as a seattle institution .",ray,GENERAL,null,positive,EAIO
