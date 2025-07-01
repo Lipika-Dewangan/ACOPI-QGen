@@ -48,14 +48,4 @@ ACOPI-QGen achieves significant improvements in quintuple extraction across doma
 | Shoes-ACOPI      | 60.49        |
 
 Compared to SOTA LLMs and supervised baselines, ACOPI-QGen demonstrates superior performance on both explicit and implicit sentiment components.
-acopi-qgen/
-│
-├── data/               # Contains ACOPI datasets (Restaurant, Laptop, Shoes)
-├── models/             # Model architecture components
-├── utils/              # Utilities for preprocessing, metrics, etc.
-├── train.py            # Training pipeline
-├── evaluate.py         # Evaluation pipeline
-├── README.md           # This file
-└── requirements.txt    # Python dependencies
-
 
