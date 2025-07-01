@@ -1,0 +1,20 @@
+{
+    "bert_model": "bert-base-uncased",
+    "hidden_dim": 768,
+    "relation_types": [
+        "nsubj",
+        "compound:prt",
+        "advmod"
+    ],
+    "num_classes": [
+        10,
+        3,
+        10,
+        4,
+        3
+    ],
+    "lr": 5e-05,
+    "l2_lambda": 0.0001,
+    "batch_size": 1,
+    "epochs": 3
+}
