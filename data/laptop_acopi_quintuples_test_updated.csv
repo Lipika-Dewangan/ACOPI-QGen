@@ -1,0 +1,1162 @@
+Sentence,Aspect,Category,Opinion,Polarity,Implicitness
+"the unit cost $ 275 to start with , so it is not worth repairing .",unit,PRICE,not,negative,EAEO
+"going from acer 15 to acer 11 was difficult , 11 inches seems too small for me .",acer,DESIGN_FEATURES,difficult,negative,EAEO
+"going from acer 15 to acer 11 was difficult , 11 inches seems too small for me .",acer,DESIGN_FEATURES,small,negative,EAEO
+"also it ' s not a true ssd drive in there but emmc , which makes a difference .",ssd,OPERATION_PERFORMANCE,implicit,negative,EAIO
+the computer has difficulty switching between tablet and computer .,computer,USABILITY,difficulty,negative,EAEO
+2 / 28 / 18 - a couple days ago i updated the chrome os .,chrome,GENERAL,implicit,neutral,EAIO
+it ' s just that chrome doesn ' t work the same with a chromebook as it does with windows .,chrome,OPERATION_PERFORMANCE,implicit,negative,EAIO
+hopefully in 10 years they ' ll have this figured out and it won ' t suck so badly .,implicit,GENERAL,suck,negative,IAEO
+hopefully in 10 years they ' ll have this figured out and it won ' t suck so badly .,implicit,GENERAL,badly,negative,IAEO
+bought this last year on july .,implicit,GENERAL,implicit,neutral,IAIO
+i rarely use the keyboard .,keyboard,GENERAL,rarely,negative,EAEO
+- great price for a touchscreen chromebook,touchscreen,PRICE,great,positive,EAEO
+"it is glitchy , and barely usable .",implicit,OPERATION_PERFORMANCE,glitchy,negative,IAEO
+"it is glitchy , and barely usable .",implicit,OPERATION_PERFORMANCE,barely,negative,IAEO
+"i ordered one , the touch pad failed to work consistently .",touch,OPERATION_PERFORMANCE,failed,negative,EAEO
+"i often find i ' ve typed an entire sentence ( or more ) with my fingers on the wrong keys , which is very unproductive when trying to take real - time notes in a meeting !",keys,GENERAL,unproductive,negative,EAEO
+"i know it only takes a few seconds , but a new device should not be doing this and makes me question if it ' ll get worse in the future .",device,GENERAL,worse,negative,EAEO
+"i also have to press the trackpad very hard for left click ( not as badly as the first unit , though ) , and i lost right click functionality on the track pad 2 days into my voyage with this thing .",track,USABILITY,implicit,negative,EAIO
+"i tried factory resetting after i updated the os , and it still drained 9 % over 8 hours .",os,GENERAL,implicit,neutral,EAIO
+hdmi out doesn ' t work right .,hdmi,QUALITY,implicit,negative,EAIO
+they had it over a week and then shipped back .,implicit,GENERAL,implicit,neutral,IAIO
+"i was excited to receive this chromebook , only to watch that excitement dissipate within mere hours as i noticed the touchscreen did n ' t work at all on tablet mode .",touchscreen,OPERATION_PERFORMANCE,implicit,negative,EAIO
+clearly there is some kind of major defect here that acer has n ' t resolved .,acer,GENERAL,defect,negative,EAEO
+i bought this for my daughter to use to take online classes while she ' s overseas in europe for a year .,implicit,GENERAL,implicit,neutral,IAIO
+decent sound quality .,sound,QUALITY,decent,positive,EAEO
+flimsy power adapter .,power,GENERAL,flimsy,negative,EAEO
+wi - fi slows down to crowl and speeds back up intermittently .,wi,QUALITY,implicit,negative,EAIO
+regret buying it at times .,implicit,GENERAL,regret,negative,IAEO
+it just turned off and will not turn back on .,implicit,QUALITY,implicit,negative,IAIO
+"the product is great , but the customer support is horrible .",product,GENERAL,great,positive,EAEO
+"the product is great , but the customer support is horrible .",customer,GENERAL,horrible,negative,EAEO
+called support a second time after 10 minutes of verifying some type of info they told me to call google without even trying to help .,support,GENERAL,implicit,negative,EAIO
+"but i ' m getting into photography now , and it ' s terrible for loading , storing , and editing pictures .",implicit,OPERATION_PERFORMANCE,terrible,negative,IAEO
+i have sent it in twice already and waiting for it to come back .,implicit,GENERAL,implicit,neutral,IAIO
+the screen looked great .,screen,GENERAL,great,positive,EAEO
+"no matter how many times i reinserted the charging adapter , i kept getting this message .",charging,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"i had no option but to shut down the computer , unplug it , plug it back in , and then reboot .",computer,OPERATION_PERFORMANCE,implicit,negative,EAIO
+it has worked well except for an initial hiccup on turning it on .,implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+the screen flashes for a second every 30 seconds or so .,screen,OPERATION_PERFORMANCE,implicit,negative,EAIO
+i noticed the battery went down to 67 % for no reason .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"works good but the fan kicks in pretty often , which is to keep the laptop cool but the sound is annoying .",fan,OPERATION_PERFORMANCE,annoying,negative,EAEO
+"works good but the fan kicks in pretty often , which is to keep the laptop cool but the sound is annoying .",sound,OPERATION_PERFORMANCE,annoying,negative,EAEO
+nano edge display is nice .,nano,OPERATION_PERFORMANCE,nice,positive,EAEO
+everything was fine and i went out for an hour .,implicit,GENERAL,fine,positive,IAEO
+the audio is almost impossible to hear .,audio,OPERATION_PERFORMANCE,implicit,negative,EAIO
+it is slow to do everything .,implicit,OPERATION_PERFORMANCE,slow,negative,IAEO
+here ' s the kicker : it is doing a terrible job running dragon age .,implicit,OPERATION_PERFORMANCE,terrible,negative,IAEO
+it doesn ' t has backlit keyboard : ( typing in low light is such a pain .,backlit,DESIGN_FEATURES,pain,negative,EAEO
+very disappointed in how slow it seems .,implicit,OPERATION_PERFORMANCE,disappointed,negative,IAEO
+very disappointed in how slow it seems .,implicit,OPERATION_PERFORMANCE,slow,negative,IAEO
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",keyboard,DESIGN_FEATURES,fine,positive,EAEO
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",mouse,DESIGN_FEATURES,fine,positive,EAEO
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",implicit,GENERAL,slow,negative,IAEO
+i have been using this for just 3 months .,implicit,GENERAL,implicit,negative,IAIO
+crazy keypad : this issue is even worse .,keypad,GENERAL,crazy,negative,EAEO
+crazy keypad : this issue is even worse .,keypad,GENERAL,worse,negative,EAEO
+"overall , the laptop has a solid feel to it .",laptop,GENERAL,solid,positive,EAEO
+"this lead me to believe that although i purchased a “ new ” product , they sent me a refurbished one instead .",product,QUALITY,implicit,negative,EAIO
+"i ' m out from us , i live in colombia , and maybe i can not return these laptop .",laptop,GENERAL,implicit,neutral,EAIO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",processor,OPERATION_PERFORMANCE,like,positive,EAEO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",hybrid,GENERAL,like,positive,EAEO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",web,OPERATION_PERFORMANCE,sucks,negative,EAEO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",web,OPERATION_PERFORMANCE,poor,negative,EAEO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",caps,DESIGN_FEATURES,implicit,negative,EAIO
+"i like the speed , the processor the hybrid storage units ( 128ssd and 1tera ) , but the web cam sucks , really poor resolution and the keyboard doesn ' t have the numerical part and the caps lock or num lock don ' t have any light or guide to help you .",num,DESIGN_FEATURES,implicit,negative,EAIO
+lightweight .,implicit,DESIGN_FEATURES,lightweight,positive,IAEO
+yesterday the backlight went out .,backlight,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it was brand new out of the box , i ' ve never dropped it .",implicit,GENERAL,implicit,neutral,IAIO
+now i have to deal with warranty stuff and sending it back etc .,warranty,GENERAL,implicit,neutral,EAIO
+ram upgrade available,ram,GENERAL,available,positive,EAEO
+hard drive upgrade available,hard,OPERATION_PERFORMANCE,available,positive,EAEO
+i had issues with the touchpad sticking or not responding to click correctly from the start .,touchpad,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it ' s still a mainly functional computer , but using it is just not the greatest .",computer,GENERAL,functional,neutral,EAEO
+"it ' s still a mainly functional computer , but using it is just not the greatest .",computer,GENERAL,not,neutral,EAEO
+"we ' ve had the computer for 5 weeks , used it a total of less than 20 hours , and now it will be gone for 3 weeks .",computer,GENERAL,implicit,neutral,EAIO
+"we ' ve had the computer for 5 weeks , used it a total of less than 20 hours , and now it will be gone for 3 weeks .",implicit,GENERAL,implicit,negative,IAIO
+i send it to asus warranty and now after a week they ' re sending it back stating the no problem was found .,asus,GENERAL,implicit,negative,EAIO
+display stop working within 2 months .,display,GENERAL,implicit,negative,EAIO
+"since it came with no user manual , i had to call asus customer support and got someone who knew all about windows 10 software but nothing about my asus notebook .",asus,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"after reading all the bad reviews , just sent it back for a refund .",implicit,QUALITY,bad,negative,IAEO
+all over this asus laptop which has a non - functioning touchpad .,asus,GENERAL,implicit,negative,EAIO
+all over this asus laptop which has a non - functioning touchpad .,touchpad,QUALITY,non,negative,EAEO
+my screen broke when just putting a textbook on it .,screen,GENERAL,implicit,negative,EAIO
+"don ' t even bother calling customer support , in my experience , they do you no good .",customer,GENERAL,no,negative,EAEO
+keyboard needs to be redesigned entirely .,keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+"6 ` ` screen is big enough to read with ease , yet the item itself is light enough to tote to meetings .",implicit,DESIGN_FEATURES,big,positive,IAEO
+"6 ` ` screen is big enough to read with ease , yet the item itself is light enough to tote to meetings .",implicit,DESIGN_FEATURES,ease,positive,IAEO
+"6 ` ` screen is big enough to read with ease , yet the item itself is light enough to tote to meetings .",item,PORTABILITY,light,positive,EAEO
+"so far , this looks as if it meets my needs as a good ` ` work machine . ` `",work,GENERAL,good,positive,EAEO
+after exactly one year of useage this computer completely stopped working .,computer,OPERATION_PERFORMANCE,implicit,negative,EAIO
+it boots up in 10 seconds and shuts down in 2 to 3 seconds .,boots,OPERATION_PERFORMANCE,implicit,positive,EAIO
+it boots up in 10 seconds and shuts down in 2 to 3 seconds .,shuts,OPERATION_PERFORMANCE,implicit,positive,EAIO
+i like the idea that the keyboard lights up and has a ` ` time out ` ` feature to shut off .,keyboard,DESIGN_FEATURES,like,positive,EAEO
+it seems put together well .,implicit,GENERAL,well,positive,IAEO
+"what they lack in size , they make up for in raw speed , durability , and energy efficiency .",implicit,DESIGN_FEATURES,implicit,negative,IAIO
+"what they lack in size , they make up for in raw speed , durability , and energy efficiency .",implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
++ decent quantity of available ports,ports,QUALITY,decent,positive,EAEO
++ decent quantity of available ports,ports,QUALITY,available,positive,EAEO
++ it has a dvd drive : o,dvd,GENERAL,implicit,neutral,EAIO
+- it runs hot !,implicit,QUALITY,implicit,negative,IAIO
+"running grid benchmark , it got to a high 92 / 93 degrees c !",implicit,QUALITY,implicit,negative,IAIO
+- new i5 mobile processor .,i5,GENERAL,implicit,neutral,EAIO
+- ddr4 ram that is upgradable .,ddr4,GENERAL,upgradable,positive,EAEO
+- very decent battery life .,battery,OPERATION_PERFORMANCE,decent,positive,EAEO
+"so far i am pleasantly impressed with this unit , however i have not used it a long time or tested many applications to date .",unit,GENERAL,pleasantly,positive,EAEO
+"i can certainly say this is the best laptop i ' ve ever had ( but then again i ' ve only had 3 , and you would expect these things to improve over time , right ) .",laptop,GENERAL,best,positive,EAEO
+i ' ve been using it for at least 4 hours since last charged in that 23 % used up .,implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
+"- as others have mentioned , the keyboard backlight turns off after just a few seconds of not typing , which can be annoying and there doesn ' t seem to be a way to change this .",keyboard,OPERATION_PERFORMANCE,annoying,negative,EAEO
+- easily upgradeable ram,ram,USABILITY,upgradeable,positive,EAEO
+one feature that i love is the ability to disable the touchpad from the keyboard .,touchpad,DESIGN_FEATURES,love,positive,EAEO
+one feature that i love is the ability to disable the touchpad from the keyboard .,keyboard,DESIGN_FEATURES,love,positive,EAEO
+"it ' s not fancy , but it ' s good value and fast and trouble - free .",implicit,DESIGN_FEATURES,not,neutral,IAEO
+"it ' s not fancy , but it ' s good value and fast and trouble - free .",implicit,OPERATION_PERFORMANCE,good,positive,IAEO
+"it ' s not fancy , but it ' s good value and fast and trouble - free .",implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+"it ' s not fancy , but it ' s good value and fast and trouble - free .",implicit,OPERATION_PERFORMANCE,trouble,positive,IAEO
+"after spending some time with it , the feature can really be useful .",feature,DESIGN_FEATURES,useful,positive,EAEO
+easily upgrade to storage and ram .,ram,USABILITY,implicit,positive,EAIO
+this does not really matter to me because the mx150 is enough for my needs .,mx150,DESIGN_FEATURES,implicit,neutral,EAIO
+"i love the solid state drive , as reviews or ads say you can boot up and get onto internet in 10 to 15 seconds .",solid,GENERAL,love,positive,EAEO
+it ' s not a ` ` gaming ` ` laptop even it can do some more casual gaming .,laptop,GENERAL,implicit,positive,EAIO
+"it ' s super fast , boots up in seconds .",boots,OPERATION_PERFORMANCE,fast,positive,EAEO
+i am very impressed with this system .,system,OPERATION_PERFORMANCE,impressed,positive,EAEO
+mastercam itself runs pretty good .,mastercam,OPERATION_PERFORMANCE,good,positive,EAEO
+as usual amazon was great about returning it .,amazon,QUALITY,great,positive,EAEO
+"screen is decent , not great , it is matte finished .",screen,DESIGN_FEATURES,decent,positive,EAEO
+"screen is decent , not great , it is matte finished .",screen,DESIGN_FEATURES,not,positive,EAEO
+i like the back lit keyboard .,back,DESIGN_FEATURES,like,positive,EAEO
+it ' s a lot of good for a comparatively cheap price .,implicit,PRICE,good,positive,IAEO
+it ' s a lot of good for a comparatively cheap price .,implicit,PRICE,cheap,positive,IAEO
+the screen is perfectly adequate .,screen,OPERATION_PERFORMANCE,perfectly,positive,EAEO
+this thing boots up super quick and it sleek and beautiful .,boots,OPERATION_PERFORMANCE,quick,positive,EAEO
+this thing boots up super quick and it sleek and beautiful .,implicit,DESIGN_FEATURES,sleek,positive,IAEO
+this thing boots up super quick and it sleek and beautiful .,implicit,DESIGN_FEATURES,beautiful,positive,IAEO
+google and partners have done great with chromebooks and have plenty of features to accommodate .,google,GENERAL,great,positive,EAEO
+"i would highly recommend this to anyone , but especially to someone wanting something that is affordable , easy to use and just a bit more than a tablet .",implicit,PRICE,affordable,positive,IAEO
+"i would highly recommend this to anyone , but especially to someone wanting something that is affordable , easy to use and just a bit more than a tablet .",implicit,USABILITY,easy,positive,IAEO
+i ' m getting very used to the multiple finger shortcuts on the touch pad when navigating chrome .,touch,USABILITY,implicit,positive,EAIO
+this thing is still fantastic for what it is .,implicit,GENERAL,fantastic,positive,IAEO
+i chose to purchase a samsung chromebook this time just to try out a different company and because it was inexpensive ( i paid $ 189 .,samsung,PRICE,inexpensive,positive,EAEO
+i couldn ' t be happier with this product !,product,GENERAL,',positive,EAEO
+the screen hinge is super strong and it ' s hard to imagine it breaking unless you dropped it .,screen,QUALITY,strong,positive,EAEO
+"the size is perfect , it ' s easy to toss it in my satchel or backpack along with my textbook and notebooks and have plenty of room .",size,DESIGN_FEATURES,perfect,positive,EAEO
+"the size is perfect , it ' s easy to toss it in my satchel or backpack along with my textbook and notebooks and have plenty of room .",implicit,PORTABILITY,perfect,positive,IAEO
+"works great right out of the box , as advertised .",implicit,OPERATION_PERFORMANCE,great,positive,IAEO
+the battery life on this seems good .,battery,OPERATION_PERFORMANCE,good,positive,EAEO
+this chromebook instantly connects to the internet .,chromebook,CONNECTIVITY,implicit,positive,EAIO
+"going to a grocery store or fitness center , the android tablets took so long to connect that i finished my shopping before they came online .",android,CONNECTIVITY,implicit,negative,EAIO
+everything is perfect .,implicit,GENERAL,perfect,positive,IAEO
+"powers up immediately , great battery life , great keyboard , amazing features .",powers,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"powers up immediately , great battery life , great keyboard , amazing features .",battery,GENERAL,great,positive,EAEO
+"powers up immediately , great battery life , great keyboard , amazing features .",keyboard,GENERAL,implicit,positive,EAIO
+"powers up immediately , great battery life , great keyboard , amazing features .",implicit,DESIGN_FEATURES,amazing,positive,IAEO
+was considering an apple product but i ' m much happier with this !,implicit,GENERAL,happier,positive,IAEO
+this is my third samsung chromebook and i will continue to use this brand .,samsung,GENERAL,implicit,positive,EAIO
+this is my third samsung chromebook and i will continue to use this brand .,brand,GENERAL,implicit,positive,EAIO
+"does not act like a tablet , but it can have almost 10 tabs open before affecting performance , including video streaming .",tablet,OPERATION_PERFORMANCE,implicit,positive,EAIO
+this was purchased for my son to download his high school textbooks for use .,implicit,USABILITY,implicit,neutral,IAIO
+great price for a good book used for college students who carry all day,book,GENERAL,good,positive,EAEO
+great price for a good book used for college students who carry all day,book,PRICE,great,positive,EAEO
+i bought this refurbished and haven ' t experienced any issues .,implicit,GENERAL,implicit,positive,IAIO
+this laptop is very straight forward .,laptop,GENERAL,implicit,positive,EAIO
+"otherwise , it ' s great .",implicit,GENERAL,great,positive,IAEO
+"also , secure os .",os,OPERATION_PERFORMANCE,secure,positive,EAEO
+the product itself is awesome .,product,GENERAL,awesome,positive,EAEO
+great little laptop and tablet !,laptop,GENERAL,great,positive,EAEO
+great little laptop and tablet !,tablet,GENERAL,great,positive,EAEO
+the chormebook works as described by seller .,chormebook,OPERATION_PERFORMANCE,implicit,positive,EAIO
+i like the size and features .,implicit,DESIGN_FEATURES,like,positive,IAEO
+"however , still 5 stars as you get what you pay for : a cheap , decently rugged , light weight notebook to kick around and tinker with .",notebook,PRICE,cheap,positive,EAEO
+"however , still 5 stars as you get what you pay for : a cheap , decently rugged , light weight notebook to kick around and tinker with .",notebook,DESIGN_FEATURES,decently,positive,EAEO
+"however , still 5 stars as you get what you pay for : a cheap , decently rugged , light weight notebook to kick around and tinker with .",notebook,DESIGN_FEATURES,light,positive,EAEO
+love the keyboard .,keyboard,GENERAL,love,positive,EAEO
+i am still getting use to the chromebook but i love it lightweight easy to bring with me as it doesnt take up much room !,chromebook,GENERAL,love,positive,EAEO
+i am still getting use to the chromebook but i love it lightweight easy to bring with me as it doesnt take up much room !,chromebook,DESIGN_FEATURES,lightweight,positive,EAEO
+i am still getting use to the chromebook but i love it lightweight easy to bring with me as it doesnt take up much room !,chromebook,DESIGN_FEATURES,easy,positive,EAEO
+i am so glad i purchased this and would definitely purchase again .,implicit,GENERAL,glad,positive,IAEO
+since it is the same platform used at school the navigation was easy to get used too .,navigation,USABILITY,easy,positive,EAEO
+great for going on the internet .,implicit,OPERATION_PERFORMANCE,great,positive,IAEO
+it works well for her .,implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+we ran world of tank blitz ( using a game controller ) and roblocks on the low rez settings and experienced great appearance and ability to play .,implicit,OPERATION_PERFORMANCE,great,positive,IAEO
+another little thing is the speaker isn ' t loud .,speaker,OPERATION_PERFORMANCE,implicit,negative,EAIO
+love it,implicit,GENERAL,love,positive,IAEO
+great battery life .,battery,OPERATION_PERFORMANCE,great,positive,EAEO
+easy to take with and do homework on the go too !,implicit,PORTABILITY,easy,positive,IAEO
+i would recommend it to anyone .,implicit,GENERAL,recommend,positive,IAEO
+this is perfect .,implicit,GENERAL,perfect,positive,IAEO
+"battery life , speed , display and software were my additional top reasons why i went for the samsung .",battery,GENERAL,implicit,positive,EAIO
+"battery life , speed , display and software were my additional top reasons why i went for the samsung .",samsung,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"battery life , speed , display and software were my additional top reasons why i went for the samsung .",display,GENERAL,implicit,positive,EAIO
+"battery life , speed , display and software were my additional top reasons why i went for the samsung .",software,GENERAL,implicit,positive,EAIO
+"the display is crisp and bright , setup literally takes under a minute , its fast , cheap , charges fast , lasts forever .",display,QUALITY,crisp,positive,EAEO
+"the display is crisp and bright , setup literally takes under a minute , its fast , cheap , charges fast , lasts forever .",display,QUALITY,bright,positive,EAEO
+"the display is crisp and bright , setup literally takes under a minute , its fast , cheap , charges fast , lasts forever .",setup,OPERATION_PERFORMANCE,fast,positive,EAEO
+"the display is crisp and bright , setup literally takes under a minute , its fast , cheap , charges fast , lasts forever .",setup,OPERATION_PERFORMANCE,cheap,positive,EAEO
+"the display is crisp and bright , setup literally takes under a minute , its fast , cheap , charges fast , lasts forever .",implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
+"nice , i ordered this just for simple web browsing and personal use .",implicit,GENERAL,nice,positive,IAEO
+i love my chromebook .,chromebook,GENERAL,love,positive,EAEO
+"it is taking me a while to get used to the small , tight keyboard .",keyboard,DESIGN_FEATURES,small,negative,EAEO
+"it is taking me a while to get used to the small , tight keyboard .",keyboard,DESIGN_FEATURES,tight,negative,EAEO
+"after researching for a high quality laptop that would not break the bank , i finally chose this one .",laptop,QUALITY,high,positive,EAEO
+"delivery was a bit off but i blame usps on that , they suck in my area .",delivery,GENERAL,off,negative,EAEO
+"delivery was a bit off but i blame usps on that , they suck in my area .",usps,GENERAL,suck,negative,EAEO
+amd a12 processor is quite fast when loading everything from an ssd .,amd,OPERATION_PERFORMANCE,fast,positive,EAEO
+"light for its size , not much flex in the body .",implicit,DESIGN_FEATURES,light,positive,IAEO
+stop what you ' re doing now and get this computer !,computer,GENERAL,implicit,positive,EAIO
+this computer is the best thing you can get under 400 dollars .,computer,PRICE,best,positive,EAEO
+great functioning computer .,computer,GENERAL,great,positive,EAEO
+excellent laptop at a reasonable price .,laptop,GENERAL,excellent,positive,EAEO
+excellent laptop at a reasonable price .,laptop,PRICE,reasonable,positive,EAEO
+this laptop does all i need it to do .,laptop,GENERAL,implicit,positive,EAIO
+works flawlessly and decent battery life .,battery,OPERATION_PERFORMANCE,decent,positive,EAEO
+works flawlessly and decent battery life .,implicit,OPERATION_PERFORMANCE,flawlessly,positive,IAEO
+excelente laptop,laptop,GENERAL,excelente,positive,EAEO
+"great for graphics , nothing to complex but it can get the job done",graphics,GENERAL,great,positive,EAEO
+about what i was expecting / hoping it to be .,implicit,GENERAL,implicit,positive,IAIO
+it has been able to handle everything i ' ve needed for my business .,implicit,GENERAL,implicit,positive,IAIO
+"it is fast enough for what we do , and it has all the features we needed for less .",implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+"it is fast enough for what we do , and it has all the features we needed for less .",implicit,GENERAL,implicit,positive,IAIO
+love our new laptop .,laptop,GENERAL,love,positive,EAEO
+battery could last longer .,battery,QUALITY,implicit,negative,EAIO
+"light weight , good battery life , sharp screen .",implicit,DESIGN_FEATURES,light,positive,IAEO
+"light weight , good battery life , sharp screen .",battery,GENERAL,good,positive,EAEO
+"light weight , good battery life , sharp screen .",screen,DESIGN_FEATURES,sharp,positive,EAEO
+he is very content with it and its features,implicit,GENERAL,content,positive,IAEO
+"great performance , quiet and cool processor .",processor,OPERATION_PERFORMANCE,great,positive,EAEO
+"great performance , quiet and cool processor .",processor,OPERATION_PERFORMANCE,quiet,positive,EAEO
+"great performance , quiet and cool processor .",processor,GENERAL,cool,positive,EAEO
+the sims 4 ran very smoothly on regular graphics .,graphics,OPERATION_PERFORMANCE,smoothly,positive,EAEO
+i was really excited to get this laptop !,laptop,GENERAL,excited,positive,EAEO
+runs first person shooters relatively well .,first,OPERATION_PERFORMANCE,well,positive,EAEO
+would definitely buy this again if i needed to do so .,implicit,GENERAL,implicit,positive,IAIO
+laptop booted right up and the set up waa super easy .,laptop,OPERATION_PERFORMANCE,implicit,positive,EAIO
+laptop booted right up and the set up waa super easy .,laptop,USABILITY,easy,positive,EAEO
+"the ones that do , doesn ' t have the numbering pad on the right side of the keyboard and i needed that .",keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+"it ' s a very good lappy and i ' m happy with it , because it can still get all i need to do , done .",lappy,GENERAL,good,positive,EAEO
+"it ' s a very good lappy and i ' m happy with it , because it can still get all i need to do , done .",lappy,GENERAL,happy,positive,EAEO
+"nice and thin , light , surprised it has a dvd player in it .",implicit,DESIGN_FEATURES,thin,positive,IAEO
+"nice and thin , light , surprised it has a dvd player in it .",implicit,DESIGN_FEATURES,light,positive,IAEO
+"nice and thin , light , surprised it has a dvd player in it .",implicit,DESIGN_FEATURES,surprised,positive,IAEO
+"nice and thin , light , surprised it has a dvd player in it .",implicit,GENERAL,nice,positive,IAEO
+for my needs it ' s a perfect computer with one major flaw : battery life is much shorter than they advertise !,computer,GENERAL,perfect,positive,EAEO
+for my needs it ' s a perfect computer with one major flaw : battery life is much shorter than they advertise !,battery,OPERATION_PERFORMANCE,shorter,negative,EAEO
+mine did lose its screen backlight suddenly when i ' d had it less than a month .,screen,QUALITY,implicit,negative,EAIO
+fast processor .,processor,OPERATION_PERFORMANCE,fast,positive,EAEO
+if you want a laptop ( not for gaming - reviews say - i have not tried ) get this one !,laptop,GENERAL,implicit,positive,EAIO
+i think the battery is just undersized for the amd a12 apu .,battery,DESIGN_FEATURES,implicit,negative,EAIO
+this is an excellent laptop with a lot of heart .,laptop,GENERAL,excellent,positive,EAEO
+"the dvd player is a really nice touch as well , i didn ' t think i would use it but i definitely will in the future !",dvd,GENERAL,nice,positive,EAEO
+has all the available ports that i need .,ports,GENERAL,implicit,positive,EAIO
+laptop is very fast with 4cpu and 8gpu on board .,laptop,OPERATION_PERFORMANCE,fast,positive,EAEO
+"great computer , you can play 2015 and below games on this computer .",computer,GENERAL,great,positive,EAEO
+great laptop !,laptop,GENERAL,great,positive,EAEO
+"she can stream music or videos , do her homework , and so on , so we are all pleased with our purchase .",implicit,GENERAL,pleased,positive,IAEO
+cpu performance does well .,cpu,OPERATION_PERFORMANCE,well,positive,EAEO
+i bought this for college to do my homework and also pay my bills .,implicit,GENERAL,implicit,neutral,IAIO
+really like it .,implicit,GENERAL,like,positive,IAEO
+played heroes of the storm with graphics up full and wasn ' t any lag .,graphics,OPERATION_PERFORMANCE,implicit,positive,EAIO
+webpages load quickly .,implicit,OPERATION_PERFORMANCE,quickly,positive,IAEO
+"but i guess , it ' s got a lot of power going to that processor so you can ' t have it all .",processor,OPERATION_PERFORMANCE,implicit,neutral,EAIO
+"for us , it was perfect .",implicit,GENERAL,perfect,positive,IAEO
+i got ta say this was my first ever online computer / laptop order and let me tell you its pretty good .,computer,GENERAL,good,positive,EAEO
+i got ta say this was my first ever online computer / laptop order and let me tell you its pretty good .,laptop,GENERAL,good,positive,EAEO
+i love how sleek and thin it is .,implicit,DESIGN_FEATURES,love,positive,IAEO
+i love how sleek and thin it is .,implicit,DESIGN_FEATURES,sleek,positive,IAEO
+i love how sleek and thin it is .,implicit,DESIGN_FEATURES,thin,positive,IAEO
+great feel to the keyboard as well .,keyboard,USABILITY,great,positive,EAEO
+this is a super fast computer and i really like it .,computer,OPERATION_PERFORMANCE,fast,positive,EAEO
+it ' s so far a solid laptop that i can use for some gaming and school .,laptop,GENERAL,solid,positive,EAEO
+"i purchased the laptop in august , and i already have a couple of keys popping off .",laptop,GENERAL,implicit,negative,EAIO
+"i almost always keep it plugged in , so i can ' t comment on battery life .",battery,GENERAL,implicit,neutral,EAIO
+"battery life is short , but plugging it in works .",battery,OPERATION_PERFORMANCE,short,negative,EAEO
+sleek design .,design,DESIGN_FEATURES,sleek,positive,EAEO
+easy to use .,implicit,USABILITY,easy,positive,IAEO
+nice computer for responsible grade school child .,computer,GENERAL,nice,positive,EAEO
+this laptop is well engineered and designed .,laptop,DESIGN_FEATURES,well,positive,EAEO
+this is a very nice laptop .,laptop,GENERAL,nice,positive,EAEO
+it is perfect for everything i need it for .,implicit,GENERAL,perfect,positive,IAEO
+provided just what i wanted at a resonable price .,implicit,PRICE,resonable,positive,IAEO
+this laptop is fast and does what i need without problems .,laptop,OPERATION_PERFORMANCE,fast,positive,EAEO
+great price and great performance but terrible battery .,implicit,PRICE,implicit,positive,IAIO
+great price and great performance but terrible battery .,implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
+great price and great performance but terrible battery .,battery,GENERAL,terrible,negative,EAEO
+it is a little slow .,implicit,OPERATION_PERFORMANCE,slow,negative,IAEO
+"great computer , setup was fast and easy .",computer,GENERAL,great,positive,EAEO
+"great computer , setup was fast and easy .",setup,USABILITY,fast,positive,EAEO
+"great computer , setup was fast and easy .",setup,USABILITY,easy,positive,EAEO
+"i am inlove with this laptop literally , it ' s nice size 15 .",laptop,DESIGN_FEATURES,nice,positive,EAEO
+graphics are good for the level of this laptop .,graphics,GENERAL,good,positive,EAEO
+finally got the warranty honored after almost 6 months .,warranty,GENERAL,implicit,negative,EAIO
+plenty of buyer returned it since the touch screen has phantom touch problems right after unboxing or it will eventually happen within 3 months .,touch,QUALITY,implicit,negative,EAIO
+"consequently , i am no longer covered and my otherwise great chromebook becomes unusable anytime the phantom touches appear .",chromebook,GENERAL,great,positive,EAEO
+"consequently , i am no longer covered and my otherwise great chromebook becomes unusable anytime the phantom touches appear .",phantom,GENERAL,implicit,negative,EAIO
+i have tried to fix the pixel with online videos and websites with no effect .,pixel,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"the beautiful screen is said to be identical to the pixelbook in size , aspect ratio , and resolution .",screen,DESIGN_FEATURES,beautiful,positive,EAEO
+"after using the 3 : 2 aspect ratio , i think i prefer it to normal 16 : 9 , as far as chromebooks go .",implicit,DESIGN_FEATURES,implicit,neutral,IAIO
+"it was fine for a solid two days , from there on it has been nonstop , reset to factory settings .",implicit,OPERATION_PERFORMANCE,fine,positive,IAEO
+"it was fine for a solid two days , from there on it has been nonstop , reset to factory settings .",implicit,OPERATION_PERFORMANCE,solid,positive,IAEO
+"it was fine for a solid two days , from there on it has been nonstop , reset to factory settings .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+"idk if that ' s how chromeos usually is , or maybe there is something wrong with the hardware but this is very annoying .",hardware,QUALITY,annoying,negative,EAEO
+"i get that this is meant to store everything in the cloud so it should be no big deal , but when your trying to get work done where there is no access to the internet ( since google docs works offline ) it is practically useless when it has to reset itself to factory settings just after turning it on .",implicit,DESIGN_FEATURES,implicit,negative,IAIO
+the touch screen works wonderfully .,touch,OPERATION_PERFORMANCE,wonderfully,positive,EAEO
+"as others have noted , the backspace key is small .",backspace,DESIGN_FEATURES,small,negative,EAEO
+my biggest irk today though is that the screen is not very durable .,screen,QUALITY,not,negative,EAEO
+"hard reboot , reset , refresh + power , esc + refresh + power , charging , letting it drain , nothing brought it back to life .",implicit,USABILITY,hard,negative,IAEO
+"needless to say trip number three to best buy was a pure return , since being 0 / 2 on such an expensive device leaves a bad taste , you know ?",device,PRICE,expensive,negative,EAEO
+"gorgeous screen , small profile , lightweight , built in stylus , i could go on and on about how awesome this thing was .",screen,DESIGN_FEATURES,gorgeous,positive,EAEO
+"gorgeous screen , small profile , lightweight , built in stylus , i could go on and on about how awesome this thing was .",profile,DESIGN_FEATURES,small,positive,EAEO
+"gorgeous screen , small profile , lightweight , built in stylus , i could go on and on about how awesome this thing was .",profile,DESIGN_FEATURES,lightweight,positive,EAEO
+"gorgeous screen , small profile , lightweight , built in stylus , i could go on and on about how awesome this thing was .",stylus,DESIGN_FEATURES,awesome,positive,EAEO
+"this review might be dismissed as i am missing the ` ` verified purchase ` ` stamp , which is fair .",verified,GENERAL,implicit,neutral,EAIO
+i wouldn ' t recommend this as a starting computer for children because they ' d learn incorrect navigation and have to adapt later to standard laptops .,implicit,OPERATION_PERFORMANCE,recommend,negative,IAEO
+"look , dont buy it .",implicit,GENERAL,implicit,negative,IAIO
+the screen does look good .,screen,GENERAL,good,positive,EAEO
+terrible quality and not really enjoyable to use apps on the playstore .,implicit,QUALITY,terrible,negative,IAEO
+terrible quality and not really enjoyable to use apps on the playstore .,apps,GENERAL,not,negative,EAEO
+battery life its ok .,battery,GENERAL,ok,neutral,EAEO
+"then i got it home , worked with it for awhile , and realized just how easy it is to misfire unless you land dead nuts center in the middle of the key on your stroke .",implicit,GENERAL,implicit,negative,IAIO
+"another star off for android app support , which simply isn ' t ready for prime time .",android,QUALITY,implicit,negative,EAIO
+"i didn ' t find a single android app that was optimized for chrome os ( not that my search was exhaustive , admittedly ) , so was disappointed pretty much every time .",android,DESIGN_FEATURES,disappointed,negative,EAEO
+"battery life was mediocre , too , come to think of it .",battery,GENERAL,mediocre,neutral,EAEO
+amazon gave me the option of returning for refund or trying to have it repaired .,amazon,GENERAL,implicit,neutral,EAIO
+"battery is good , display and keyboard are pretty great .",battery,GENERAL,good,positive,EAEO
+"battery is good , display and keyboard are pretty great .",display,GENERAL,great,positive,EAEO
+"battery is good , display and keyboard are pretty great .",keyboard,GENERAL,great,positive,EAEO
+there ' s nothing ` ` pro ` ` about this tablet .,tablet,GENERAL,implicit,negative,EAIO
+unless it ' s a really bad baby and chromeos + samsung = bad baby !,chromeos,GENERAL,implicit,negative,EAIO
+unless it ' s a really bad baby and chromeos + samsung = bad baby !,samsung,GENERAL,implicit,negative,EAIO
+unless it ' s a really bad baby and chromeos + samsung = bad baby !,samsung,GENERAL,implicit,negative,EAIO
+sounds nice until you realize that your computer just doesn ' t let you do things and then calls it secure .,computer,DESIGN_FEATURES,implicit,negative,EAIO
+the keyboard lacks a backlight which is inconvenient in low light situations .,keyboard,USABILITY,inconvenient,negative,EAEO
+"when you stack up all these strengths and offer them at a price of $ 299 , you ' re getting a fairly impressive value proposition here with this chromebook .",chromebook,PRICE,impressive,positive,EAEO
+"at $ 300 , this is a great purchase .",implicit,PRICE,great,positive,IAEO
+"which leads me to my next point , the omnipresent comments about ` ` this feels like a $ 1000 computer ! ` `",implicit,PRICE,implicit,positive,IAIO
+this isn ' t say the acer is bad in the abstract ; far from it .,acer,GENERAL,implicit,positive,EAIO
+"it has a nice , oversize trackpad that - like pretty much all chromebooks - is responsive and a pleasure to use .",trackpad,DESIGN_FEATURES,nice,positive,EAEO
+"it has a nice , oversize trackpad that - like pretty much all chromebooks - is responsive and a pleasure to use .",trackpad,DESIGN_FEATURES,oversize,positive,EAEO
+"it has a nice , oversize trackpad that - like pretty much all chromebooks - is responsive and a pleasure to use .",trackpad,OPERATION_PERFORMANCE,responsive,positive,EAEO
+"it has a nice , oversize trackpad that - like pretty much all chromebooks - is responsive and a pleasure to use .",trackpad,OPERATION_PERFORMANCE,pleasure,positive,EAEO
+"the performance never lags , it meets the 10 - 12 hour battery life promise in my usage tests , and it ' s quickly become my go - to computer for both home and work .",battery,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"this unit not only has a nice aluminum shell ( which is very attractive ) , but it also has a decent keyboard , with much better tactile properties than any chromebooks i ' ve looked at in the past .",aluminum,DESIGN_FEATURES,nice,positive,EAEO
+"this unit not only has a nice aluminum shell ( which is very attractive ) , but it also has a decent keyboard , with much better tactile properties than any chromebooks i ' ve looked at in the past .",aluminum,DESIGN_FEATURES,attractive,positive,EAEO
+"this unit not only has a nice aluminum shell ( which is very attractive ) , but it also has a decent keyboard , with much better tactile properties than any chromebooks i ' ve looked at in the past .",keyboard,DESIGN_FEATURES,decent,positive,EAEO
+"this unit not only has a nice aluminum shell ( which is very attractive ) , but it also has a decent keyboard , with much better tactile properties than any chromebooks i ' ve looked at in the past .",keyboard,DESIGN_FEATURES,better,positive,EAEO
+"when i was comparing this model against other manufacturer ' s / model ' s , the only thing that made me pause was the lack of a card reader / writer .",card,GENERAL,implicit,negative,EAIO
+i love it !,implicit,GENERAL,love,positive,IAEO
+"this isn ' t a powerhouse , i ' ve never pushed it , it probably wouldn ' t handle the 20 + tabs over multiple windows / desktops that i ' m used to on chrome on the desktop , but for 99 % of ` ` regular people ` ` this is an unbelievably good laptop .",it,OPERATION_PERFORMANCE,good,positive,EAEO
+the battery life is incredible and charges from 0 % to 100 % in about an hour and a half while in use .,battery,OPERATION_PERFORMANCE,incredible,positive,EAEO
+"overall , it performs well enough for my daily internet needs .",implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+my only wish is that it were a little more quick / less laggy given it is a chromebook - but for the price point its a great buy .,implicit,PRICE,great,positive,IAEO
+little bit of a learning curve with chrome os .,chrome,GENERAL,implicit,negative,EAIO
+so it appears the play store does not recognize this devise at this time .,devise,USABILITY,implicit,negative,EAIO
+"chromebook seems like the kind of device that you review after a few weeks , and by the time anything happens to it that affects use , the replacement will be just as much or cheaper , twice as powerful , and come with ` ` angry birds ` ` installed by default .",chromebook,GENERAL,implicit,negative,EAIO
+"the hdmi and usb ports are on the left side , the back has no ports at all , and , misery !",hdmi,DESIGN_FEATURES,misery,negative,EAEO
+the initial feel for this chromebook is superb .,chromebook,GENERAL,superb,positive,EAEO
+the quad - core celeron n3160 gets a respectable near - 8000 octane score .,quad,OPERATION_PERFORMANCE,respectable,positive,EAEO
+"this is a solid , well - balanced design .",design,DESIGN_FEATURES,solid,positive,EAEO
+"this is a solid , well - balanced design .",design,DESIGN_FEATURES,well,positive,EAEO
+"first time chromebook user , and this has been my favorite laptop ever .",laptop,GENERAL,favorite,positive,EAEO
+i ' m been quite pleased at how well the chromebook has worked for all these tasks .,chromebook,OPERATION_PERFORMANCE,pleased,positive,EAEO
+"as for software , chromeos is a decent thin - client operating system which can do more than most people think .",chromeos,USABILITY,decent,positive,EAEO
+"i was hesitant at first because of the price , but i have to say that this is honestly an amazing machine .",implicit,PRICE,hesitant,neutral,IAEO
+"i was hesitant at first because of the price , but i have to say that this is honestly an amazing machine .",machine,GENERAL,amazing,positive,EAEO
+"secondly , this is a really aesthetically pleasing machine .",machine,DESIGN_FEATURES,pleasing,positive,EAEO
+"there are , as with everything , several growth opportunities for this model .",model,GENERAL,implicit,neutral,EAIO
+"secondly , the trackpad feels a bit delicate .",trackpad,QUALITY,delicate,negative,EAEO
+the battery is good .,battery,GENERAL,good,positive,EAEO
+"if you are looking for a laptop to check emails , watch movies , to shop , basic documentation , then this is an ideal one .",laptop,OPERATION_PERFORMANCE,ideal,positive,EAEO
+i have had q & a on this chromebook asking if it will download ms office .,chromebook,USABILITY,implicit,neutral,EAIO
+battery seems to be pretty good .,battery,GENERAL,good,positive,EAEO
+"with the slow celeron processor , browsing does not feel snappy .",celeron,OPERATION_PERFORMANCE,slow,negative,EAEO
+this is my second chromebook and my next purchase will be a chromebase to replace my home pc .,chromebook,GENERAL,implicit,neutral,EAIO
+it does everything that i need and is surprisingly fast .,implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+i want to cry because this doesn ' t support google play store !,implicit,DESIGN_FEATURES,implicit,negative,IAIO
+i ' m a graphic designer / gamer and my creative software operates with no problems and i ' m able to play the sims 4 and world of warcraft on very high settings with no problems at all .,graphic,OPERATION_PERFORMANCE,implicit,positive,EAIO
+this is a huge plus !,implicit,PORTABILITY,implicit,positive,IAIO
+- drives are now solid state drive .,solid,GENERAL,implicit,neutral,EAIO
+- new built - in speakers .,speakers,DESIGN_FEATURES,new,positive,EAEO
+- no dvd drive .,dvd,GENERAL,implicit,negative,EAIO
+"i couldn ' t drag - and - drop items in it , but after i changed the behavior in settings , everything went well from there .",implicit,OPERATION_PERFORMANCE,well,neutral,IAEO
+it is pretty light if you are coming from any other laptop .,implicit,PORTABILITY,light,positive,IAEO
+very sharp screen and good viewing angles .,screen,GENERAL,sharp,positive,EAEO
+very sharp screen and good viewing angles .,screen,GENERAL,good,positive,EAEO
+something about os x running with a high resolution display just looks classy in a way that a windows computer could never match .,os,GENERAL,classy,positive,EAEO
+something about os x running with a high resolution display just looks classy in a way that a windows computer could never match .,display,OPERATION_PERFORMANCE,classy,positive,EAEO
+no complaints here .,implicit,GENERAL,implicit,positive,IAIO
+this computer is blazing fast .,computer,OPERATION_PERFORMANCE,fast,positive,EAEO
+"with os x yosemite , the os is very refined and elegant .",os,OPERATION_PERFORMANCE,refined,positive,EAEO
+"with os x yosemite , the os is very refined and elegant .",os,OPERATION_PERFORMANCE,elegant,positive,EAEO
+"with os x yosemite , the os is very refined and elegant .",os,OPERATION_PERFORMANCE,refined,positive,EAEO
+"with os x yosemite , the os is very refined and elegant .",os,OPERATION_PERFORMANCE,elegant,positive,EAEO
+the laptop works great and the package was delivered on time .,laptop,OPERATION_PERFORMANCE,great,positive,EAEO
+the laptop works great and the package was delivered on time .,package,GENERAL,implicit,positive,EAIO
+this thing is fast and efficient .,implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+this thing is fast and efficient .,implicit,OPERATION_PERFORMANCE,efficient,positive,IAEO
+"this computer is very high quality , do not believe anything on the market can touch it .",computer,QUALITY,high,positive,EAEO
+"the backlighting is comparable , but the mbp gets brighter .",backlighting,GENERAL,comparable,positive,EAEO
+"the backlighting is comparable , but the mbp gets brighter .",mbp,DESIGN_FEATURES,brighter,positive,EAEO
+the thunderbolt ports are a nice thing to have on the mbp .,thunderbolt,DESIGN_FEATURES,nice,positive,EAEO
+the best laptop i ' ve owned .,laptop,GENERAL,best,positive,EAEO
+bought it for my grandson for college and he loves it .,implicit,GENERAL,loves,positive,IAEO
+"overall , this is an excellent machine .",machine,GENERAL,excellent,positive,EAEO
+"good durability , outstanding performance and portability .",durability,QUALITY,good,positive,EAEO
+"good durability , outstanding performance and portability .",implicit,OPERATION_PERFORMANCE,outstanding,positive,IAEO
+"good durability , outstanding performance and portability .",portability,PORTABILITY,outstanding,positive,EAEO
+response is excellent .,response,OPERATION_PERFORMANCE,excellent,positive,EAEO
+- battery life appears to be excellent,battery,GENERAL,excellent,positive,EAEO
+- laptop is light .,laptop,PORTABILITY,light,positive,EAEO
+- generous selection of ports ( this is in reference to the newer model ),ports,DESIGN_FEATURES,generous,positive,EAEO
+"- laptop is sleek and dare i say , sexy",laptop,DESIGN_FEATURES,sleek,positive,EAEO
+"- laptop is sleek and dare i say , sexy",laptop,DESIGN_FEATURES,sexy,positive,EAEO
+i enjoy the processing speed of this model .,model,OPERATION_PERFORMANCE,enjoy,positive,EAEO
+"fast shipping , product exactly as described , authentic apple , new , factory sealed in box .",shipping,QUALITY,fast,positive,EAEO
+"fast shipping , product exactly as described , authentic apple , new , factory sealed in box .",product,GENERAL,new,positive,EAEO
+loving the sharp display and the track pad .,display,QUALITY,loving,positive,EAEO
+loving the sharp display and the track pad .,track,GENERAL,loving,positive,EAEO
+i am in love with how light and speedy it is .,implicit,DESIGN_FEATURES,love,positive,IAEO
+i am in love with how light and speedy it is .,implicit,DESIGN_FEATURES,light,positive,IAEO
+i am in love with how light and speedy it is .,implicit,OPERATION_PERFORMANCE,love,positive,IAEO
+i am in love with how light and speedy it is .,implicit,OPERATION_PERFORMANCE,speedy,positive,IAEO
+i love this macbook .,macbook,GENERAL,love,positive,EAEO
+great product,product,GENERAL,great,positive,EAEO
+this is an amazing computer i bought from cellelectronics .,computer,GENERAL,amazing,positive,EAEO
+they put a lot of thought and work into making sure that the hardware and software work real well together .,implicit,GENERAL,implicit,positive,IAIO
+they put a lot of thought and work into making sure that the hardware and software work real well together .,hardware,GENERAL,well,positive,EAEO
+they put a lot of thought and work into making sure that the hardware and software work real well together .,software,GENERAL,well,positive,EAEO
+obviously great computer,computer,GENERAL,great,positive,EAEO
+"very nice laptop , i love its portable feature and the running speed is very fast .",laptop,GENERAL,nice,positive,EAEO
+"very nice laptop , i love its portable feature and the running speed is very fast .",implicit,PORTABILITY,love,positive,IAEO
+"very nice laptop , i love its portable feature and the running speed is very fast .",running,OPERATION_PERFORMANCE,fast,positive,EAEO
+the only issue i have with it ( and hence the four star rating ) is the battery life .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it is thinner , and lighter .",implicit,DESIGN_FEATURES,thinner,positive,IAEO
+"it is thinner , and lighter .",implicit,DESIGN_FEATURES,lighter,positive,IAEO
+awesome computer .,computer,GENERAL,awesome,positive,EAEO
+the shipping was fast and the seller was great,shipping,OPERATION_PERFORMANCE,fast,positive,EAEO
+the shipping was fast and the seller was great,seller,GENERAL,great,positive,EAEO
+the mac is great besides a chip under the mouse pad .,mac,GENERAL,great,positive,EAEO
+the mac is great besides a chip under the mouse pad .,chip,DESIGN_FEATURES,implicit,negative,EAIO
+the design is beautiful and the force feedback track pad is amazing .,design,DESIGN_FEATURES,beautiful,positive,EAEO
+the design is beautiful and the force feedback track pad is amazing .,track,GENERAL,amazing,positive,EAEO
+yeah the new mac book is lighter and only a little small but the internals are a lot slower .,mac,DESIGN_FEATURES,lighter,positive,EAEO
+yeah the new mac book is lighter and only a little small but the internals are a lot slower .,internals,DESIGN_FEATURES,slower,negative,EAEO
+love this computer !,this,GENERAL,love,positive,EAEO
+"force touch trackpad , pretty freakin awesome .",trackpad,GENERAL,awesome,positive,EAEO
+works like a charm and the retina display is super gorgeous .,retina,OPERATION_PERFORMANCE,gorgeous,positive,EAEO
+the laptop arrived in excellent condition .,implicit,OPERATION_PERFORMANCE,excellent,positive,IAEO
+"i absolutely love the programs that come with it ; how the mac itself functions , the appearance and quality of the mac .",programs,GENERAL,love,positive,EAEO
+"battery life thus far isn ' t nearly as long as i thought it would be , based upon video reviews of this model and item description .",battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+this macbook is such a blessing and i would feel somewhat lost without it .,macbook,GENERAL,blessing,positive,EAEO
+"if you ' re considering getting this macbook , proceed with confidence .",macbook,GENERAL,implicit,positive,EAIO
+the ss hard drive has next to zero lag over traditional drives .,ss,OPERATION_PERFORMANCE,implicit,positive,EAIO
+it ' s far away from meeting my expectations .,implicit,GENERAL,implicit,negative,IAIO
+i really like how it isn ' t bulky .,implicit,DESIGN_FEATURES,like,positive,IAEO
+great price and customer service,implicit,PRICE,great,positive,IAEO
+great price and customer service,customer,GENERAL,great,positive,EAEO
+"however , i have an iphone and an ipad and the macbook does a great job syncing up everything on all three devises .",macbook,USABILITY,great,positive,EAEO
+laptop works perfect however i did get a used charger that only lasted a week .,laptop,OPERATION_PERFORMANCE,perfect,positive,EAEO
+laptop works perfect however i did get a used charger that only lasted a week .,charger,QUALITY,implicit,negative,EAIO
+awesome machine .,machine,GENERAL,awesome,positive,EAEO
+costs a few bucks $ $ $ more but apple products are the best on the market .,apple,GENERAL,best,positive,EAEO
+"this computer is great for playing videos in a classroom setting of 10 people , connecting to an hdmi tv to show videos and powerpoints , and has a fantastic battery life .",computer,OPERATION_PERFORMANCE,great,positive,EAEO
+"this computer is great for playing videos in a classroom setting of 10 people , connecting to an hdmi tv to show videos and powerpoints , and has a fantastic battery life .",battery,QUALITY,fantastic,positive,EAEO
+great price .,implicit,PRICE,great,positive,IAEO
+great computer !,computer,GENERAL,great,positive,EAEO
+i ' ve been using this laptop for 1 year and no issues with the deliver nor the computer .,computer,GENERAL,implicit,positive,EAIO
+great prodcut,prodcut,GENERAL,great,positive,EAEO
+i did not like the new 2016 model due to the lack of ports and magsafe connector .,2016,DESIGN_FEATURES,not,negative,EAEO
+shipping was fast and product came as described .,shipping,OPERATION_PERFORMANCE,fast,positive,EAEO
+shipping was fast and product came as described .,product,GENERAL,implicit,positive,EAIO
+apple updates are easy .,apple,USABILITY,easy,positive,EAEO
+"it arrived in great condition , and it ' s been working perfectly for me since i got it .",implicit,OPERATION_PERFORMANCE,great,positive,IAEO
+"it arrived in great condition , and it ' s been working perfectly for me since i got it .",implicit,OPERATION_PERFORMANCE,perfectly,positive,IAEO
+high quaility computer in every way .,computer,QUALITY,high,positive,EAEO
+i like this machine quite a bit .,machine,GENERAL,like,positive,EAEO
+"i was initially a little nervous as the system was somewhat glitchy for the first couple of weeks , seemed to be a problem with the chrome os because it was fixed by the next update .",system,USABILITY,nervous,neutral,EAEO
+"i was initially a little nervous as the system was somewhat glitchy for the first couple of weeks , seemed to be a problem with the chrome os because it was fixed by the next update .",chrome,QUALITY,implicit,negative,EAIO
+"took a week or so to get used to , but love it now .",implicit,GENERAL,love,positive,IAEO
+screen stays in whatever position you put it solidly enough to use the touchscreen .,screen,DESIGN_FEATURES,implicit,neutral,EAIO
+battery : solid .,battery,QUALITY,solid,positive,EAEO
+- speakers are a little tinny ( though the volume is awesome ) and it ' s not possible to customize the equalizer on the chrome os right now : (,speakers,DESIGN_FEATURES,tinny,negative,EAEO
+- speakers are a little tinny ( though the volume is awesome ) and it ' s not possible to customize the equalizer on the chrome os right now : (,speakers,QUALITY,awesome,positive,EAEO
+- speakers are a little tinny ( though the volume is awesome ) and it ' s not possible to customize the equalizer on the chrome os right now : (,chrome,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"i mean , if you want a true tablet , buy a true tablet - - this did honestly keep me from investing in a kindle as i was planning to .",implicit,DESIGN_FEATURES,implicit,negative,IAIO
+"i love that it is only as big as it needs to be to have a full - size keyboard ( not with a number pad , but full - sized keys ) .",implicit,DESIGN_FEATURES,implicit,positive,IAIO
+"i love that it is only as big as it needs to be to have a full - size keyboard ( not with a number pad , but full - sized keys ) .",keyboard,DESIGN_FEATURES,implicit,positive,EAIO
+update it as soon as you turn it on !,implicit,USABILITY,implicit,neutral,IAIO
+my trusty windows 7 laptop was on its last leg and i opted to try something new .,windows,GENERAL,implicit,neutral,EAIO
+"however , it comes with 100 gb of free google drive online storage .",google,DESIGN_FEATURES,implicit,positive,EAIO
+"the touchscreen looks good and is responsive , and the keyboard is nice .",touchscreen,GENERAL,good,positive,EAEO
+"the touchscreen looks good and is responsive , and the keyboard is nice .",touchscreen,OPERATION_PERFORMANCE,responsive,positive,EAEO
+"the touchscreen looks good and is responsive , and the keyboard is nice .",keyboard,GENERAL,nice,positive,EAEO
+people who complain that chromebooks are useless without internet access clearly are narrow minded and simply not thinking outside the box .,internet,GENERAL,implicit,positive,EAIO
+"so i went to install my favorite screenwriting app , trelby , only to find its not available .",screenwriting,GENERAL,favorite,positive,EAEO
+maybe this thing does suck without an internet connection .,implicit,CONNECTIVITY,suck,negative,IAEO
+"and just like that , i realized that i can use my studio desktop wherever i want , whenever i want .",studio,GENERAL,implicit,neutral,EAIO
+it does make quite a loud click when you depress the button .,implicit,DESIGN_FEATURES,implicit,negative,IAIO
+"overall : i like it and am happy for paying a bit over $ 200 for the 4gb model ( at the time of writing this , it sells for $ 220 new ) .",model,PRICE,like,positive,EAEO
+one plus i ' m particularly happy about : a quiet fan - less device that doesn ' t heat up too much !,fan,QUALITY,happy,positive,EAEO
+one plus i ' m particularly happy about : a quiet fan - less device that doesn ' t heat up too much !,fan,QUALITY,quiet,positive,EAEO
+"i have to say , i was somewhat hesitant purchasing this chromebook mainly because of some of the reviews .",chromebook,QUALITY,hesitant,negative,EAEO
+due to the excellent return policy on prime i decided to purchase this .,return,GENERAL,excellent,positive,EAEO
+i downloaded pandora and listened to all my stations at 3 / 4 volume and it sounded fine .,implicit,OPERATION_PERFORMANCE,fine,positive,IAEO
+"so far all but 1 of the android apps that i have tried have functioned properly , but some are restricted in the size of window that will work properly .",android,OPERATION_PERFORMANCE,properly,positive,EAEO
+laptop arrived dirty ( grimy screen and there was actual pet hair in the air vent ) .,laptop,DESIGN_FEATURES,dirty,negative,EAEO
+laptop arrived dirty ( grimy screen and there was actual pet hair in the air vent ) .,screen,DESIGN_FEATURES,grimy,negative,EAEO
+laptop arrived dirty ( grimy screen and there was actual pet hair in the air vent ) .,air,GENERAL,implicit,negative,EAIO
+i had to look up keys to press to get into a start up mode to even set up the computer,computer,USABILITY,implicit,negative,EAIO
+"i am not blaming the seller , i am blaming mac ' s os and its glitchy services .",seller,GENERAL,not,neutral,EAEO
+"i am not blaming the seller , i am blaming mac ' s os and its glitchy services .",mac,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"i am not blaming the seller , i am blaming mac ' s os and its glitchy services .",services,GENERAL,glitchy,negative,EAEO
+"but currently i am happy with it , the battery is ok , and its very aesthetically pleasing .",implicit,GENERAL,happy,positive,IAEO
+"but currently i am happy with it , the battery is ok , and its very aesthetically pleasing .",battery,GENERAL,ok,positive,EAEO
+"but currently i am happy with it , the battery is ok , and its very aesthetically pleasing .",implicit,DESIGN_FEATURES,aesthetically,positive,IAEO
+"but currently i am happy with it , the battery is ok , and its very aesthetically pleasing .",implicit,DESIGN_FEATURES,pleasing,positive,IAEO
+"ordered a macbook pro 13inch 256gb from this seller and with the exception of the power button , the keyboard and the trackpad wasn ' t working .",macbook,GENERAL,implicit,negative,EAIO
+"ordered a macbook pro 13inch 256gb from this seller and with the exception of the power button , the keyboard and the trackpad wasn ' t working .",power,GENERAL,implicit,neutral,EAIO
+"ordered a macbook pro 13inch 256gb from this seller and with the exception of the power button , the keyboard and the trackpad wasn ' t working .",keyboard,QUALITY,implicit,negative,EAIO
+"ordered a macbook pro 13inch 256gb from this seller and with the exception of the power button , the keyboard and the trackpad wasn ' t working .",trackpad,QUALITY,implicit,negative,EAIO
+the seller ' s description is that it was ` ` tested and fully functional ` ` and it wasn ' t .,seller,GENERAL,implicit,negative,EAIO
+update : apparently the laptop sold to me was missing 5 screws on the inside that actually holds everything together .,laptop,QUALITY,implicit,negative,EAIO
+"while yes , the charger does look great coming out of the box , plan on buying another shortly thereafter - and after , as long as your patience holds up .",charger,DESIGN_FEATURES,great,positive,EAEO
+do not waste your time calling apple to see if there is anything they can do about it after 1 year ( unless of course you want to pay even more money on ' apple care ' ) .,apple,GENERAL,implicit,negative,EAIO
+"as much as i love the computer , and tout macbook to all my friends , for me , it stops here and now .",computer,GENERAL,love,positive,EAEO
+"as much as i love the computer , and tout macbook to all my friends , for me , it stops here and now .",macbook,GENERAL,love,positive,EAEO
+the anti - reflective coating will wear off and it isn ' t covered under apple ' s warranty .,anti,QUALITY,implicit,negative,EAIO
+the anti - reflective coating will wear off and it isn ' t covered under apple ' s warranty .,apple,GENERAL,implicit,neutral,EAIO
+the macbook pro offers a very dependable machine that will muddle - through anything you throw at it without complaining .,macbook,OPERATION_PERFORMANCE,dependable,positive,EAEO
+2 usb ports and 2 thunderbolt ports on a $ 4500nz laptop ?,usb,GENERAL,implicit,negative,EAIO
+2 usb ports and 2 thunderbolt ports on a $ 4500nz laptop ?,thunderbolt,GENERAL,implicit,negative,EAIO
+the ` ` ssd drive ` ` is not user replaceable .,ssd,GENERAL,implicit,negative,EAIO
+the charger is defective and after 45 days of use the charger is shot .,charger,QUALITY,defective,negative,EAEO
+"first impressions , excellent looking laptop and very light !",laptop,DESIGN_FEATURES,excellent,positive,EAEO
+i love the keyboard and the trackpad - i finally get it now why both of these have rave reviews .,keyboard,GENERAL,love,positive,EAEO
+i love the keyboard and the trackpad - i finally get it now why both of these have rave reviews .,trackpad,GENERAL,love,positive,EAEO
+"the battery life is good - i get about 5 - 6 hours of non stop typing , with 3 browsers opened and wifi always on .",battery,GENERAL,good,positive,EAEO
+it ' s not stated anywhere that ' s it ' s used .,implicit,GENERAL,implicit,negative,IAIO
+didn ' t purchase from amazon but i can not believe these laptops have 5 stars .,amazon,GENERAL,implicit,negative,EAIO
+didn ' t purchase from amazon but i can not believe these laptops have 5 stars .,laptops,GENERAL,implicit,negative,EAIO
+"then one day , it stopped booting .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+my daughter loves it and it will be a great tool to help her through nursing school .,implicit,GENERAL,loves,positive,IAEO
+my daughter loves it and it will be a great tool to help her through nursing school .,implicit,GENERAL,great,positive,IAEO
+apparently apple isn ' t even trying anymore .,apple,GENERAL,implicit,negative,EAIO
+* very good battery life,battery,QUALITY,good,positive,EAEO
+it is not worth it .,implicit,GENERAL,not,negative,IAEO
+"i ' m still absolutely blown away how apple , a supposed industry leader , has such horrendous functionality .",apple,GENERAL,horrendous,negative,EAEO
+i purchased this notebook back in july and was initially happy with my purchase .,notebook,GENERAL,happy,positive,EAEO
+"after numerous calls , i then received confirmation the warranty was valid , but only as a ‘ one - off ' .",warranty,GENERAL,implicit,negative,EAIO
+"asus , has a horrible reputation .",asus,GENERAL,horrible,negative,EAEO
+my final verdict - it ' s somewhat solid as a device now that 6 months of updates and delays are behind us .,device,GENERAL,implicit,negative,EAIO
+"bright enough for all uses , and 1080p is perfect - images are sharp .",1080p,QUALITY,bright,positive,EAEO
+"bright enough for all uses , and 1080p is perfect - images are sharp .",1080p,QUALITY,perfect,positive,EAEO
+"- battery life is solid , right around what is claimed - probably 7 to 10 hours depending on variables such as screen brightness and how demanding you ' re being with it .",battery,QUALITY,solid,positive,EAEO
+- touchscreen is responsive enough for gaming .,touchscreen,DESIGN_FEATURES,responsive,positive,EAEO
+"i absolutely imagine chrome apps picking up drastically in quality and quantity now , since it seems like chrome os is really coming into its own this year .",chrome,QUALITY,implicit,positive,EAIO
+"- in tablet mode , the screen looks too ‘ tall ' to feel natural ( see the attached picture ) .",screen,DESIGN_FEATURES,implicit,neutral,EAIO
+this screen ratio makes it look great in desktop mode .,screen,DESIGN_FEATURES,great,positive,EAEO
+after 3 months of use the unit will no longer charge .,unit,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"if it is indeed a software thing and it ' s fixed , i would highly recommend this device .",device,GENERAL,recommend,positive,EAEO
+second issue is with scaling of the ui .,ui,DESIGN_FEATURES,implicit,negative,EAIO
+the screen itself is hd 1080p but most ui elements don ' t look good in this resolution .,ui,DESIGN_FEATURES,',negative,EAEO
+"unless the app is specifically designed to access google drive files , the app has no way to read and save files directly to the cloud .",app,DESIGN_FEATURES,implicit,negative,EAIO
+"unless the app is specifically designed to access google drive files , the app has no way to read and save files directly to the cloud .",implicit,DESIGN_FEATURES,implicit,negative,IAIO
+• great battery life .,battery,QUALITY,great,positive,EAEO
+• volume is incredibly low .,implicit,OPERATION_PERFORMANCE,low,negative,IAEO
+i would like a quick fix but have not found one that would allow me to consider keeping this beautiful asus chromebook .,asus,DESIGN_FEATURES,beautiful,positive,EAEO
+then i one night i plugged it in and woke up to a dead chromebook .,chromebook,GENERAL,dead,negative,EAEO
+it ' s too heavy to really use as a tablet .,tablet,PORTABILITY,heavy,negative,EAEO
+transfer speeds ( lan to nas ) were miserably slow ( 10 - 30mbps ) .,implicit,OPERATION_PERFORMANCE,slow,negative,IAEO
+"it was perfect with no backlight bleed , no shimmery matte texture , no uneven backlight , no dead / stuck pixels .",implicit,GENERAL,perfect,positive,IAEO
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",product,GENERAL,fantastic,positive,EAEO
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",build,QUALITY,great,positive,EAEO
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",screen,GENERAL,great,positive,EAEO
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",keyboard,GENERAL,great,positive,EAEO
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+i ' ve been repairing products for years and it was clear this was a power _ supply issue .,power,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"if this device weren ' t nearly $ 500 i might expect it to only last a year , but at this price point it ' s unacceptable .",device,QUALITY,unacceptable,negative,EAEO
+some of the things i wanted to do with this notebook were limited by the os .,os,GENERAL,implicit,negative,EAIO
+"the laptop was great , lightweight , booted fast , simple to use .",laptop,GENERAL,great,positive,EAEO
+"the laptop was great , lightweight , booted fast , simple to use .",laptop,DESIGN_FEATURES,lightweight,positive,EAEO
+"the laptop was great , lightweight , booted fast , simple to use .",laptop,OPERATION_PERFORMANCE,fast,positive,EAEO
+"the laptop was great , lightweight , booted fast , simple to use .",laptop,USABILITY,simple,positive,EAEO
+even just this last month it still rates ( on several tech sites ) as one of the best overall chromebook lines to get .,chromebook,GENERAL,best,positive,EAEO
+the asus customer service people are rude and have no answers .,asus,QUALITY,rude,negative,EAEO
+things were fine until the unit stopped charging .,implicit,OPERATION_PERFORMANCE,fine,positive,IAEO
+things were fine until the unit stopped charging .,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+this is the problem with companies today .,companies,GENERAL,implicit,negative,EAIO
+asus customer service sucks .,asus,GENERAL,sucks,negative,EAEO
+"i call customer service , first they argue and say customer damage then to try and placate me they say they have an adp accidental damage and protection plan one time for one year .",customer,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it is a beautiful , well built laptop .",laptop,DESIGN_FEATURES,beautiful,positive,EAEO
+"it is a beautiful , well built laptop .",laptop,DESIGN_FEATURES,well,positive,EAEO
+that ' s nutty for an expensive premium product .,product,OPERATION_PERFORMANCE,nutty,negative,EAEO
+that ' s nutty for an expensive premium product .,product,PRICE,expensive,negative,EAEO
+asus what the heck were you thinking when you designed this product ?,asus,GENERAL,implicit,negative,EAIO
+i seriously love the product but i may have to return it .,product,GENERAL,love,positive,EAEO
+i seriously love the product but i may have to return it .,product,GENERAL,implicit,negative,EAIO
+now i only leave it charging until it ' s full but the battery time is still decreasing .,battery,QUALITY,implicit,negative,EAIO
+very impressed with my first chromebook .,chromebook,GENERAL,impressed,positive,EAEO
+i don ' t use it as much in tablet mode as i thought as it is a little heavy when in that configuration .,tablet,PORTABILITY,heavy,negative,EAEO
+i had high hopes for this tablet / computer based on customer reviews .,tablet,GENERAL,high,positive,EAEO
+google docs work fine .,google,OPERATION_PERFORMANCE,fine,positive,EAEO
+"a chromebook does most of what i need , except gaiming .",chromebook,GENERAL,implicit,positive,EAIO
+"second , and most annoying , it would not identify my printer in cloud print .",implicit,OPERATION_PERFORMANCE,annoying,negative,IAEO
+"so , guess i ' m screwed , because now after 6 months my tpm is no longer working and the whole computer is useless .",tpm,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"so , guess i ' m screwed , because now after 6 months my tpm is no longer working and the whole computer is useless .",computer,OPERATION_PERFORMANCE,useless,negative,EAEO
+"product is sturdy , lightweight , fast , and the battery runtime was as advertised !",product,DESIGN_FEATURES,sturdy,positive,EAEO
+"product is sturdy , lightweight , fast , and the battery runtime was as advertised !",product,DESIGN_FEATURES,lightweight,positive,EAEO
+"product is sturdy , lightweight , fast , and the battery runtime was as advertised !",product,OPERATION_PERFORMANCE,fast,positive,EAEO
+"product is sturdy , lightweight , fast , and the battery runtime was as advertised !",battery,QUALITY,implicit,positive,EAIO
+i had to buy a mouse because the touchpad is very sticky .,touchpad,DESIGN_FEATURES,sticky,negative,EAEO
+"not at all pleasant to use also , the screen quality is just so - so .",implicit,GENERAL,not,negative,IAEO
+"not at all pleasant to use also , the screen quality is just so - so .",screen,QUALITY,so,neutral,EAEO
+and not buy any asus product again,asus,GENERAL,implicit,negative,EAIO
+the third one is ok but has a dead pixel .,implicit,GENERAL,ok,neutral,IAEO
+i ' ve contacted amazon and asus and no response .,amazon,GENERAL,implicit,negative,EAIO
+i ' ve contacted amazon and asus and no response .,asus,GENERAL,implicit,negative,EAIO
+this piece of crap won ' t hold a wifi signal or has a really weak signal .,crap,CONNECTIVITY,implicit,negative,EAIO
+several of my chrome extensions perform poorly and have to be disabled altogether which degrades my work production experience .,chrome,OPERATION_PERFORMANCE,poorly,negative,EAEO
+"however , 1 ) the speakers on this thing are horrible .",speakers,GENERAL,horrible,negative,EAEO
+battery life is not good .,battery,GENERAL,not,negative,EAEO
+but screen is very weird .,screen,GENERAL,weird,negative,EAEO
+"the intel m3 processor is amazing , this thing can do a ton of multi - tasking and the google play store is nice to have , the android apps variants trump the chromebook pre - loaded apps .",intel,OPERATION_PERFORMANCE,amazing,positive,EAEO
+"the intel m3 processor is amazing , this thing can do a ton of multi - tasking and the google play store is nice to have , the android apps variants trump the chromebook pre - loaded apps .",google,GENERAL,nice,positive,EAEO
+"the intel m3 processor is amazing , this thing can do a ton of multi - tasking and the google play store is nice to have , the android apps variants trump the chromebook pre - loaded apps .",android,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"a great chromebook , but stopped charging in 3 months .",chromebook,GENERAL,great,positive,EAEO
+"a great chromebook , but stopped charging in 3 months .",chromebook,OPERATION_PERFORMANCE,implicit,negative,EAIO
+i was really excited to purchase this product because it was more affordable .,product,GENERAL,excited,positive,EAEO
+i was really excited to purchase this product because it was more affordable .,product,PRICE,affordable,positive,EAEO
+"chromebooks are cool , but they dont last at all .",chromebooks,DESIGN_FEATURES,cool,positive,EAEO
+"chromebooks are cool , but they dont last at all .",chromebooks,OPERATION_PERFORMANCE,implicit,negative,EAIO
+hey this machine is extremely useable and functionable .,machine,USABILITY,useable,positive,EAEO
+hey this machine is extremely useable and functionable .,machine,OPERATION_PERFORMANCE,functionable,positive,EAEO
+battery no longer charging .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"furthermore , the file system is extremely complicated to use .",file,USABILITY,complicated,negative,EAEO
+the display panel on the machine i received is warped .,display,QUALITY,warped,negative,EAEO
+half the time it doesn ' t want to turn on and just flashes .,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+"the machine looks great from the hardware point , but the whole concept of chrome os and cloud applications sucks .",machine,GENERAL,great,positive,EAEO
+"the machine looks great from the hardware point , but the whole concept of chrome os and cloud applications sucks .",hardware,DESIGN_FEATURES,great,positive,EAEO
+"the machine looks great from the hardware point , but the whole concept of chrome os and cloud applications sucks .",chrome,GENERAL,sucks,negative,EAEO
+"the machine looks great from the hardware point , but the whole concept of chrome os and cloud applications sucks .",cloud,GENERAL,sucks,negative,EAEO
+"in the middle of using , it rebooted , then went into an endless boot loop , so i tried to reset it to factory default , now it says chrome os is missing or damaged .",chrome,OPERATION_PERFORMANCE,implicit,negative,EAIO
+the screen hinge feels weak .,screen,DESIGN_FEATURES,weak,negative,EAEO
+screen is average by 2017 standards .,screen,QUALITY,average,neutral,EAEO
+the chromebook is brilliant overall .,chromebook,GENERAL,brilliant,positive,EAEO
+google provides zeros customer support related to the os .,customer,GENERAL,implicit,negative,EAIO
+google provides zeros customer support related to the os .,google,GENERAL,implicit,negative,EAIO
+horrible product .,product,GENERAL,horrible,negative,EAEO
+tech support is no help unless you are willing to part with your computer for months without guarantee of return .,tech,GENERAL,no,negative,EAEO
+i am having a very difficult time with this chromebook .,chromebook,GENERAL,difficult,negative,EAEO
+it freezes constantly and needs to be shut off to start again .,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+the microphone does not work with regular speaker .,microphone,OPERATION_PERFORMANCE,implicit,negative,EAIO
+the microphone does not work with regular speaker .,speaker,OPERATION_PERFORMANCE,implicit,negative,EAIO
+the tablet mode is horribly integrated with the os and applications .,tablet,GENERAL,horribly,negative,EAEO
+the tablet mode is horribly integrated with the os and applications .,os,GENERAL,horribly,negative,EAEO
+the tablet mode is horribly integrated with the os and applications .,applications,GENERAL,horribly,negative,EAEO
+i tried returning the second one bu it does n ' t give me the option to return it .,implicit,GENERAL,implicit,negative,IAIO
+this is nothing more than an okay laptop to get you through basic work activities .,laptop,GENERAL,okay,positive,EAEO
+overall it ' s one of the nicest chrombooks out there .,chrombooks,GENERAL,nicest,positive,EAEO
+"however , mine came with an annoying trackpad .",trackpad,GENERAL,annoying,negative,EAEO
+the top metal monitor casing seems to be soft and bendable .,top,DESIGN_FEATURES,soft,negative,EAEO
+the top metal monitor casing seems to be soft and bendable .,top,DESIGN_FEATURES,bendable,negative,EAEO
+"mine arrived with the metal screen casing slightly bent , i can easily bend it back , not sure about the durability of this thing in the long term .",metal,QUALITY,bent,negative,EAEO
+"however , shortly after i received it , a buzzing sound started coming out of the right side usb port .",usb,QUALITY,implicit,negative,EAIO
+so chromebook with some manufacturing issues + bad customer service,chromebook,GENERAL,implicit,negative,EAIO
+so chromebook with some manufacturing issues + bad customer service,customer,GENERAL,bad,negative,EAEO
+they 1080 screen makes the fonts to small for this size screen .,screen,DESIGN_FEATURES,implicit,negative,EAIO
+i find the chromium os to be very limiting and would not recommend it over a cheap windows pc .,chromium,GENERAL,limiting,negative,EAEO
+i find the chromium os to be very limiting and would not recommend it over a cheap windows pc .,windows,PRICE,not,negative,EAEO
+i find the chromium os to be very limiting and would not recommend it over a cheap windows pc .,windows,PRICE,cheap,negative,EAEO
+"the keyboard is fantastic , but it ' s just a keyboard .",keyboard,GENERAL,fantastic,positive,EAEO
+the touchpad is also some strange off color plastic .,touchpad,DESIGN_FEATURES,strange,negative,EAEO
+1 - faulty trackpad resulting in jerky erratic cursor movement relative to the smooth movement of your finger .,trackpad,OPERATION_PERFORMANCE,faulty,negative,EAEO
+1 - faulty trackpad resulting in jerky erratic cursor movement relative to the smooth movement of your finger .,trackpad,OPERATION_PERFORMANCE,jerky,negative,EAEO
+1 - faulty trackpad resulting in jerky erratic cursor movement relative to the smooth movement of your finger .,trackpad,OPERATION_PERFORMANCE,erratic,negative,EAEO
+i then noticed a dead pixel on the screen .,screen,QUALITY,implicit,negative,EAIO
+"however , if you want a really speedy chromebook , it ' s great .",chromebook,OPERATION_PERFORMANCE,speedy,positive,EAEO
+"however , if you want a really speedy chromebook , it ' s great .",chromebook,OPERATION_PERFORMANCE,great,positive,EAEO
+the first unit i received shortly died after a few hours of usage .,unit,QUALITY,died,negative,EAEO
+"i like the addition of the cooler boost button , but most of the time i don ' t have to use it because i have a thermaltake auto laptop cooling pad that monitors the bottom surface of my laptop .",thermaltake,GENERAL,implicit,neutral,EAIO
+trackpad is ok .,trackpad,GENERAL,ok,neutral,EAEO
+wireless card is finicky with both units i had .,wireless,DESIGN_FEATURES,finicky,negative,EAEO
+my laptop seems to lose its internet connection at random times .,laptop,CONNECTIVITY,implicit,negative,EAIO
+"after being on the phone with technical support and windows support for a combined 10 hours , i am told that the hardware is defective and must be replaced .",hardware,QUALITY,defective,negative,EAEO
+run like heck from this machine .,machine,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it will break , even if it works at first .",implicit,QUALITY,break,negative,IAEO
+this laptop isn ' t even 30 days old yet .,laptop,GENERAL,implicit,negative,EAIO
+"literally just closing it and opening it up later was a 50 / 50 proposition if it would wake up , or the display would crash , or the disk would crash , or some driver would fail - on a brand new laptop .",display,QUALITY,crash,negative,EAEO
+"literally just closing it and opening it up later was a 50 / 50 proposition if it would wake up , or the display would crash , or the disk would crash , or some driver would fail - on a brand new laptop .",disk,QUALITY,implicit,negative,EAIO
+"literally just closing it and opening it up later was a 50 / 50 proposition if it would wake up , or the display would crash , or the disk would crash , or some driver would fail - on a brand new laptop .",some,QUALITY,fail,negative,EAEO
+"literally just closing it and opening it up later was a 50 / 50 proposition if it would wake up , or the display would crash , or the disk would crash , or some driver would fail - on a brand new laptop .",laptop,QUALITY,implicit,negative,EAIO
+hook up the cat5 and the machine is screaming at high speed and exactly what i was hoping for .,machine,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"by the time i was returning it , the system was in such poor shape from the msi .",system,OPERATION_PERFORMANCE,poor,negative,EAEO
+"i believe if you happen to uninstall / install the drivers in exactly the correct order and / or do a clean win 10 installation yourself , this laptop should perform well for the price .",laptop,OPERATION_PERFORMANCE,well,positive,EAEO
+the sound is really terrible and tinny .,sound,OPERATION_PERFORMANCE,terrible,negative,EAEO
+the sound is really terrible and tinny .,sound,OPERATION_PERFORMANCE,tinny,negative,EAEO
+it ' s fast .,implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+excellent product,product,GENERAL,excellent,positive,EAEO
+i ' ve always liked msi for their performance and fairly decent price .,msi,OPERATION_PERFORMANCE,liked,positive,EAEO
+i ' ve always liked msi for their performance and fairly decent price .,msi,PRICE,decent,positive,EAEO
+it was actually more like 1h45m and this was also after optimizing the battery .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"so , four days after buying this laptop , it stopped booting .",laptop,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"for the four days i used it , it worked pretty good .",implicit,OPERATION_PERFORMANCE,good,positive,IAEO
+this laptop is not worth the time and definitely not the money .,laptop,GENERAL,not,negative,EAEO
+we call tech support together and the guy who answers is just so not interested in helping .,tech,OPERATION_PERFORMANCE,implicit,negative,EAIO
+i am extremely disappointed with this laptop .,laptop,GENERAL,disappointed,negative,EAEO
+update : this is by far and away the worst computer i have ever purchased .,computer,GENERAL,worst,negative,EAEO
+"got the second laptop , died within a month and same thing .",second,GENERAL,died,negative,EAEO
+this kept plaguing the laptop as more problems kept piling up including various bsod errors mostly involving the hardware .,hardware,QUALITY,implicit,negative,EAIO
+this kept plaguing the laptop as more problems kept piling up including various bsod errors mostly involving the hardware .,laptop,QUALITY,implicit,negative,EAIO
+poor design and terrible tech support .,design,DESIGN_FEATURES,poor,negative,EAEO
+poor design and terrible tech support .,tech,GENERAL,terrible,negative,EAEO
+this computer is amazing !,computer,GENERAL,amazing,positive,EAEO
+"quite like this laptop so far , only writing this review so early from owning it to receive that nice msi headset .",laptop,GENERAL,like,positive,EAEO
+"quite like this laptop so far , only writing this review so early from owning it to receive that nice msi headset .",msi,GENERAL,nice,positive,EAEO
+"not too happy with msi , likely to return this laptop .",msi,GENERAL,not,negative,EAEO
+"not too happy with msi , likely to return this laptop .",laptop,GENERAL,not,negative,EAEO
+this laptop was great starting out of the box .,laptop,GENERAL,great,positive,EAEO
+"their support page is very buggy , and the support people are unhelpful .",support,GENERAL,buggy,negative,EAEO
+"their support page is very buggy , and the support people are unhelpful .",support,GENERAL,unhelpful,negative,EAEO
+sooooo i would avoid this and i ' m pretty much avoiding the optane drive which may have been part of the issue .,optane,GENERAL,implicit,negative,EAIO
+after this issue i finally decided to return my product .,product,GENERAL,implicit,negative,EAIO
+good luck this customer tech support and msi has absolutely no idea how to help you .,customer,GENERAL,good,negative,EAEO
+good luck this customer tech support and msi has absolutely no idea how to help you .,msi,GENERAL,good,negative,EAEO
+i ' ve had to do a factory reset on this piece of garbage 4 times and i ' ve only owned it for 4 months .,implicit,GENERAL,garbage,negative,IAEO
+you can feel the plastic bending if you pick up the laptop with one hand .,laptop,DESIGN_FEATURES,implicit,negative,EAIO
+i really loved this laptop .,laptop,GENERAL,loved,positive,EAEO
+i will never own another msi product .,msi,GENERAL,implicit,negative,EAIO
+"now i feel bad buying this for my child , as this laptop seem to have a solid rating elsewhere .",laptop,GENERAL,bad,negative,EAEO
+"now i feel bad buying this for my child , as this laptop seem to have a solid rating elsewhere .",laptop,GENERAL,solid,negative,EAEO
+so i ' m stuck with a 3 month old laptop that does n ' t work .,laptop,GENERAL,stuck,negative,EAEO
+eventually got to the point that even when i reinstalled windows it was so slow that there are clearly serious build defects / instabilities on this product .,product,QUALITY,slow,negative,EAEO
+when it is functioning it works great .,implicit,OPERATION_PERFORMANCE,great,negative,IAEO
+finding out you bought garbage for the steep price of $ 700 + .,implicit,GENERAL,garbage,negative,IAEO
+"overall a decent laptop if not for these problems , also , the laptop has minor screen freezes even while playing low graphical games like league of legends .",laptop,GENERAL,decent,positive,EAEO
+"overall a decent laptop if not for these problems , also , the laptop has minor screen freezes even while playing low graphical games like league of legends .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+laptop malfunctioned and stopped working after only 3 months .,laptop,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"it does have a nice screen that is very bright , decent viewing angle and ok for contrast .",screen,GENERAL,nice,positive,EAEO
+"it does have a nice screen that is very bright , decent viewing angle and ok for contrast .",screen,GENERAL,bright,positive,EAEO
+"it does have a nice screen that is very bright , decent viewing angle and ok for contrast .",screen,GENERAL,decent,positive,EAEO
+"it does have a nice screen that is very bright , decent viewing angle and ok for contrast .",screen,GENERAL,ok,positive,EAEO
+the keyboard is very nice and very responsive .,keyboard,OPERATION_PERFORMANCE,nice,positive,EAEO
+the keyboard is very nice and very responsive .,keyboard,OPERATION_PERFORMANCE,responsive,positive,EAEO
+"i love the fast bootup time with the optane memory , a nice alternative to a very expensive ssd .",bootup,OPERATION_PERFORMANCE,love,positive,EAEO
+"i love the fast bootup time with the optane memory , a nice alternative to a very expensive ssd .",optane,OPERATION_PERFORMANCE,love,positive,EAEO
+the charge doesn ' t last like the five hours it stated but instead last three hours .,charge,OPERATION_PERFORMANCE,implicit,negative,EAIO
+had it for a month and it ' s riddled with problems .,implicit,GENERAL,implicit,negative,IAIO
+"as others have said , the only downside is the slow 5400 rpm 1 tb hard drive .",hard,OPERATION_PERFORMANCE,slow,negative,EAEO
+"+ very good ips matte fhd panel , zero reflections , almost zero light bleed , average brightness .",ips,DESIGN_FEATURES,good,positive,EAEO
+"used as bought , it is an ok laptop , but not great ( probably a 3 star value ) .",laptop,GENERAL,ok,neutral,EAEO
+"used as bought , it is an ok laptop , but not great ( probably a 3 star value ) .",laptop,GENERAL,not,neutral,EAEO
+- no ethernet port ( not that i ' ve used or needed one that i can recall ),ethernet,DESIGN_FEATURES,implicit,negative,EAIO
+no backlit keyboard .,keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+it has plenty of power for most tasks .,power,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"the only weak point of the laptop is the hard drive it come with , but luckily this laptop is extendable - 2 ram slots and one m .",implicit,DESIGN_FEATURES,luckily,positive,IAEO
+"the only weak point of the laptop is the hard drive it come with , but luckily this laptop is extendable - 2 ram slots and one m .",implicit,DESIGN_FEATURES,extendable,positive,IAEO
+"i paid $ 500 for a 15 ` ` notebook with 8gb ram , latest i5 - 8250u cpu with reasonable weight and its quite extendable , i am happy for this deal .",weight,DESIGN_FEATURES,reasonable,positive,EAEO
+"i paid $ 500 for a 15 ` ` notebook with 8gb ram , latest i5 - 8250u cpu with reasonable weight and its quite extendable , i am happy for this deal .",implicit,DESIGN_FEATURES,extendable,positive,IAEO
+"i paid $ 500 for a 15 ` ` notebook with 8gb ram , latest i5 - 8250u cpu with reasonable weight and its quite extendable , i am happy for this deal .",implicit,DESIGN_FEATURES,happy,positive,IAEO
+"also , i ' m not a fan of the delete and power button being next to each other , now i see what the other people are complaining about accidentally shutting it off .",delete,DESIGN_FEATURES,complaining,negative,EAEO
+haven ' t had any issues yet so pretty glad i chose this .,implicit,OPERATION_PERFORMANCE,glad,positive,IAEO
+very nice looking laptop for the money .,laptop,DESIGN_FEATURES,nice,positive,EAEO
+very nice looking laptop for the money .,laptop,PRICE,implicit,positive,EAIO
+"features windows 10 , sharp display , and card slot for m .",windows,GENERAL,implicit,positive,EAIO
+"features windows 10 , sharp display , and card slot for m .",display,OPERATION_PERFORMANCE,sharp,positive,EAEO
+"features windows 10 , sharp display , and card slot for m .",card,GENERAL,implicit,positive,EAIO
+great quality computer .,computer,QUALITY,great,positive,EAEO
+"like the flip , this has good build quality .",flip,GENERAL,like,positive,EAEO
+"like the flip , this has good build quality .",build,QUALITY,good,positive,EAEO
+so far it has been able to handle everything i ' ve thrown at it .,implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
+"all in all , pretty good stuff .",stuff,GENERAL,good,positive,EAEO
+2 and this laptop is an epic powerhouse for under $ 700 .,laptop,GENERAL,epic,positive,EAEO
+very good laptop if you want something lightweight for everyday browsing .,laptop,DESIGN_FEATURES,good,positive,EAEO
+very good laptop if you want something lightweight for everyday browsing .,laptop,DESIGN_FEATURES,lightweight,positive,EAEO
+"excellent hardware , however i ran into some nasty trouble after updating windows 10 .",hardware,GENERAL,excellent,positive,EAEO
+"excellent hardware , however i ran into some nasty trouble after updating windows 10 .",windows,GENERAL,nasty,positive,EAEO
+"so , shortly after buying it i had to format it .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+"and just now , the computer says it is plugged in but not charging .",computer,OPERATION_PERFORMANCE,implicit,negative,EAIO
+the fingerprint reader works most of the time .,fingerprint,OPERATION_PERFORMANCE,implicit,positive,EAIO
+the sound is fine for me but not as good as external speakers .,sound,OPERATION_PERFORMANCE,fine,positive,EAEO
+the sound is fine for me but not as good as external speakers .,external,OPERATION_PERFORMANCE,good,positive,EAEO
+not that this machine boots up slow .,machine,OPERATION_PERFORMANCE,slow,negative,EAEO
+not that this machine boots up slow .,boots,OPERATION_PERFORMANCE,slow,negative,EAEO
+great value for a laptop .,laptop,GENERAL,great,positive,EAEO
+love the 15 inch screen in the body of a 14 inch body .,15,GENERAL,love,positive,EAEO
+cheaply made plastic but performance is well worth the trade for a $ 500 laptop .,implicit,QUALITY,cheaply,negative,IAEO
+cheaply made plastic but performance is well worth the trade for a $ 500 laptop .,implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+cheaply made plastic but performance is well worth the trade for a $ 500 laptop .,implicit,OPERATION_PERFORMANCE,worth,positive,IAEO
+touchpad works well .,touchpad,DESIGN_FEATURES,well,positive,EAEO
+the speakers are mediocre and don ' t put out too much volume and are sensitive to position .,speakers,OPERATION_PERFORMANCE,mediocre,neutral,EAEO
+"i do like the screen on this , images are clean and crisp , enjoying the 4 gigs of ram which allow me to have a few more tab open .",screen,GENERAL,like,positive,EAEO
+"i do like the screen on this , images are clean and crisp , enjoying the 4 gigs of ram which allow me to have a few more tab open .",screen,GENERAL,clean,positive,EAEO
+"i do like the screen on this , images are clean and crisp , enjoying the 4 gigs of ram which allow me to have a few more tab open .",screen,GENERAL,crisp,positive,EAEO
+"i do like the screen on this , images are clean and crisp , enjoying the 4 gigs of ram which allow me to have a few more tab open .",ram,GENERAL,enjoying,positive,EAEO
+"i like how it ' s so simple , without so much clutter and complexity .",implicit,DESIGN_FEATURES,simple,positive,IAEO
+i ' m still keeping this as a backup or additional laptop because of its cheap price .,laptop,PRICE,cheap,positive,EAEO
+"anyways , i really would of liked to have kept the chromebook as it was the perfect weight , size , and design for my upcoming college semester .",chromebook,DESIGN_FEATURES,perfect,positive,EAEO
+"laptop would never power on , even after being charged for 24 hours .",laptop,GENERAL,implicit,negative,EAIO
+i want to love this laptop because it is so lightweight and sleek .,laptop,DESIGN_FEATURES,love,positive,EAEO
+i want to love this laptop because it is so lightweight and sleek .,laptop,DESIGN_FEATURES,lightweight,positive,EAEO
+i want to love this laptop because it is so lightweight and sleek .,laptop,DESIGN_FEATURES,sleek,positive,EAEO
+it ' s decent .,implicit,GENERAL,decent,positive,IAEO
+ssd hardware issue,ssd,QUALITY,implicit,negative,EAIO
+"note : support for amazon is making it good and immediately sent me the return label , bought through third party but i will get my money back , thank god for amazon customer service",support,QUALITY,good,positive,EAEO
+"note : support for amazon is making it good and immediately sent me the return label , bought through third party but i will get my money back , thank god for amazon customer service",amazon,QUALITY,good,positive,EAEO
+the return procedure is so elaborate that i may decide to just write this purchase up as one big mistake .,return,GENERAL,elaborate,negative,EAEO
+daughter opened it for christmas and it doesn ' t stay on .,implicit,GENERAL,implicit,negative,IAIO
+they keyboard felt responsive and was a good size .,keyboard,OPERATION_PERFORMANCE,responsive,positive,EAEO
+they keyboard felt responsive and was a good size .,keyboard,DESIGN_FEATURES,good,positive,EAEO
+i am very close to just returning it and never buying another acer product ever again .,acer,GENERAL,implicit,negative,EAIO
+i will give them props for the build quality .,build,QUALITY,implicit,negative,EAIO
+combine these items together and this item became very frustrating .,implicit,GENERAL,frustrating,negative,IAEO
+- exceptional keyboard and touchpad feel,keyboard,GENERAL,exceptional,positive,EAEO
+- exceptional keyboard and touchpad feel,touchpad,OPERATION_PERFORMANCE,exceptional,positive,EAEO
+"- below average screen brightness about 200 nits , average is 250 - 275 .",screen,DESIGN_FEATURES,below,negative,EAEO
+as you can see from the reviews it worked out fine for most people .,implicit,GENERAL,fine,positive,IAEO
+when i sent it back to acer to repair it they simply claimed it had water damaging and couldn ' t fix it .,acer,QUALITY,implicit,negative,EAIO
+"my acer aspire e 15 worked great for a day , and then shut off by itself .",acer,GENERAL,great,positive,EAEO
+"my acer aspire e 15 worked great for a day , and then shut off by itself .",acer,GENERAL,implicit,negative,EAIO
+"by june 2018 , the keyboard stopped working , and i had to do an unplug and reboot .",keyboard,OPERATION_PERFORMANCE,implicit,negative,EAIO
+now given that without the issue they are a nice laptop .,laptop,GENERAL,nice,positive,EAEO
+good performance for the price and my intention as the support for my family was to have everyone on these with a spare to deal with ones that break down .,implicit,OPERATION_PERFORMANCE,good,positive,IAEO
+good performance for the price and my intention as the support for my family was to have everyone on these with a spare to deal with ones that break down .,implicit,PRICE,good,positive,IAEO
+"i purchased this computer because it came highly rated by consumer reports , pc magazine , and other raters .",computer,GENERAL,highly,positive,EAEO
+the reason why i ' m giving this laptop a two star is because overall i think the quality of it is good especially for the price .,laptop,QUALITY,good,positive,EAEO
+the reason why i ' m giving this laptop a two star is because overall i think the quality of it is good especially for the price .,laptop,PRICE,good,positive,EAEO
+can not remove the battery .,battery,DESIGN_FEATURES,implicit,negative,EAIO
+i too have the black screen problem .,screen,OPERATION_PERFORMANCE,implicit,negative,EAIO
+computer is fine but the speakers broke after 1 week of use .,computer,GENERAL,fine,positive,EAEO
+computer is fine but the speakers broke after 1 week of use .,speakers,QUALITY,implicit,negative,EAIO
+"the computer is good for the price , but the hdmi port is already broken .",computer,PRICE,good,positive,EAEO
+"the computer is good for the price , but the hdmi port is already broken .",hdmi,OPERATION_PERFORMANCE,implicit,negative,EAIO
+"won ' t turn on , won ' t charge , have to send it to tx to be repaired .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+"i want to insist that this is not a game laptop , as many have reviewed it as .",laptop,GENERAL,implicit,neutral,EAIO
+battery life can last me roughly 5 or 6 hours on internet usage alone with multiple tabs .,battery,OPERATION_PERFORMANCE,implicit,neutral,EAIO
+the speakers on the bottom take a moment to get used to but after that it ' s alright .,speakers,GENERAL,alright,neutral,EAEO
+"also , i hate the keyboard - it feels really cheap .",keyboard,GENERAL,hate,negative,EAEO
+"also , i hate the keyboard - it feels really cheap .",keyboard,GENERAL,cheap,negative,EAEO
+overall the laptop is cheap and flimsy .,laptop,PRICE,cheap,positive,EAEO
+overall the laptop is cheap and flimsy .,laptop,QUALITY,flimsy,negative,EAEO
+mx150 gaphics card is also pretty bad .,mx150,GENERAL,bad,negative,EAEO
+"and i genuinely believed in acer , but first i had a lot of issues setting up the computer and after hours of customer service help the touch pad did n ' t even work .",touch,QUALITY,implicit,negative,EAIO
+i took it to my local computer repair who states it has a bad board .,board,GENERAL,bad,negative,EAEO
+there ' s something wrong with my laptop .,laptop,GENERAL,wrong,negative,EAEO
+something is wrong with the power management .,power,GENERAL,wrong,negative,EAEO
+"very disappointed in the $ 600 e 15 , as opposed to the no frills , plain old , < $ 200 15 i ' ve had for 2 .",e,GENERAL,disappointed,negative,EAEO
+the trackpad stopped working after four weeks of using it .,trackpad,OPERATION_PERFORMANCE,implicit,negative,EAIO
+there is a flicker in the middle of the screen that is very annoying .,screen,DESIGN_FEATURES,annoying,negative,EAEO
+the computer runs decent but the keypad turns off every time the computer sleeps .,keypad,DESIGN_FEATURES,implicit,negative,EAIO
+"otherwise , so far it is working well .",implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+i presented my son with a gift of a defective machine .,machine,GENERAL,defective,negative,EAEO
+"the computer itself is actually quite fast with the ssd and processor , so my experience there so far has been good .",computer,OPERATION_PERFORMANCE,fast,positive,EAEO
+"the computer itself is actually quite fast with the ssd and processor , so my experience there so far has been good .",ssd,QUALITY,fast,positive,EAEO
+"the computer itself is actually quite fast with the ssd and processor , so my experience there so far has been good .",processor,QUALITY,fast,positive,EAEO
+"the computer itself is actually quite fast with the ssd and processor , so my experience there so far has been good .",computer,GENERAL,good,positive,EAEO
+keyboard and track pad shoved way left .,keyboard,OPERATION_PERFORMANCE,implicit,negative,EAIO
+keyboard and track pad shoved way left .,track,OPERATION_PERFORMANCE,implicit,negative,EAIO
+keyboard rattles loudly when typing on left side .,keyboard,OPERATION_PERFORMANCE,loudly,negative,EAEO
+"will not connect to wifi , amd screen flashes when adjusting while on .",wifi,CONNECTIVITY,implicit,negative,EAIO
+"will not connect to wifi , amd screen flashes when adjusting while on .",screen,OPERATION_PERFORMANCE,implicit,negative,EAIO
+but the speakers are absolutely horrible !,speakers,OPERATION_PERFORMANCE,horrible,negative,EAEO
+latest 8th generation core i5 cpu,8th,GENERAL,implicit,positive,EAIO
+keyboard has flex,keyboard,DESIGN_FEATURES,implicit,neutral,EAIO
+no backlight at keyboard,backlight,DESIGN_FEATURES,implicit,negative,EAIO
+no backlight at keyboard,keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+key presses are too stiff to press .,key,USABILITY,stiff,negative,EAEO
+hdd makes this laptop very slow .,hdd,DESIGN_FEATURES,slow,negative,EAEO
+hdd makes this laptop very slow .,laptop,DESIGN_FEATURES,slow,negative,EAEO
+but asus engineers designed the case and laptop not to be opened by users .,case,OPERATION_PERFORMANCE,implicit,negative,EAIO
+but asus engineers designed the case and laptop not to be opened by users .,laptop,OPERATION_PERFORMANCE,implicit,negative,EAIO
+there is no backlight and keys are too stiff .,backlight,DESIGN_FEATURES,stiff,negative,EAEO
+there is no backlight and keys are too stiff .,keys,DESIGN_FEATURES,stiff,negative,EAEO
+i believe it is not healthy to use this keyboard for a long time .,keyboard,MISCELLANEOUS,not,negative,EAEO
+linux is mostly compatible with this laptop except fingerprint reader .,fingerprint,GENERAL,implicit,negative,EAIO
+video converting process with same video file took only 25 minutes with asus vivobook f510ua .,asus,OPERATION_PERFORMANCE,implicit,positive,EAIO
+3 ) you can hear the screen creak .,screen,QUALITY,creak,negative,EAEO
+it doesn ' t support a hardwire connection .,implicit,CONNECTIVITY,implicit,neutral,IAIO
+i have installed no software on it yet it updates something every day and wants to reboot .,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+it just locked up again .,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+did i mention it sounds like a lawn mower ?,implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+"i will say i do enjoy the screen quality , the wifi is fast on this laptop .",wifi,OPERATION_PERFORMANCE,fast,positive,EAEO
+"in all , stay away .",implicit,GENERAL,implicit,negative,IAIO
+- keyboard is comfortable to use,keyboard,USABILITY,comfortable,positive,EAEO
+- finger doesn ' t side smoothly along track pad .,track,USABILITY,implicit,negative,EAIO
+horrible laptop !,laptop,GENERAL,horrible,negative,EAEO
+i had to spend over $ 160 to return it .,implicit,GENERAL,implicit,negative,IAIO
+i will never buy an other asus product .,asus,GENERAL,implicit,negative,EAIO
+"it just crashed , dead .",implicit,OPERATION_PERFORMANCE,crashed,negative,IAEO
+"it just crashed , dead .",implicit,OPERATION_PERFORMANCE,dead,negative,IAEO
+"- the screen looks pretty good , except when viewing anything dark .",screen,GENERAL,good,positive,EAEO
+- the keyboard is awful .,keyboard,GENERAL,awful,negative,EAEO
+"when i asked asus for a replacement key , they said i ' d have to ship it back to them , which would have left me without a computer for 2 weeks .",asus,GENERAL,implicit,neutral,EAIO
+don ' t buy it .,implicit,GENERAL,implicit,negative,IAIO
+after my 3rd boot up it ' s damaged .,boot,OPERATION_PERFORMANCE,damaged,negative,EAEO
+"after a month of use , disk ( c : ) runs at 100 % all the time .",implicit,OPERATION_PERFORMANCE,implicit,negative,IAIO
+everything else is very good and i am satisfied,implicit,GENERAL,good,positive,IAEO
+everything else is very good and i am satisfied,implicit,GENERAL,satisfied,positive,IAEO
+"do not buy this computer if your plan is to multitask , play an occasional game and / or play music while searching the web .",computer,GENERAL,implicit,negative,EAIO
+"this is first impression , 1st day using it",implicit,GENERAL,implicit,neutral,IAIO
+overall good laptop .,laptop,GENERAL,good,positive,EAEO
+the fingerprint scanner is half jotted and barely works .,fingerprint,OPERATION_PERFORMANCE,implicit,negative,EAIO
+one day of use and the screen turns itself off and logs you out whenever it feels to do so .,screen,OPERATION_PERFORMANCE,implicit,negative,EAIO
+finger print scanner not working whatsoever .,finger,QUALITY,implicit,negative,EAIO
+"with all the great spec hardware in this laptop , why would you put a 5400rpm hard drive in this unit ?",spec,GENERAL,great,positive,EAEO
+"with all the great spec hardware in this laptop , why would you put a 5400rpm hard drive in this unit ?",hardware,GENERAL,great,positive,EAEO
+"with all the great spec hardware in this laptop , why would you put a 5400rpm hard drive in this unit ?",hard,GENERAL,implicit,negative,EAIO
+"poor touch pad , it get stuck .",touch,GENERAL,poor,negative,EAEO
+"poor touch pad , it get stuck .",touch,GENERAL,stuck,negative,EAEO
+- the physical case is solid and of a production quality you ' d expect in machine 3 - 5x the price of this machine,production,QUALITY,implicit,positive,EAIO
+"- user interfaces that are tight , responsive",user,OPERATION_PERFORMANCE,tight,positive,EAEO
+"- user interfaces that are tight , responsive",user,OPERATION_PERFORMANCE,responsive,positive,EAEO
+"all and all , it ' s a light weight , but very robust development stack , that also has the added convenience of cloud9 ' s collaboration features wherein multiple developers can be writing code in even the same file simultaneously .",implicit,OPERATION_PERFORMANCE,robust,positive,IAEO
+"all and all , it ' s a light weight , but very robust development stack , that also has the added convenience of cloud9 ' s collaboration features wherein multiple developers can be writing code in even the same file simultaneously .",implicit,DESIGN_FEATURES,light,positive,IAEO
+"thus far , i ' ve loaded a number of games , my password vault , several productivity apps , skype , spotify and some network scanning android apps and they ' ve all worked very well .",implicit,OPERATION_PERFORMANCE,well,positive,IAEO
+"thus far , i ' ve loaded a number of games , my password vault , several productivity apps , skype , spotify and some network scanning android apps and they ' ve all worked very well .",android,OPERATION_PERFORMANCE,well,positive,EAEO
+"mouse and trackpad settings are very minimalist , there ' s no way to modify short - cut keys , and the power management options are pretty minimal , too .",mouse,DESIGN_FEATURES,minimalist,negative,EAEO
+"mouse and trackpad settings are very minimalist , there ' s no way to modify short - cut keys , and the power management options are pretty minimal , too .",trackpad,DESIGN_FEATURES,minimalist,negative,EAEO
+"mouse and trackpad settings are very minimalist , there ' s no way to modify short - cut keys , and the power management options are pretty minimal , too .",power,DESIGN_FEATURES,minimalist,negative,EAEO
+and the google play store is chock - full of great apps and games .,google,DESIGN_FEATURES,great,positive,EAEO
+and the google play store is chock - full of great apps and games .,apps,DESIGN_FEATURES,great,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,linux,OPERATION_PERFORMANCE,seamless,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,linux,OPERATION_PERFORMANCE,smooth,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,linux,OPERATION_PERFORMANCE,effortless,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,environments,OPERATION_PERFORMANCE,seamless,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,environments,OPERATION_PERFORMANCE,smooth,positive,EAEO
+it ' s really seamless and smooth to move back and forth and makes experimenting with different linux configs and environments effortless .,environments,OPERATION_PERFORMANCE,effortless,positive,EAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",machine,GENERAL,great,positive,EAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",machine,GENERAL,',positive,EAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",implicit,GENERAL,fun,positive,IAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",implicit,GENERAL,valuable,positive,IAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",computer,GENERAL,fun,positive,EAEO
+"you won ' t be disappointed with this great little machine how ever you end up using it , and that versatility is what really makes this machine such a fun and valuable computer .",computer,GENERAL,valuable,positive,EAEO
+"for ~ $ 15 you can get a nice , fitted anti - glare screen protector that reduces the fingerprint / glare problems and gives you some piece of mind about protecting that gorgeous screen .",screen,OPERATION_PERFORMANCE,nice,positive,EAEO
+"for ~ $ 15 you can get a nice , fitted anti - glare screen protector that reduces the fingerprint / glare problems and gives you some piece of mind about protecting that gorgeous screen .",screen,OPERATION_PERFORMANCE,fitted,positive,EAEO
+"for ~ $ 15 you can get a nice , fitted anti - glare screen protector that reduces the fingerprint / glare problems and gives you some piece of mind about protecting that gorgeous screen .",implicit,GENERAL,gorgeous,positive,IAEO
+i saw this c302 was announced at ces and was immediately drawn to it since it has the intel core m3 processor .,c302,GENERAL,drawn,positive,EAEO
+i saw this c302 was announced at ces and was immediately drawn to it since it has the intel core m3 processor .,intel,GENERAL,drawn,positive,EAEO
+"apps like microsoft word , excel , etc run wonderfully .",apps,OPERATION_PERFORMANCE,wonderfully,positive,EAEO
+"apps like microsoft word , excel , etc run wonderfully .",microsoft,OPERATION_PERFORMANCE,wonderfully,positive,EAEO
+"apps like microsoft word , excel , etc run wonderfully .",excel,OPERATION_PERFORMANCE,wonderfully,positive,EAEO
+"for instance , the android youtube app doesn ' t work well at all because it ' s very inconvenient to get videos into full - screen mode .",android,OPERATION_PERFORMANCE,',negative,EAEO
+"for instance , the android youtube app doesn ' t work well at all because it ' s very inconvenient to get videos into full - screen mode .",android,OPERATION_PERFORMANCE,inconvenient,negative,EAEO
+it seems pretty fast .,implicit,OPERATION_PERFORMANCE,fast,positive,IAEO
+so i ' m very happy and relieved to see it working excellently on the c302 .,c302,OPERATION_PERFORMANCE,implicit,positive,EAIO
+so i ' m very happy and relieved to see it working excellently on the c302 .,c302,OPERATION_PERFORMANCE,excellently,positive,EAEO
+this is easily the best overall chromebook out there right now ( under $ 500 ) .,chromebook,GENERAL,best,positive,EAEO
+* battery * - battery life is great .,battery,GENERAL,great,positive,EAEO
+* battery * - battery life is great .,battery,GENERAL,great,positive,EAEO
+the backlight works great and i had no problems using it in the dark .,backlight,OPERATION_PERFORMANCE,great,positive,EAEO
+it ' s a nice smooth surface so no tension when gliding across it .,surface,DESIGN_FEATURES,nice,positive,EAEO
+it ' s a nice smooth surface so no tension when gliding across it .,surface,DESIGN_FEATURES,smooth,positive,EAEO
+multi - touch input works great .,multi,OPERATION_PERFORMANCE,great,positive,EAEO
+* build quality * - i ' m really pleased with the overall quality .,build,QUALITY,pleased,positive,EAEO
+* build quality * - i ' m really pleased with the overall quality .,implicit,QUALITY,pleased,positive,IAEO
+it ' s light enough to carry pretty much every where .,implicit,PORTABILITY,light,positive,IAEO
+"it starts up , runs without issues .",starts,OPERATION_PERFORMANCE,implicit,neutral,EAIO
+even the speakers are way better than i expected from a 2 in 1 at this price point .,speakers,GENERAL,better,positive,EAEO
+"this is finally the chromebook i ' ve been waiting for , that is not a $ 1300 pixel .",chromebook,GENERAL,implicit,positive,EAIO
+- the screen has great contrast and is glossy and sharp,screen,OPERATION_PERFORMANCE,great,positive,EAEO
+- the screen has great contrast and is glossy and sharp,screen,OPERATION_PERFORMANCE,glossy,positive,EAEO
+- the screen has great contrast and is glossy and sharp,screen,OPERATION_PERFORMANCE,sharp,positive,EAEO
+- this may be a personal preference but i did wish the screen was a tad bit brighter .,screen,DESIGN_FEATURES,brighter,negative,EAEO
+overall great chromebook .,chromebook,GENERAL,great,positive,EAEO
+this is a spectacular chromebook .,chromebook,GENERAL,spectacular,positive,EAEO
+"it ' s faster , the screen is much nicer , and it has twice the memory and four times the drive space .",implicit,OPERATION_PERFORMANCE,faster,positive,IAEO
+"it ' s faster , the screen is much nicer , and it has twice the memory and four times the drive space .",screen,DESIGN_FEATURES,nicer,positive,EAEO
+"it ' s faster , the screen is much nicer , and it has twice the memory and four times the drive space .",memory,DESIGN_FEATURES,implicit,positive,EAIO
+"it ' s faster , the screen is much nicer , and it has twice the memory and four times the drive space .",drive,DESIGN_FEATURES,implicit,positive,EAIO
+"the core m3 processor allows the c302 to be fanless , as well , adding to the sleek design .",design,DESIGN_FEATURES,sleek,positive,EAEO
+"it ' s a real timesaver , honestly .",implicit,USABILITY,implicit,positive,IAIO
+i find the display sharp and touch responsive to be quite excellent .,display,DESIGN_FEATURES,sharp,positive,EAEO
+i find the display sharp and touch responsive to be quite excellent .,touch,OPERATION_PERFORMANCE,responsive,positive,EAEO
+i find the display sharp and touch responsive to be quite excellent .,touch,OPERATION_PERFORMANCE,excellent,positive,EAEO
+at the end of the day i think it is worth the extra cost if you are looking for a premium product feel .,implicit,GENERAL,worth,positive,IAEO
+"- nice , bright screen ( touchscreen , too ! )",screen,DESIGN_FEATURES,nice,positive,EAEO
+"- nice , bright screen ( touchscreen , too ! )",screen,DESIGN_FEATURES,bright,positive,EAEO
+"- nice , bright screen ( touchscreen , too ! )",touchscreen,DESIGN_FEATURES,nice,positive,EAEO
+"- nice , bright screen ( touchscreen , too ! )",touchscreen,DESIGN_FEATURES,bright,positive,EAEO
+battery doesn ' t last nearly as long as advertised .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+this is a very cleverly designed and fast machine .,machine,DESIGN_FEATURES,cleverly,positive,EAEO
+this is a very cleverly designed and fast machine .,machine,OPERATION_PERFORMANCE,fast,positive,EAEO
+operational speed - - likely the fastest laptop i have ever used ( for basic functions ) .,laptop,OPERATION_PERFORMANCE,fastest,positive,EAEO
+edit 2 : 8 months in and everything is working great .,implicit,OPERATION_PERFORMANCE,great,positive,IAEO
+- trackpad isn ' t the best .,trackpad,OPERATION_PERFORMANCE,',neutral,EAEO
+"- the touch screen isn ' t as accurate as i wish , for cases like tapping tiny things around the edges .",touch,GENERAL,implicit,negative,EAIO
+- the screen size is an awkward 16 : 9 and provides a 1920x1080 resolution ( although the default is set to 1536x864 ) .,screen,DESIGN_FEATURES,awkward,negative,EAEO
+"for 99 % of the people looking at chromebooks right now for personal use , this asus is probably the best choice in the market .",asus,GENERAL,best,positive,EAEO
+"overall , i am extremely impressed with this chromebook and would highly recommend this to others .",chromebook,GENERAL,impressed,positive,EAEO
+"overall , i am extremely impressed with this chromebook and would highly recommend this to others .",chromebook,GENERAL,recommend,positive,EAEO
+it works well as a tablet .,tablet,OPERATION_PERFORMANCE,well,positive,EAEO
+it works great as a laptop and for the things i do which tend to be web based .,laptop,OPERATION_PERFORMANCE,great,positive,EAEO
+"nevertheless , i did have my own nitpicking issues with it but for the $ 250 price tag it launched with , it was well worth it .",implicit,PRICE,well,positive,IAEO
+"i found the display to be very vibrant , with excellent pixel density .",display,DESIGN_FEATURES,vibrant,positive,EAEO
+"i found the display to be very vibrant , with excellent pixel density .",display,DESIGN_FEATURES,excellent,positive,EAEO
+i like the dispersion of ports and feel it helps with the ergonomics of your daily usage .,ports,USABILITY,implicit,positive,EAIO
+"still , for $ 450 i ' m a huge fan of the screen and the excellent overall build quality .",screen,GENERAL,implicit,positive,EAIO
+"still , for $ 450 i ' m a huge fan of the screen and the excellent overall build quality .",build,QUALITY,excellent,positive,EAEO
+"and even with all of the new competition hitting the market with higher price points , the c302 still offers the best premium chrome os experience at a respectable price .",c302,PRICE,respectable,positive,EAEO
+"and even with all of the new competition hitting the market with higher price points , the c302 still offers the best premium chrome os experience at a respectable price .",chrome,GENERAL,best,positive,EAEO
+"and even with all of the new competition hitting the market with higher price points , the c302 still offers the best premium chrome os experience at a respectable price .",chrome,GENERAL,premium,positive,EAEO
+the screen is fantastic .,screen,GENERAL,fantastic,positive,EAEO
+the mousepad feels very comfortable to use .,mousepad,USABILITY,comfortable,positive,EAEO
+the battery performance is all it ' s cracked up to be .,battery,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"the sound is rich and plenty loud enough , but it won ' t replace your music system .",sound,OPERATION_PERFORMANCE,rich,negative,EAEO
+"the sound is rich and plenty loud enough , but it won ' t replace your music system .",sound,OPERATION_PERFORMANCE,loud,negative,EAEO
+backlit allow even guys with large hands to use this keyboard comfortably in any lighting .,backlit,DESIGN_FEATURES,comfortably,positive,EAEO
+backlit allow even guys with large hands to use this keyboard comfortably in any lighting .,keyboard,DESIGN_FEATURES,comfortably,positive,EAEO
+the trackpad and touchscreen are both excellent .,trackpad,GENERAL,excellent,positive,EAEO
+the trackpad and touchscreen are both excellent .,touchscreen,GENERAL,excellent,positive,EAEO
+the speaker sound is ok but not great .,speaker,GENERAL,ok,neutral,EAEO
+the speaker sound is ok but not great .,speaker,GENERAL,not,neutral,EAEO
+i really do love this chromebook because it provides a large amount of utility and is perfect for a university setting and environment .,chromebook,GENERAL,love,positive,EAEO
+i really do love this chromebook because it provides a large amount of utility and is perfect for a university setting and environment .,chromebook,GENERAL,perfect,positive,EAEO
+"* the usb - c ports are working well , and i bought a multiple port adapter , which gives me a regular usb port along with a hdmi port an another usb - c port for charging .",usb,OPERATION_PERFORMANCE,well,positive,EAEO
+speaker : good speakers but not the loudest .,speakers,OPERATION_PERFORMANCE,good,positive,EAEO
+speaker : good speakers but not the loudest .,implicit,OPERATION_PERFORMANCE,good,positive,IAEO
+the device is so sturdy and clean looking it is a pleasure to hold in my hands .,device,DESIGN_FEATURES,sturdy,positive,EAEO
+the device is so sturdy and clean looking it is a pleasure to hold in my hands .,device,DESIGN_FEATURES,clean,positive,EAEO
+the device is so sturdy and clean looking it is a pleasure to hold in my hands .,device,DESIGN_FEATURES,pleasure,positive,EAEO
+the touchscreen is very responsive and works great in tablet mode .,touchscreen,OPERATION_PERFORMANCE,responsive,positive,EAEO
+the touchscreen is very responsive and works great in tablet mode .,touchscreen,OPERATION_PERFORMANCE,great,positive,EAEO
+the battery life is touted as 10 hours but i find that 7 .,battery,OPERATION_PERFORMANCE,implicit,negative,EAIO
+this is a fantastic chromebook .,chromebook,GENERAL,fantastic,positive,EAEO
+- single battery charge can last 13 - 9 hours depending on wifi / video / app demand,battery,OPERATION_PERFORMANCE,implicit,positive,EAIO
+i love this chromebook .,chromebook,GENERAL,love,positive,EAEO
+i love this chromebook .,chromebook,GENERAL,love,positive,EAEO
+i love this chromebook .,chromebook,GENERAL,love,positive,EAEO
+"the touchscreen works very well , and android apps are working right now if you ' re on the beta channel for chrome os .",android,OPERATION_PERFORMANCE,implicit,positive,EAIO
+i love this chromebook !,chromebook,GENERAL,love,positive,EAEO
+/ / really love this device .,device,GENERAL,love,positive,EAEO
+i really like the keyboard .,keyboard,GENERAL,like,positive,EAEO
+the only drawback to the device so far is that it ' s not especially comfortable to use in tablet mode ; the edges of the bezel are little too ` ` sharp ` ` to comfortably rest your palms and at 2 .,edges,DESIGN_FEATURES,sharp,negative,EAEO
+"as a laptop , this is just the size i need .",laptop,DESIGN_FEATURES,implicit,positive,EAIO
+"the keyboard is often - praised , but i don ' t find it particularly spectacular .",keyboard,GENERAL,praised,positive,EAEO
+"the keyboard is often - praised , but i don ' t find it particularly spectacular .",keyboard,GENERAL,',neutral,EAEO
+"it is very light , and it seems surprisingly sturdy .",implicit,DESIGN_FEATURES,light,positive,IAEO
+"it is very light , and it seems surprisingly sturdy .",implicit,DESIGN_FEATURES,sturdy,positive,IAEO
+the battery life seems just as promised .,battery,GENERAL,implicit,neutral,EAIO
+"the keyboard is comfortable to type on , although i haven ' t done so for more than a 1 - 2 hours .",keyboard,USABILITY,comfortable,positive,EAEO
+the screen is clear and bright and the system doesn ' t lag unless i have a large number of tabs open .,screen,DESIGN_FEATURES,clear,positive,EAEO
+the screen is clear and bright and the system doesn ' t lag unless i have a large number of tabs open .,screen,DESIGN_FEATURES,bright,positive,EAEO
+the screen is clear and bright and the system doesn ' t lag unless i have a large number of tabs open .,system,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"first , use case : i write a lot for work and use a chromebook as my daily driver for notes , word processing , spreadsheets , etc .",chromebook,GENERAL,implicit,neutral,EAIO
+battery last incredibly long .,battery,OPERATION_PERFORMANCE,incredibly,positive,EAEO
+battery last incredibly long .,battery,OPERATION_PERFORMANCE,long,positive,EAEO
+it found and connected to my wireless printer also with no problems .,it,CONNECTIVITY,implicit,positive,EAIO
+this is exactly what i wanted .,implicit,GENERAL,implicit,positive,IAIO
+i now feel like this could be my main computer for work and fun .,computer,GENERAL,implicit,positive,EAIO
+give the asus flip 302 consideration .,asus,GENERAL,implicit,positive,EAIO
+its battery life is quite good and the keyboard experience is great .,battery,GENERAL,good,positive,EAEO
+its battery life is quite good and the keyboard experience is great .,keyboard,OPERATION_PERFORMANCE,great,positive,EAEO
+the plugs are good and bad .,plugs,GENERAL,good,neutral,EAEO
+i plugged in regular headphones and it was horribly low - very unenjoyable to listen to music this way .,headphones,OPERATION_PERFORMANCE,horribly,negative,EAEO
+i plugged in regular headphones and it was horribly low - very unenjoyable to listen to music this way .,headphones,OPERATION_PERFORMANCE,low,negative,EAEO
+i plugged in regular headphones and it was horribly low - very unenjoyable to listen to music this way .,headphones,OPERATION_PERFORMANCE,unenjoyable,negative,EAEO
+"nice sized keyboard , works great as a tablet ( even shuts off the keyboard in tablet mode ) .",keyboard,DESIGN_FEATURES,nice,positive,EAEO
+"nice sized keyboard , works great as a tablet ( even shuts off the keyboard in tablet mode ) .",tablet,DESIGN_FEATURES,great,positive,EAEO
+this machine is far better than anything i ' ve ever owned .,machine,GENERAL,better,positive,EAEO
+perfect size to use in bed and nice and bright .,size,DESIGN_FEATURES,perfect,positive,EAEO
+perfect size to use in bed and nice and bright .,size,DESIGN_FEATURES,nice,positive,EAEO
+perfect size to use in bed and nice and bright .,size,DESIGN_FEATURES,bright,positive,EAEO
+i don ' t think you ' ll find a better laptop at this price point .,laptop,PRICE,',positive,EAEO
+it ' s super thin and super light .,implicit,DESIGN_FEATURES,thin,positive,IAEO
+it ' s super thin and super light .,implicit,DESIGN_FEATURES,light,positive,IAEO
+"as a traveler , this fits in my backpack without all the added weight of a small 13 ` ` laptop .",implicit,PORTABILITY,implicit,positive,IAIO
+it is very light in weight but feels quite durable and strong .,implicit,DESIGN_FEATURES,light,positive,IAEO
+it is very light in weight but feels quite durable and strong .,implicit,OPERATION_PERFORMANCE,durable,positive,IAEO
+it is very light in weight but feels quite durable and strong .,implicit,OPERATION_PERFORMANCE,strong,positive,IAEO
+the picture quality is very good and the book itself is responsive and fast .,picture,QUALITY,good,positive,EAEO
+the picture quality is very good and the book itself is responsive and fast .,book,OPERATION_PERFORMANCE,responsive,positive,EAEO
+the picture quality is very good and the book itself is responsive and fast .,book,OPERATION_PERFORMANCE,fast,positive,EAEO
+i can ' t recommend the asus c302 enough .,asus,GENERAL,implicit,positive,EAIO
+the keyboard itself is probably the one physical weak point .,keyboard,DESIGN_FEATURES,weak,negative,EAEO
+the touchscreen works well .,touchscreen,OPERATION_PERFORMANCE,well,positive,EAEO
+"but , it does work and is handy .",implicit,OPERATION_PERFORMANCE,handy,positive,IAEO
+it ' s very light and sitting on the couch typing this is comfortable .,implicit,DESIGN_FEATURES,light,positive,IAEO
+it ' s very light and sitting on the couch typing this is comfortable .,implicit,USABILITY,comfortable,positive,IAEO
+sound is really low while using an aux speaker / headphone .,sound,OPERATION_PERFORMANCE,low,negative,EAEO
+sound is really low while using an aux speaker / headphone .,aux,OPERATION_PERFORMANCE,low,negative,EAEO
+spacebar doesn ' t always accept input,spacebar,OPERATION_PERFORMANCE,implicit,negative,EAIO
+this is my favorite computer of all the ones i have ever owned .,computer,GENERAL,favorite,positive,EAEO
+the battery life is stunning .,battery,GENERAL,stunning,positive,EAEO
+i ' ve just gotten started so this review may evolve over time but after several days i ' m insanely satisfied with this purchase and am going to be showing off to my friends for the foreseeable future .,purchase,GENERAL,satisfied,positive,EAEO
+this chromebook is one of the best computers i ' ve ever used .,chromebook,GENERAL,best,positive,EAEO
+this chromebook is one of the best computers i ' ve ever used .,computers,GENERAL,best,positive,EAEO
+"the asus chromebook flip 302ca is smooth , fast and incredibly well engineered and built .",asus,OPERATION_PERFORMANCE,smooth,positive,EAEO
+"the asus chromebook flip 302ca is smooth , fast and incredibly well engineered and built .",asus,OPERATION_PERFORMANCE,fast,positive,EAEO
+"the asus chromebook flip 302ca is smooth , fast and incredibly well engineered and built .",asus,DESIGN_FEATURES,incredibly,positive,EAEO
+"the asus chromebook flip 302ca is smooth , fast and incredibly well engineered and built .",asus,DESIGN_FEATURES,well,positive,EAEO
+the screen resolution is great .,screen,GENERAL,great,positive,EAEO
+the touch pad is accurate .,touch,OPERATION_PERFORMANCE,accurate,positive,EAEO
+my only gripe is that i wish there was a way to default the screen brightness as well as default the keyboard backlight to off .,screen,DESIGN_FEATURES,implicit,negative,EAIO
+my only gripe is that i wish there was a way to default the screen brightness as well as default the keyboard backlight to off .,keyboard,DESIGN_FEATURES,implicit,negative,EAIO
+at a $ 500 price tag for a chromebook i was a little hesitant to pull the trigger but at this point i am very pleased with the purchase and i believe it is worth the price .,purchase,GENERAL,pleased,positive,EAEO
+at a $ 500 price tag for a chromebook i was a little hesitant to pull the trigger but at this point i am very pleased with the purchase and i believe it is worth the price .,chromebook,PRICE,worth,positive,EAEO
+it ' s really nice to have the touchscreen when using apps and i can seamlessly transition back to using the trackpad / keyboard depending on what i ' m doing .,touchscreen,USABILITY,nice,positive,EAEO
+keyboard is comfortable and screen is sharp .,keyboard,USABILITY,comfortable,positive,EAEO
+keyboard is comfortable and screen is sharp .,screen,DESIGN_FEATURES,sharp,positive,EAEO
+its very portable and battery should last full day of normal usage .,implicit,PORTABILITY,portable,positive,IAEO
+its very portable and battery should last full day of normal usage .,battery,OPERATION_PERFORMANCE,implicit,positive,EAIO
+i truly love this chromebook .,chromebook,GENERAL,love,positive,EAEO
+"the touch screen is really accurate , and the 360 flip feature is really easy - i can switch to tablet mode anytime , although i use this much more often as a laptop .",360,DESIGN_FEATURES,easy,positive,EAEO
+"the pros definitely outweigh the cons , earning this chromebook 5 stars .",chromebook,GENERAL,implicit,positive,EAIO
+"great computer , especially for the price .",computer,GENERAL,great,positive,EAEO
+"great computer , especially for the price .",computer,PRICE,great,positive,EAEO
+- two usb - c for charging ( no more odd angles ! ),usb,GENERAL,implicit,positive,EAIO
+- price is a bit expensive for a chromebook,chromebook,PRICE,expensive,negative,EAEO
+"it ' s perfect for school , surfing the web , and watching videos .",implicit,GENERAL,perfect,positive,IAEO
+"i really love the laptop , it is exactly what i wanted and expected in the price range and i ' m super happy with it !",laptop,GENERAL,love,positive,EAEO
+"i really love the laptop , it is exactly what i wanted and expected in the price range and i ' m super happy with it !",laptop,PRICE,happy,positive,EAEO
+it feels and performs mighty solid as a laptop .,laptop,OPERATION_PERFORMANCE,solid,positive,EAEO
+the wifi connectivity is strong and consistent in my experience .,wifi,OPERATION_PERFORMANCE,strong,positive,EAEO
+the wifi connectivity is strong and consistent in my experience .,wifi,OPERATION_PERFORMANCE,consistent,positive,EAEO
+the only thing i didn ' t like is the screen isn ' t bright enough and the speakers aren ' t louder .,screen,OPERATION_PERFORMANCE,',negative,EAEO
+the only thing i didn ' t like is the screen isn ' t bright enough and the speakers aren ' t louder .,screen,OPERATION_PERFORMANCE,',negative,EAEO
+the only thing i didn ' t like is the screen isn ' t bright enough and the speakers aren ' t louder .,speakers,OPERATION_PERFORMANCE,',negative,EAEO
+"c302ca - dh54 gets the job done for work that doesn ' t require multiple cores for rendering , weight painting or ripping .",c302ca,OPERATION_PERFORMANCE,implicit,positive,EAIO
+the graphics are great .,graphics,GENERAL,great,positive,EAEO
+i ' m in college right new studying information technology and it ' s been able to do everything i ' ve needed .,implicit,OPERATION_PERFORMANCE,implicit,positive,IAIO
+it ' s a bit pricey for a chromebook but worth it right now .,implicit,PRICE,pricey,negative,IAEO
+it ' s a bit pricey for a chromebook but worth it right now .,implicit,GENERAL,worth,positive,IAEO
+"the only drawback is that it does not run the native android versions of microsoft office , and they should warn you about that .",microsoft,OPERATION_PERFORMANCE,drawback,negative,EAEO
+this has met and exceeded my expectations .,implicit,GENERAL,implicit,positive,IAIO
+"this is a small , well built product ideal for general usage .",product,DESIGN_FEATURES,small,positive,EAEO
+"this is a small , well built product ideal for general usage .",product,DESIGN_FEATURES,well,positive,EAEO
+"this is a small , well built product ideal for general usage .",product,DESIGN_FEATURES,ideal,positive,EAEO
+the screen resolution is also very good when watching movies or viewing photos .,screen,OPERATION_PERFORMANCE,good,positive,EAEO
+i would highly recommend this !,implicit,GENERAL,recommend,positive,IAEO
+i would highly recommend this !,implicit,GENERAL,recommend,positive,IAEO
+"i love the backlight , it ' s not so bright as to blind you at night time .",backlight,DESIGN_FEATURES,love,positive,EAEO
+"speaker ' s are ok but not amazing , i do like that they are mounted on the sides so they work well in laptop or tablet mode equally well .",speaker,OPERATION_PERFORMANCE,well,positive,EAEO
+"speaker ' s are ok but not amazing , i do like that they are mounted on the sides so they work well in laptop or tablet mode equally well .",speaker,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"being able to use play store apps has been a huge plus and i ' m now so comfortable with google docs , i ' very already forgotten i even owned a windows laptop .",google,USABILITY,comfortable,positive,EAEO
+but this screen is really good and the keyboard and form factor are much better .,screen,GENERAL,good,positive,EAEO
+but this screen is really good and the keyboard and form factor are much better .,keyboard,GENERAL,better,positive,EAEO
+but this screen is really good and the keyboard and form factor are much better .,form,DESIGN_FEATURES,better,positive,EAEO
+"i really enjoy the 2 - 1 aspect of the device and really like how when folded into tablet mode , there aren ' t any weird groves on the sides .",tablet,GENERAL,like,positive,EAEO
+"the computer itself is not bad , the 360 rotation and touch screen feel good .",computer,GENERAL,not,neutral,EAEO
+"the computer itself is not bad , the 360 rotation and touch screen feel good .",360,DESIGN_FEATURES,good,positive,EAEO
+"the computer itself is not bad , the 360 rotation and touch screen feel good .",touch,GENERAL,good,positive,EAEO
+battery life is amazing .,battery,OPERATION_PERFORMANCE,amazing,positive,EAEO
+very good purchase .,implicit,GENERAL,good,positive,IAEO
+"in laptop form , it ' s mediocre at best .",laptop,GENERAL,mediocre,neutral,EAEO
+"this chromebook is really one of the best you can own , in my opinion one of the best laptops in general !",chromebook,GENERAL,best,positive,EAEO
+"this chromebook is really one of the best you can own , in my opinion one of the best laptops in general !",laptops,GENERAL,implicit,positive,EAIO
+the battery life is great and i love the touchscreen / flip feature .,battery,GENERAL,great,positive,EAEO
+the battery life is great and i love the touchscreen / flip feature .,implicit,GENERAL,love,positive,IAEO
+audio quest dragonfly is automatically detected and runs perfectly when attached to one of the usb - c ports .,usb,OPERATION_PERFORMANCE,perfectly,positive,EAEO
+the keyboard is backlit and big enough for my fingers .,keyboard,DESIGN_FEATURES,implicit,positive,EAIO
+"i love everything about this laptop , the keyboard , screen resolution , and speed .",laptop,GENERAL,love,positive,EAEO
+"i love everything about this laptop , the keyboard , screen resolution , and speed .",keyboard,GENERAL,love,positive,EAEO
+"i love everything about this laptop , the keyboard , screen resolution , and speed .",screen,GENERAL,love,positive,EAEO
+"the battery lasts at least 8 - 9 hours using it to type notes and simple web browsing , making it perfect for students .",battery,OPERATION_PERFORMANCE,perfect,positive,EAEO
+"it is quick , battery lasts a long time and certainly does what i need it to do ( which is web surfing multiple pages at the same time while having a few ms documents open ) .",implicit,OPERATION_PERFORMANCE,quick,positive,IAEO
+"it is quick , battery lasts a long time and certainly does what i need it to do ( which is web surfing multiple pages at the same time while having a few ms documents open ) .",battery,OPERATION_PERFORMANCE,implicit,positive,EAIO
+"it ' s a clean , mean , lean , machine .",machine,DESIGN_FEATURES,clean,positive,EAEO
+"it ' s a clean , mean , lean , machine .",machine,DESIGN_FEATURES,mean,positive,EAEO
+"it ' s a clean , mean , lean , machine .",machine,DESIGN_FEATURES,clean,positive,EAEO
+the switch has been awesome .,switch,GENERAL,awesome,positive,EAEO
+the backlit keyboard is awesome at night .,backlit,DESIGN_FEATURES,awesome,positive,EAEO
+keyboard was a little confusing .,keyboard,GENERAL,confusing,negative,EAEO
+screen display is bright and has excellent graphics .,screen,OPERATION_PERFORMANCE,bright,positive,EAEO
+screen display is bright and has excellent graphics .,graphics,GENERAL,excellent,positive,EAEO
