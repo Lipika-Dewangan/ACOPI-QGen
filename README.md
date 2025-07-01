@@ -20,7 +20,7 @@ Traditional ABSA methods often focus on extracting pairs, triplets, or quadruple
 ACOPI-QGen consists of the following key components:
 
 - **BERT Encoder**: Encodes contextual token representations.
-- **Supervised Contrastive Learning (SCL)**: Four projection heads for aspect, opinion, sentiment, and implicitness roles to enhance semantic separation.
+- **Supervised Contrastive Implicit Learning (SCIL)**: Four projection heads for aspect, opinion, sentiment, and implicitness roles to enhance semantic separation.
 - **Relational Graph Attention Network (RGAT)**: Injects syntactic relational bias using a Surrogate Aspect-Opinion Dependency Tree (SAODT).
 - **Non-Autoregressive Decoder**: Decodes complete sentiment quintuples in parallel, avoiding the limitations of sequential decoding.
 
