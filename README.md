@@ -34,7 +34,7 @@ ACOPI-QGen consists of the following key components:
 - Shoes-ACOPI 
 
 Synthetic implicit samples were added using Large Language Models (LLMs) like **GPT-4o** and **LLaMA-3-70B** to improve class balance and diversity.
-
+ 📌 Note: The full annotated datasets will be made publicly available upon acceptance of the paper.
 ---
 
 ## 📊 Performance Summary
